@@ -1,0 +1,844 @@
+"","OCC_CODE","OCC_TITLE","max_State","max_Wage","min_State","min_Wage","max_adj_State","max_adj_Wage","min_adj_State","min_adj_Wage"
+"1","00-0000","All Occupations","District of Columbia",66040,"Mississippi",29000,"District of Columbia",55916.068,"Florida",32099.471
+"2","11-0000","Management Occupations","District of Columbia",130170,"Mississippi",68190,"Delaware",118612.004,"Hawaii",68204.892
+"3","11-1011","Chief Executives","District of Columbia",186370,"Mississippi",96680,"Georgia",197160.06,"Idaho",103847.193
+"4","11-1021","General and Operations Managers","New Jersey",140770,"Idaho",65920,"New Jersey",122948.518,"Idaho",70580.544
+"5","11-1031","Legislators","New York",87430,"Arkansas",17530,"New York",75565.749,"New Hampshire",16949.198
+"6","11-2011","Advertising and Promotions Managers","New York",172970,"West Virginia",47290,"New York",149497.971,"West Virginia",53196.521
+"7","11-2021","Marketing Managers","New York",174810,"Mississippi",74730,"New York",151088.283,"Hawaii",74583.582
+"8","11-2022","Sales Managers","New York",172650,"Hawaii",67950,"Delaware",150105.13,"Hawaii",58178.79
+"9","11-2031","Public Relations and Fundraising Managers","New York",140740,"Mississippi",61970,"Delaware",133529.284,"Hawaii",69026.844
+"10","11-3011","Administrative Services Managers","New Jersey",112320,"Mississippi",57670,"Florida",101666.825,"Hawaii",55327.644
+"11","11-3021","Computer and Information Systems Managers","California",153810,"Mississippi",79920,"Virginia",148008.195,"Hawaii",85149.09
+"12","11-3031","Financial Managers","New York",165630,"Mississippi",79630,"New York",143154.009,"Hawaii",75234.294
+"13","11-3051","Industrial Production Managers","Wyoming",117530,"Hawaii",73550,"Wyoming",122172.435,"Hawaii",62973.51
+"14","11-3061","Purchasing Managers","Delaware",140880,"Idaho",74360,"Delaware",138259.632,"Hawaii",77263.488
+"15","11-3071","Transportation, Storage, and Distribution Managers","Delaware",130320,"Idaho",61280,"Delaware",127896.048,"Idaho",65612.496
+"16","11-3111","Compensation and Benefits Managers","Colorado",137690,"Mississippi",57850,"North Carolina",135309.24,"Mississippi",66724.19
+"17","11-3121","Human Resources Managers","District of Columbia",144080,"Mississippi",71520,"Rhode Island",126710.792,"Hawaii",70071.408
+"18","11-3131","Training and Development Managers","New Jersey",124510,"Arkansas",66190,"North Carolina",125516.55,"Idaho",73096.689
+"19","11-9021","Construction Managers","New Jersey",124140,"Mississippi",60090,"Rhode Island",114167.376,"Mississippi",69307.806
+"20","11-9031","Education Administrators, Preschool and Childcare Center/Program","District of Columbia",60330,"Iowa",36360,"South Dakota",61297.416,"Oregon",37585.821
+"21","11-9032","Education Administrators, Elementary and Secondary School","Connecticut",128200,"North Carolina",63720,"Connecticut",117828.62,"North Carolina",69486.66
+"22","11-9033","Education Administrators, Postsecondary","Delaware",122630,"Kentucky",65530,"Delaware",120349.082,"Connecticut",70936.138
+"23","11-9039","Education Administrators, All Other","Connecticut",104530,"Idaho",38570,"Alabama",104115.99,"Idaho",41296.899
+"24","11-9041","Architectural and Engineering Managers","California",155650,"Kentucky",106310,"Texas",156770.688,"Hawaii",93531.288
+"25","11-9051","Food Service Managers","Rhode Island",69300,"Idaho",33380,"Rhode Island",70214.76,"Idaho",35739.966
+"26","11-9061","Funeral Service Managers","New York",113140,"Mississippi",47640,"Pennsylvania",100445.112,"New Hampshire",47273.338
+"27","11-9081","Lodging Managers","Rhode Island",80220,"Montana",31870,"Rhode Island",81278.904,"Montana",33833.192
+"28","11-9111","Medical and Health Services Managers","District of Columbia",121620,"Iowa",73940,"South Dakota",109753.512,"Iowa",81881.156
+"29","11-9121","Natural Sciences Managers","Delaware",176030,"Indiana",55360,"Delaware",172755.842,"Indiana",60569.376
+"30","11-9131","Postmasters and Mail Superintendents","Florida",79640,"Alaska",43520,"Mississippi",86274.32,"Alaska",41174.272
+"31","11-9141","Property, Real Estate, and Community Association Managers","New York",89210,"Idaho",29250,"New York",77104.203,"Idaho",31317.975
+"32","11-9151","Social and Community Service Managers","District of Columbia",88870,"Mississippi",40930,"Alaska",75706.922,"Mississippi",47208.662
+"33","11-9161","Emergency Management Directors","District of Columbia",138870,"Arkansas",37900,"District of Columbia",117581.229,"Indiana",42396.375
+"34","11-9199","Managers, All Other","District of Columbia",128790,"Indiana",60050,"North Carolina",121939.71,"Indiana",65700.705
+"35","13-0000","Business and Financial Operations Occupations","District of Columbia",89130,"Mississippi",52410,"District of Columbia",75466.371,"Hawaii",51175.074
+"36","13-1021","Buyers and Purchasing Agents, Farm Products","Massachusetts",72820,"Rhode Island",32900,"South Dakota",74956.944,"Hawaii",30694.77
+"37","13-1022","Wholesale and Retail Buyers, Except Farm Products","New Jersey",66530,"Montana",36990,"Ohio",60536.388,"Hawaii",36294.318
+"38","13-1023","Purchasing Agents, Except Wholesale, Retail, and Farm Products","District of Columbia",90830,"Montana",48310,"District of Columbia",76905.761,"Hawaii",51175.074
+"39","13-1031","Claims Adjusters, Examiners, and Investigators","District of Columbia",78920,"Montana",40270,"Mississippi",77127.858,"Montana",42750.632
+"40","13-1032","Insurance Appraisers, Auto Damage","New Jersey",71960,"New Mexico",46930,"Alabama",79023.82,"New Mexico",49398.518
+"41","13-1041","Compliance Officers","District of Columbia",83880,"Oklahoma",46000,"Massachusetts",73267.439,"Oklahoma",51055.4
+"42","13-1051","Cost Estimators","Alaska",82790,"South Dakota",49930,"Alaska",78327.619,"Hawaii",52570.68
+"43","13-1071","Human Resources Specialists","District of Columbia",90820,"Mississippi",43480,"District of Columbia",76897.294,"Hawaii",49060.26
+"44","13-1075","Labor Relations Specialists","Alaska",99800,"Wisconsin",19160,"Alaska",94420.78,"Wisconsin",20514.612
+"45","13-1081","Logisticians","District of Columbia",101140,"Iowa",58080,"Alabama",96632.76,"Vermont",59789.931
+"46","13-1111","Management Analysts","Washington",95280,"Arkansas",50920,"Virginia",92528.271,"Arkansas",58196.468
+"47","13-1121","Meeting, Convention, and Event Planners","District of Columbia",62930,"South Dakota",30630,"Connecticut",55302.247,"South Dakota",34807.932
+"48","13-1131","Fundraisers","District of Columbia",68200,"Mississippi",40960,"Minnesota",63473.97,"Oklahoma",45716.781
+"49","13-1141","Compensation, Benefits, and Job Analysis Specialists","District of Columbia",76500,"Arkansas",41360,"Rhode Island",69029.316,"Hawaii",40840.74
+"50","13-1151","Training and Development Specialists","District of Columbia",75080,"West Virginia",43390,"Rhode Island",73730.564,"Hawaii",47784.522
+"51","13-1161","Market Research Analysts and Marketing Specialists","Delaware",73040,"West Virginia",42250,"Delaware",71681.456,"Hawaii",44265.54
+"52","13-1199","Business Operations Specialists, All Other","District of Columbia",90830,"Louisiana",49430,"Alabama",86848.75,"Louisiana",54081.363
+"53","13-2011","Accountants and Auditors","District of Columbia",87230,"Mississippi",51530,"Rhode Island",75169.308,"Hawaii",47938.638
+"54","13-2021","Appraisers and Assessors of Real Estate","District of Columbia",92880,"Arkansas",35800,"District of Columbia",78641.496,"Indiana",39912.768
+"55","13-2031","Budget Analysts","District of Columbia",93860,"Kentucky",52080,"Alabama",85436.39,"Vermont",57863.136
+"56","13-2041","Credit Analysts","District of Columbia",109340,"Utah",41840,"District of Columbia",92578.178,"Utah",43132.856
+"57","13-2051","Financial Analysts","New York",100070,"West Virginia",56050,"Alaska",91535.175,"Hawaii",55019.412
+"58","13-2052","Personal Financial Advisors","New York",126570,"West Virginia",43400,"New York",109394.451,"West Virginia",48820.66
+"59","13-2053","Insurance Underwriters","New Jersey",82340,"South Carolina",47790,"South Dakota",82434.456,"Hawaii",49685.286
+"60","13-2061","Financial Examiners","District of Columbia",155160,"New Mexico",56430,"District of Columbia",131373.972,"Alaska",55091.403
+"61","13-2071","Credit Counselors","Colorado",58060,"Utah",28190,"Colorado",56922.024,"Utah",29061.071
+"62","13-2072","Loan Officers","District of Columbia",86830,"West Virginia",44150,"Nebraska",76747.214,"Hawaii",46851.264
+"63","13-2081","Tax Examiners and Collectors, and Revenue Agents","Connecticut",81620,"West Virginia",34810,"Connecticut",75016.942,"Florida",36529.42
+"64","13-2082","Tax Preparers","Vermont",52290,"Arkansas",19700,"North Dakota",54929.154,"Arkansas",22515.13
+"65","13-2099","Financial Specialists, All Other","District of Columbia",91650,"Arkansas",42090,"Alabama",82623.06,"New Mexico",47103.85
+"66","15-0000","Computer and Mathematical Occupations","Washington",102190,"Montana",56280,"Washington",98449.846,"Montana",59746.848
+"67","15-1111","Computer and Information Research Scientists","New Hampshire",137920,"Louisiana",70790,"Oregon",132555.423,"Louisiana",77451.339
+"68","15-1121","Computer Systems Analysts","District of Columbia",99350,"West Virginia",61580,"Missouri",97575.478,"Hawaii",61740.582
+"69","15-1122","Information Security Analysts","District of Columbia",111490,"Montana",57810,"New Mexico",108365.17,"Montana",61371.096
+"70","15-1131","Computer Programmers","Washington",119540,"South Dakota",50060,"Washington",115164.836,"North Dakota",56502.93
+"71","15-1132","Software Developers, Applications","California",119740,"Wyoming",62880,"Washington",114018.39,"Wyoming",65363.76
+"72","15-1133","Software Developers, Systems Software","California",124150,"North Dakota",63000,"North Carolina",116628.975,"North Dakota",68852.7
+"73","15-1134","Web Developers","Washington",81230,"Idaho",38150,"Rhode Island",80052.932,"Idaho",40847.205
+"74","15-1141","Database Administrators","New Jersey",105640,"Wyoming",56340,"Colorado",94892.916,"Hawaii",58367.154
+"75","15-1142","Network and Computer Systems Administrators","Maryland",95360,"West Virginia",57430,"Virginia",87771.735,"Hawaii",61072.746
+"76","15-1143","Computer Network Architects","California",126410,"Montana",62840,"Georgia",118059.07,"Vermont",65866.746
+"77","15-1151","Computer User Support Specialists","District of Columbia",60470,"South Dakota",36760,"Massachusetts",55013.604,"Hawaii",40181.466
+"78","15-1152","Computer Network Support Specialists","District of Columbia",86470,"Louisiana",40880,"Massachusetts",73528.875,"Louisiana",44726.808
+"79","15-1199","Computer Occupations, All Other","District of Columbia",115030,"Wisconsin",64090,"Alabama",98614.62,"Nevada",65831.52
+"80","15-2011","Actuaries","Kansas",149760,"Utah",50910,"Kansas",165110.4,"Utah",52483.119
+"81","15-2031","Operations Research Analysts","District of Columbia",110640,"Louisiana",46820,"Alabama",106223.14,"Hawaii",50618.544
+"82","15-2041","Statisticians","New Jersey",107940,"Montana",43850,"North Carolina",104720.715,"Montana",46551.16
+"83","17-0000","Architecture and Engineering Occupations","District of Columbia",99920,"South Dakota",60580,"Alabama",92828.5,"Vermont",63011.137
+"84","17-1011","Architects, Except Landscape and Naval","Alaska",88090,"Kentucky",57720,"Georgia",89720.98,"Idaho",62336.154
+"85","17-1012","Landscape Architects","District of Columbia",89300,"Louisiana",38020,"Tennessee",89375.332,"Louisiana",41597.682
+"86","17-1021","Cartographers and Photogrammetrists","Nevada",79930,"New Hampshire",46210,"Nevada",81808.355,"New Hampshire",43927.226
+"87","17-1022","Surveyors","District of Columbia",87570,"South Carolina",38270,"Alaska",80815.862,"South Carolina",42288.35
+"88","17-2011","Aerospace Engineers","District of Columbia",132350,"Indiana",75600,"Alabama",125597.53,"Oregon",82434.261
+"89","17-2031","Biomedical Engineers","New Mexico",99960,"Idaho",56510,"New Mexico",105217.896,"District of Columbia",59133.528
+"90","17-2041","Chemical Engineers","Delaware",120310,"Florida",74640,"New Mexico",122270.016,"Florida",75319.224
+"91","17-2051","Civil Engineers","Alaska",103640,"South Dakota",67840,"Alaska",98053.804,"Hawaii",67126.08
+"92","17-2061","Computer Hardware Engineers","California",129990,"Arkansas",69880,"Alabama",124515.48,"Hawaii",60601.836
+"93","17-2071","Electrical Engineers","California",114150,"Montana",74040,"Alaska",106871.456,"Hawaii",73479.084
+"94","17-2072","Electronics Engineers, Except Computer","Rhode Island",118600,"North Dakota",67840,"Rhode Island",120165.52,"North Dakota",74142.336
+"95","17-2081","Environmental Engineers","Alaska",107400,"Florida",62200,"New Mexico",110375.636,"Florida",62766.02
+"96","17-2111","Health and Safety Engineers, Except Mining Safety Engineers and Inspectors","Alaska",130250,"Montana",39690,"Alaska",123229.525,"Montana",42134.904
+"97","17-2112","Industrial Engineers","Alaska",113850,"Florida",69630,"Alaska",107713.485,"Hawaii",66783.6
+"98","17-2131","Materials Engineers","District of Columbia",112930,"Montana",53140,"Alabama",117328.39,"Montana",56413.424
+"99","17-2141","Mechanical Engineers","Alaska",123610,"Arkansas",68480,"Alaska",116947.421,"Hawaii",68958.348
+"100","17-2151","Mining and Geological Engineers, Including Mining Safety Engineers","Texas",156890,"Virginia",61450,"Texas",162412.528,"Virginia",59895.315
+"101","17-2161","Nuclear Engineers","New Mexico",159380,"Virginia",87790,"New Mexico",167763.388,"Virginia",85568.913
+"102","17-2171","Petroleum Engineers","Texas",146140,"New Mexico",81830,"Texas",151284.128,"New Mexico",86134.258
+"103","17-2199","Engineers, All Other","District of Columbia",132360,"Arkansas",60390,"Alabama",128934.8,"Arkansas",69019.731
+"104","17-3011","Architectural and Civil Drafters","Alaska",61650,"South Dakota",37970,"Alaska",58327.065,"District of Columbia",41200.422
+"105","17-3012","Electrical and Electronics Drafters","Washington",80860,"Nebraska",47170,"Washington",77900.524,"Florida",48234.98
+"106","17-3013","Mechanical Drafters","Washington",73460,"Nevada",40330,"Washington",70771.364,"Nevada",41277.755
+"107","17-3019","Drafters, All Other","Montana",59220,"Oklahoma",34960,"Montana",62867.952,"Oklahoma",38802.104
+"108","17-3021","Aerospace Engineering and Operations Technicians","Mississippi",84220,"Pennsylvania",47690,"Mississippi",97139.348,"Pennsylvania",48562.727
+"109","17-3022","Civil Engineering Technicians","District of Columbia",69950,"Mississippi",34590,"Alaska",65564.73,"Virginia",37925.577
+"110","17-3023","Electrical and Electronics Engineering Technicians","Alaska",83150,"South Dakota",47150,"Alaska",78668.215,"Florida",50656.82
+"111","17-3024","Electro-Mechanical Technicians","Washington",87570,"South Carolina",37750,"Washington",84364.938,"Florida",38416.437
+"112","17-3025","Environmental Engineering Technicians","Maryland",66690,"Oklahoma",29250,"Ohio",64332.51,"Oklahoma",32464.575
+"113","17-3026","Industrial Engineering Technicians","Alaska",85380,"South Dakota",41090,"Alaska",80778.018,"South Dakota",46694.676
+"114","17-3027","Mechanical Engineering Technicians","Delaware",68540,"West Virginia",37550,"New Mexico",72029.418,"Wyoming",40530.105
+"115","17-3029","Engineering Technicians, Except Drafters, All Other","District of Columbia",89120,"Kentucky",38250,"Rhode Island",79293.032,"Kentucky",43123.05
+"116","17-3031","Surveying and Mapping Technicians","California",62050,"West Virginia",30220,"Nevada",58687.49,"West Virginia",33994.478
+"117","19-0000","Life, Physical, and Social Science Occupations","District of Columbia",93870,"West Virginia",45830,"District of Columbia",79479.729,"Montana",51392.056
+"118","19-1013","Soil and Plant Scientists","New Hampshire",86080,"Oklahoma",43830,"Mississippi",87831.41,"Delaware",47215.154
+"119","19-1021","Biochemists and Biophysicists","Connecticut",111860,"Idaho",38340,"Ohio",104320.568,"Idaho",41050.638
+"120","19-1022","Microbiologists","District of Columbia",114470,"West Virginia",35400,"District of Columbia",96921.749,"West Virginia",39821.46
+"121","19-1023","Zoologists and Wildlife Biologists","Connecticut",91550,"West Virginia",43170,"Connecticut",84143.605,"West Virginia",48561.933
+"122","19-1029","Biological Scientists, All Other","District of Columbia",93080,"Kentucky",58560,"Rhode Island",85676.192,"Massachusetts",55891.282
+"123","19-1031","Conservation Scientists","Alaska",86900,"Arkansas",30530,"Alabama",84491.02,"Arkansas",34892.737
+"124","19-1032","Foresters","Connecticut",79780,"West Virginia",38380,"Louisiana",77276.283,"New Mexico",42314.52
+"125","19-1041","Epidemiologists","North Carolina",98850,"West Virginia",49910,"North Carolina",107795.925,"Arizona",51896.119
+"126","19-1042","Medical Scientists, Except Epidemiologists","Connecticut",112210,"Mississippi",44290,"Connecticut",103132.211,"Mississippi",51084.086
+"127","19-1099","Life Scientists, All Other","Alabama",100010,"Colorado",46320,"Alabama",113911.39,"Colorado",45412.128
+"128","19-2012","Physicists","Oklahoma",153000,"Indiana",72150,"Oklahoma",169814.7,"New Hampshire",68908.994
+"129","19-2021","Atmospheric and Space Scientists","Maryland",108950,"Minnesota",48420,"Missouri",114007.712,"Minnesota",49611.132
+"130","19-2031","Chemists","District of Columbia",118070,"South Dakota",50900,"District of Columbia",99969.869,"Hawaii",51954.216
+"131","19-2032","Materials Scientists","Minnesota",112640,"Oklahoma",57970,"Louisiana",122615.787,"Oklahoma",64340.903
+"132","19-2041","Environmental Scientists and Specialists, Including Health","District of Columbia",107330,"Missouri",42860,"District of Columbia",90876.311,"Missouri",47943.196
+"133","19-2042","Geoscientists, Except Hydrologists and Geographers","Texas",122610,"Indiana",55710,"Texas",126925.872,"Indiana",60952.311
+"134","19-2099","Physical Scientists, All Other","District of Columbia",132070,"Nebraska",54640,"Tennessee",120283.1,"Nebraska",60311.632
+"135","19-3031","Clinical, Counseling, and School Psychologists","California",87030,"Oklahoma",46800,"North Dakota",84809.04,"Oklahoma",51943.32
+"136","19-3039","Psychologists, All Other","California",105370,"North Dakota",83450,"Iowa",110917.184,"District of Columbia",82028.296
+"137","19-3051","Urban and Regional Planners","District of Columbia",93850,"Arkansas",45530,"Nevada",85994.47,"Arkansas",52036.237
+"138","19-3091","Anthropologists and Archeologists","District of Columbia",90830,"North Dakota",35250,"Pennsylvania",83826.456,"North Dakota",38524.725
+"139","19-3093","Historians","District of Columbia",99910,"New York",29240,"District of Columbia",84593.797,"New York",25272.132
+"140","19-3099","Social Scientists and Related Workers, All Other","Virginia",102940,"Utah",25100,"Virginia",100335.618,"Utah",25875.59
+"141","19-4011","Agricultural and Food Science Technicians","New York",48080,"South Dakota",27780,"Alabama",51562.53,"South Dakota",31569.192
+"142","19-4021","Biological Technicians","Connecticut",50350,"Kentucky",24780,"Georgia",51980.34,"Hawaii",27415.524
+"143","19-4031","Chemical Technicians","North Dakota",80220,"South Dakota",34390,"North Dakota",87672.438,"New Hampshire",37510.676
+"144","19-4041","Geological and Petroleum Technicians","Alaska",68510,"Florida",33470,"North Dakota",71115.003,"Florida",33774.577
+"145","19-4051","Nuclear Technicians","New York",92490,"Louisiana",68140,"North Carolina",94928.025,"New Jersey",59653.22
+"146","19-4091","Environmental Science and Protection Technicians, Including Health","District of Columbia",78580,"South Dakota",27500,"South Carolina",74930.05,"South Dakota",31251
+"147","19-4092","Forensic Science Technicians","California",77200,"Arkansas",38910,"Nevada",74961.14,"Maine",41432.877
+"148","19-4093","Forest and Conservation Technicians","Massachusetts",49550,"Utah",28550,"Kansas",52346.7,"Utah",29432.195
+"149","19-4099","Life, Physical, and Social Science Technicians, All Other","New Mexico",70280,"Michigan",29870,"New Mexico",73976.728,"Michigan",31742.849
+"150","21-0000","Community and Social Service Occupations","District of Columbia",51620,"West Virginia",33080,"North Dakota",49716.021,"Montana",37007.376
+"151","21-1011","Substance Abuse and Behavioral Disorder Counselors","North Dakota",51200,"Mississippi",27860,"North Dakota",55956.48,"Mississippi",32133.724
+"152","21-1012","Educational, Guidance, School, and Vocational Counselors","Alaska",70010,"Idaho",37820,"Alaska",66236.461,"Idaho",40493.874
+"153","21-1013","Marriage and Family Therapists","New Jersey",74720,"South Carolina",30310,"New Jersey",65260.448,"South Carolina",33492.55
+"154","21-1014","Mental Health Counselors","Alaska",60150,"Rhode Island",29660,"Alaska",56907.915,"Rhode Island",30051.512
+"155","21-1015","Rehabilitation Counselors","Alaska",55200,"Tennessee",18750,"Alaska",52224.72,"Tennessee",20786.25
+"156","21-1019","Counselors, All Other","Texas",60270,"New Mexico",22320,"Texas",62391.504,"New Mexico",23494.032
+"157","21-1021","Child, Family, and School Social Workers","Connecticut",67970,"Mississippi",32100,"Rhode Island",63152.756,"Delaware",35644.448
+"158","21-1022","Healthcare Social Workers","California",67670,"South Dakota",38090,"Oregon",64161.552,"Arizona",41388.27
+"159","21-1023","Mental Health and Substance Abuse Social Workers","New Jersey",63050,"West Virginia",24160,"Wyoming",59792.04,"West Virginia",27177.584
+"160","21-1029","Social Workers, All Other","District of Columbia",74810,"Montana",34630,"West Virginia",81240.278,"Montana",36763.208
+"161","21-1091","Health Educators","Maryland",93860,"Mississippi",33650,"Maryland",85093.476,"Mississippi",38811.91
+"162","21-1092","Probation Officers and Correctional Treatment Specialists","California",84370,"Mississippi",28940,"Iowa",76598.858,"Mississippi",33379.396
+"163","21-1093","Social and Human Service Assistants","Connecticut",37670,"South Dakota",22990,"North Dakota",35923.623,"South Carolina",26033.8
+"164","21-1094","Community Health Workers","District of Columbia",61150,"West Virginia",22850,"District of Columbia",51775.705,"Idaho",24668.928
+"165","21-1099","Community and Social Service Specialists, All Other","New Jersey",56680,"Arkansas",26170,"Michigan",57428.308,"Arkansas",29909.693
+"166","21-2011","Clergy","District of Columbia",62560,"Montana",35430,"North Dakota",56819.871,"New York",36404.316
+"167","21-2021","Directors, Religious Activities and Education","North Carolina",79620,"Montana",26960,"North Carolina",86825.61,"Montana",28620.736
+"168","21-2099","Religious Workers, All Other","District of Columbia",70850,"Mississippi",18210,"District of Columbia",59988.695,"Alaska",18817.929
+"169","23-0000","Legal Occupations","District of Columbia",147290,"South Carolina",52980,"District of Columbia",124710.443,"Montana",57814.736
+"170","23-1011","Lawyers","District of Columbia",158690,"Montana",71670,"District of Columbia",134362.823,"Montana",76084.872
+"171","23-1021","Administrative Law Judges, Adjudicators, and Hearing Officers","Alabama",148850,"Arkansas",19390,"Alabama",169540.15,"Arkansas",22160.831
+"172","23-1022","Arbitrators, Mediators, and Conciliators","New Jersey",103370,"Oklahoma",17910,"New Jersey",90283.358,"Oklahoma",19878.309
+"173","23-1023","Judges, Magistrate Judges, and Magistrates","Connecticut",181610,"New Mexico",22940,"Nevada",170044.29,"New Mexico",24146.644
+"174","23-2011","Paralegals and Legal Assistants","District of Columbia",75120,"Arkansas",36180,"District of Columbia",63604.104,"Hawaii",38177.958
+"175","23-2091","Court Reporters","New York",97010,"Utah",17950,"Iowa",84217.77,"Utah",18504.655
+"176","23-2093","Title Examiners, Abstractors, and Searchers","District of Columbia",72360,"Iowa",31160,"District of Columbia",61267.212,"New Jersey",33145.53
+"177","23-2099","Legal Support Workers, All Other","Virginia",97260,"New Mexico",33570,"Virginia",94799.322,"New Mexico",35335.782
+"178","25-0000","Education, Training, and Library Occupations","District of Columbia",62620,"Idaho",34830,"Rhode Island",59322.86,"Idaho",37292.481
+"179","25-1011","Business Teachers, Postsecondary","Massachusetts",114220,"Idaho",51690,"Massachusetts",106647.214,"Washington",54663.316
+"180","25-1021","Computer Science Teachers, Postsecondary","California",91390,"West Virginia",47740,"Alabama",91290.85,"Vermont",49424.762
+"181","25-1022","Mathematical Science Teachers, Postsecondary","California",88430,"Colorado",45100,"Alaska",80749.635,"Colorado",44216.04
+"182","25-1031","Architecture Teachers, Postsecondary","Alabama",97130,"Montana",52440,"Alabama",110631.07,"Montana",55670.304
+"183","25-1032","Engineering Teachers, Postsecondary","Alabama",121950,"Kansas",63020,"Alabama",138901.05,"Kansas",69479.55
+"184","25-1041","Agricultural Sciences Teachers, Postsecondary","Pennsylvania",100680,"Virginia",43770,"Alabama",113603.86,"Virginia",42662.619
+"185","25-1042","Biological Science Teachers, Postsecondary","Hawaii",115670,"Vermont",43830,"North Dakota",109246.284,"Vermont",43308.423
+"186","25-1051","Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary","Indiana",110630,"Vermont",59420,"Indiana",121040.283,"Vermont",58712.902
+"187","25-1052","Chemistry Teachers, Postsecondary","California",107250,"Idaho",53970,"North Dakota",103016.754,"Washington",54374.296
+"188","25-1053","Environmental Science Teachers, Postsecondary","Michigan",109420,"Vermont",54850,"Michigan",116280.634,"Vermont",54197.285
+"189","25-1054","Physics Teachers, Postsecondary","New Hampshire",116830,"Kansas",59970,"New Hampshire",111058.598,"Washington",60318.474
+"190","25-1063","Economics Teachers, Postsecondary","New Hampshire",113450,"Vermont",51320,"Indiana",119147.49,"Vermont",50709.292
+"191","25-1064","Geography Teachers, Postsecondary","Florida",101170,"Washington",53720,"Florida",102090.647,"Washington",51753.848
+"192","25-1065","Political Science Teachers, Postsecondary","Massachusetts",106810,"Kansas",48650,"Massachusetts",99728.497,"Kansas",53636.625
+"193","25-1066","Psychology Teachers, Postsecondary","New Mexico",82790,"Montana",19150,"New Mexico",87144.754,"Montana",20329.64
+"194","25-1067","Sociology Teachers, Postsecondary","Rhode Island",138870,"Arkansas",48720,"Rhode Island",140703.084,"Tennessee",54121.852
+"195","25-1072","Nursing Instructors and Teachers, Postsecondary","New Jersey",87720,"Kansas",49770,"Oregon",86696.883,"Kansas",54871.425
+"196","25-1081","Education Teachers, Postsecondary","Alaska",79440,"Kansas",45410,"North Dakota",85235.271,"District of Columbia",48228.032
+"197","25-1082","Library Science Teachers, Postsecondary","California",100040,"Wisconsin",50510,"Florida",95026.947,"Massachusetts",51642.947
+"198","25-1111","Criminal Justice and Law Enforcement Teachers, Postsecondary","Rhode Island",96770,"Kansas",39320,"Rhode Island",98047.364,"Kansas",43350.3
+"199","25-1112","Law Teachers, Postsecondary","Maryland",145380,"Alabama",42720,"Iowa",159587.414,"Alabama",48658.08
+"200","25-1113","Social Work Teachers, Postsecondary","California",83390,"Nebraska",48690,"North Dakota",88819.983,"New York",50639.337
+"201","25-1121","Art, Drama, and Music Teachers, Postsecondary","Massachusetts",85550,"Nevada",42180,"Massachusetts",79878.035,"Nevada",43171.23
+"202","25-1122","Communications Teachers, Postsecondary","California",83320,"Colorado",47600,"Illinois",77523.51,"Colorado",46667.04
+"203","25-1123","English Language and Literature Teachers, Postsecondary","Alaska",88530,"Tennessee",39840,"Alaska",83758.233,"Colorado",43745.448
+"204","25-1124","Foreign Language and Literature Teachers, Postsecondary","California",76480,"Idaho",46820,"Maine",78540.174,"Colorado",46637.628
+"205","25-1125","History Teachers, Postsecondary","California",88350,"Kansas",47410,"Michigan",90212.603,"Kansas",52269.525
+"206","25-1126","Philosophy and Religion Teachers, Postsecondary","Massachusetts",86220,"Colorado",41210,"Louisiana",92889.09,"Colorado",40402.284
+"207","25-1191","Graduate Teaching Assistants","Nebraska",44440,"Alabama",17960,"West Virginia",49945.56,"Connecticut",18400.382
+"208","25-1192","Home Economics Teachers, Postsecondary","Alabama",82050,"Wisconsin",39530,"Alabama",93454.95,"Wisconsin",42324.771
+"209","25-1193","Recreation and Fitness Studies Teachers, Postsecondary","California",84080,"Tennessee",31480,"California",74805.976,"Tennessee",34898.728
+"210","25-1194","Vocational Education Teachers, Postsecondary","Alaska",67010,"Montana",37030,"Wisconsin",71190.843,"Wyoming",39241.125
+"211","25-1199","Postsecondary Teachers, All Other","Rhode Island",89200,"Idaho",19680,"Rhode Island",90377.44,"Idaho",21071.376
+"212","25-2011","Preschool Teachers, Except Special Education","Louisiana",39970,"Idaho",21930,"Louisiana",43731.177,"Idaho",23480.451
+"213","25-2012","Kindergarten Teachers, Except Special Education","Connecticut",71050,"South Dakota",38560,"Rhode Island",70792.284,"Hawaii",37972.47
+"214","25-2021","Elementary School Teachers, Except Special Education","Connecticut",75930,"Oklahoma",39270,"Rhode Island",72160.104,"Arizona",40765.89
+"215","25-2022","Middle School Teachers, Except Special and Career/Technical Education","Alaska",81690,"Mississippi",40170,"Alaska",77286.909,"Arizona",42736.76
+"216","25-2023","Career/Technical Education Teachers, Middle School","Alaska",85550,"Arizona",42890,"Alaska",80938.855,"Arizona",44489.797
+"217","25-2031","Secondary School Teachers, Except Special and Career/Technical Education","Alaska",78890,"Oklahoma",41280,"Alaska",74637.829,"Idaho",44819.502
+"218","25-2032","Career/Technical Education Teachers, Secondary School","Rhode Island",79120,"Maine",38300,"Rhode Island",80164.384,"Maine",39445.17
+"219","25-2051","Special Education Teachers, Preschool","Illinois",78530,"Arkansas",31410,"Illinois",77980.29,"Maine",33451.152
+"220","25-2052","Special Education Teachers, Kindergarten and Elementary School","Connecticut",78960,"Utah",36680,"Connecticut",72572.136,"Utah",37813.412
+"221","25-2053","Special Education Teachers, Middle School","New York",74560,"Utah",38330,"Rhode Island",72028.388,"Utah",39514.397
+"222","25-2054","Special Education Teachers, Secondary School","Connecticut",76930,"Utah",38690,"Rhode Island",72575.516,"Utah",39885.521
+"223","25-2059","Special Education Teachers, All Other","Virginia",76160,"Montana",30010,"Virginia",74233.152,"Montana",31858.616
+"224","25-3011","Adult Basic and Secondary Education and Literacy Teachers and Instructors","California",68590,"Mississippi",33500,"California",61024.523,"New Mexico",36104.18
+"225","25-3021","Self-Enrichment Education Teachers","District of Columbia",55850,"West Virginia",22730,"District of Columbia",47288.195,"North Dakota",25180.416
+"226","25-3097","Teachers and Instructors, All Other, Except Substitute Teachers","Rhode Island",84530,"Alabama",22180,"Rhode Island",85645.796,"Idaho",23898.024
+"227","25-3098","Substitute Teachers","Oregon",44890,"Alabama",17890,"North Dakota",46688.688,"Oklahoma",20177.982
+"228","25-4011","Archivists","District of Columbia",76390,"Kansas",30510,"Alabama",70185.18,"Kansas",33637.275
+"229","25-4012","Curators","District of Columbia",82830,"West Virginia",29760,"District of Columbia",70132.161,"West Virginia",33477.024
+"230","25-4013","Museum Technicians and Conservators","District of Columbia",65850,"Montana",27880,"District of Columbia",55755.195,"Montana",29597.408
+"231","25-4021","Librarians","District of Columbia",79990,"South Dakota",37900,"Delaware",68815.768,"Idaho",41725.179
+"232","25-4031","Library Technicians","District of Columbia",47230,"Mississippi",22320,"District of Columbia",39989.641,"New York",24226.329
+"233","25-9011","Audio-Visual and Multimedia Collections Specialists","Minnesota",63580,"Nebraska",22810,"Georgia",66883.11,"Nebraska",25177.678
+"234","25-9021","Farm and Home Management Advisors","Nebraska",87590,"Georgia",21080,"Nebraska",96681.842,"Georgia",22913.96
+"235","25-9031","Instructional Coordinators","District of Columbia",84210,"Montana",47310,"Alabama",75515.7,"Montana",50224.296
+"236","25-9041","Teacher Assistants","Alaska",38440,"Mississippi",18280,"Alaska",36368.084,"Georgia",20642.13
+"237","25-9099","Education, Training, and Library Workers, All Other","Vermont",61510,"Idaho",18190,"Vermont",60778.031,"Alaska",18259.73
+"238","27-0000","Arts, Design, Entertainment, Sports, and Media Occupations","District of Columbia",77410,"Montana",30820,"District of Columbia",65543.047,"Montana",32718.512
+"239","27-1011","Art Directors","New York",115880,"Mississippi",46390,"Missouri",118325.508,"Hawaii",47347.86
+"240","27-1012","Craft Artists","Hawaii",52270,"Oklahoma",19910,"Minnesota",49129.57,"Oklahoma",22098.109
+"241","27-1014","Multimedia Artists and Animators","California",80400,"Arkansas",34290,"Washington",74432.284,"Arkansas",39190.041
+"242","27-1019","Artists and Related Workers, All Other","District of Columbia",89120,"Iowa",24200,"Georgia",95666.87,"Iowa",26799.08
+"243","27-1021","Commercial and Industrial Designers","Michigan",79160,"South Dakota",40510,"Michigan",84123.332,"South Dakota",46035.564
+"244","27-1023","Floral Designers","Connecticut",34640,"West Virginia",18870,"Connecticut",31837.624,"West Virginia",21226.863
+"245","27-1024","Graphic Designers","District of Columbia",73650,"Mississippi",31260,"District of Columbia",62359.455,"Hawaii",34727.472
+"246","27-1025","Interior Designers","Rhode Island",72450,"Mississippi",28840,"Rhode Island",73406.34,"Mississippi",33264.056
+"247","27-1026","Merchandise Displayers and Window Trimmers","District of Columbia",49070,"West Virginia",22020,"District of Columbia",41547.569,"New Jersey",21651.586
+"248","27-2012","Producers and Directors","New York",91860,"North Dakota",33620,"California",79984.03,"New Hampshire",34611.346
+"249","27-2022","Coaches and Scouts","Hawaii",51170,"Maine",18290,"Arkansas",52447.681,"Maine",18836.871
+"250","27-2023","Umpires, Referees, and Other Sports Officials","Alaska",45600,"Utah",17750,"Kentucky",45851.358,"Massachusetts",18104.443
+"251","27-2041","Music Directors and Composers","Washington",62510,"Idaho",25070,"Ohio",66807.268,"Idaho",26842.449
+"252","27-2042","Musicians and Singers",NA,NA,NA,NA,NA,NA,NA,NA
+"253","27-3011","Radio and Television Announcers","District of Columbia",55030,"West Virginia",20100,"District of Columbia",46593.901,"Pennsylvania",22361.868
+"254","27-3012","Public Address System and Other Announcers","Massachusetts",54280,"Tennessee",18220,"Massachusetts",50681.236,"Georgia",20098.63
+"255","27-3021","Broadcast News Analysts","Oklahoma",99790,"Missouri",43190,"Oklahoma",110756.921,"Minnesota",44293.458
+"256","27-3022","Reporters and Correspondents","District of Columbia",71850,"North Dakota",19590,"District of Columbia",60835.395,"North Dakota",21409.911
+"257","27-3031","Public Relations Specialists","District of Columbia",81430,"Mississippi",36610,"District of Columbia",68946.781,"Mississippi",42225.974
+"258","27-3041","Editors","District of Columbia",74650,"North Dakota",30240,"Virginia",65178.189,"North Dakota",33049.296
+"259","27-3042","Technical Writers","California",85800,"Hawaii",42210,"Oregon",80141.334,"Hawaii",36140.202
+"260","27-3043","Writers and Authors","District of Columbia",90250,"Oklahoma",36710,"District of Columbia",76414.675,"Utah",38916.475
+"261","27-3091","Interpreters and Translators","District of Columbia",85120,"West Virginia",26430,"District of Columbia",72071.104,"West Virginia",29731.107
+"262","27-4011","Audio and Video Equipment Technicians","Nevada",56340,"Mississippi",20120,"Nevada",57663.99,"Mississippi",23206.408
+"263","27-4012","Broadcast Technicians","District of Columbia",82740,"West Virginia",22420,"District of Columbia",70055.958,"Indiana",25164.3
+"264","27-4014","Sound Engineering Technicians","Nevada",70170,"Utah",18450,"Missouri",73615.066,"Utah",19020.105
+"265","27-4021","Photographers","District of Columbia",56570,"Montana",19240,"Rhode Island",49849.44,"Montana",20425.184
+"266","27-4031","Camera Operators, Television, Video, and Motion Picture","District of Columbia",88710,"Maine",27190,"District of Columbia",75110.757,"Maine",28002.981
+"267","27-4032","Film and Video Editors","California",88170,"Oklahoma",32610,"California",78444.849,"Alaska",34570.494
+"268","27-4099","Media and Communication Equipment Workers, All Other","District of Columbia",99920,"Iowa",25680,"Maryland",90007.248,"Iowa",28438.032
+"269","29-0000","Healthcare Practitioners and Technical Occupations","California",84300,"Arkansas",49300,"Oregon",77898.912,"Louisiana",55733.454
+"270","29-1011","Chiropractors","Delaware",117600,"Arkansas",44580,"Delaware",115412.64,"Vermont",47675.825
+"271","29-1021","Dentists, General","South Carolina",186780,"District of Columbia",90090,"South Carolina",206391.9,"District of Columbia",76279.203
+"272","29-1022","Oral and Maxillofacial Surgeons","Alabama",146170,"Michigan",124090,"Alabama",166487.63,"Michigan",131870.443
+"273","29-1023","Orthodontists","Alabama",147110,"Idaho",60910,"Alabama",167558.29,"Idaho",65216.337
+"274","29-1031","Dietitians and Nutritionists","California",72800,"Mississippi",44180,"Oregon",66919.125,"Utah",46875.023
+"275","29-1041","Optometrists","Alaska",154810,"Louisiana",80610,"Alaska",146465.741,"Florida",85985.411
+"276","29-1051","Pharmacists","Alaska",141390,"Nebraska",109550,"West Virginia",140365.022,"District of Columbia",98936.895
+"277","29-1061","Anesthesiologists",NA,NA,"Mississippi",185490,NA,NA,"Mississippi",213944.166
+"278","29-1062","Family and General Practitioners","North Carolina",183400,"Oklahoma",105060,"Alabama",206739.89,"Oklahoma",116606.094
+"279","29-1063","Internists, General","Virginia",180320,"District of Columbia",62920,"Virginia",175757.904,"District of Columbia",53274.364
+"280","29-1064","Obstetricians and Gynecologists","Texas",172070,"District of Columbia",131500,"Texas",178126.864,"District of Columbia",111341.05
+"281","29-1065","Pediatricians, General","California",185440,"District of Columbia",76440,"Arkansas",207219.199,"District of Columbia",64721.748
+"282","29-1066","Psychiatrists","Nevada",182470,"Arkansas",59870,"South Carolina",199596.15,"New Mexico",64840.16
+"283","29-1067","Surgeons",NA,NA,"District of Columbia",178330,NA,NA,"District of Columbia",150992.011
+"284","29-1069","Physicians and Surgeons, All Other","Kentucky",183240,"Nebraska",133450,"Kentucky",206584.776,"District of Columbia",142762.087
+"285","29-1071","Physician Assistants","Connecticut",111480,"Mississippi",33660,"Oklahoma",114230.908,"Mississippi",38823.444
+"286","29-1081","Podiatrists","Wisconsin",177680,"Colorado",61040,"Wisconsin",190241.976,"Colorado",59843.616
+"287","29-1122","Occupational Therapists","California",91670,"South Dakota",62460,"Mississippi",96654.92,"Maine",66346.158
+"288","29-1123","Physical Therapists","Alaska",96780,"South Dakota",71690,"Mississippi",103263.902,"District of Columbia",69937.42
+"289","29-1124","Radiation Therapists","California",108720,"Nevada",61640,"California",96728.184,"Nevada",63088.54
+"290","29-1125","Recreational Therapists","California",68850,"Mississippi",30650,"California",61255.845,"Hawaii",35035.704
+"291","29-1126","Respiratory Therapists","California",79480,"Alabama",46280,"Nevada",71522.18,"Alabama",52712.92
+"292","29-1127","Speech-Language Pathologists","Connecticut",88610,"South Dakota",54620,"Alaska",82358.005,"South Dakota",62070.168
+"293","29-1128","Exercise Physiologists","California",67320,"Mississippi",35870,"Arkansas",68425.423,"Washington",35491.656
+"294","29-1131","Veterinarians","Rhode Island",125260,"Montana",66670,"Rhode Island",126913.432,"Montana",70776.872
+"295","29-1141","Registered Nurses","California",100400,"South Dakota",53420,"California",89325.88,"Iowa",59699.934
+"296","29-1151","Nurse Anesthetists","Hawaii",185550,"Alaska",116690,"North Dakota",198328.563,"Alaska",110400.409
+"297","29-1171","Nurse Practitioners","California",118000,"Oklahoma",87900,"Oregon",110908.98,"District of Columbia",85440.497
+"298","29-1181","Audiologists","District of Columbia",93470,"Kansas",52900,"Oklahoma",98603.516,"Nevada",56957.775
+"299","29-2011","Medical and Clinical Laboratory Technologists","California",83130,"New Mexico",47020,"California",73960.761,"New Mexico",49493.252
+"300","29-2012","Medical and Clinical Laboratory Technicians","Rhode Island",58330,"Idaho",30620,"Rhode Island",59099.956,"Utah",31957.9
+"301","29-2021","Dental Hygienists","District of Columbia",105570,"Alabama",44980,"Nevada",91204.085,"Alabama",51232.22
+"302","29-2031","Cardiovascular Technologists and Technicians","Alaska",85170,"West Virginia",30260,"Alaska",80579.337,"West Virginia",34039.474
+"303","29-2032","Diagnostic Medical Sonographers","California",96480,"Alabama",54660,"Oregon",88848.396,"New York",59800.917
+"304","29-2033","Nuclear Medicine Technologists","California",105260,"South Dakota",57290,"California",93649.822,"Wyoming",64573.74
+"305","29-2034","Radiologic Technologists","District of Columbia",75390,"West Virginia",45820,"Rhode Island",68016.116,"Louisiana",51367.995
+"306","29-2035","Magnetic Resonance Imaging Technologists","California",87700,"Arkansas",50700,"Nevada",86025.175,"Arkansas",57945.03
+"307","29-2041","Emergency Medical Technicians and Paramedics","District of Columbia",59790,"West Virginia",24000,"Alaska",51240.776,"New Jersey",26691.104
+"308","29-2051","Dietetic Technicians","New York",42130,"Tennessee",21040,"Ohio",41253.432,"Illinois",21111.18
+"309","29-2052","Pharmacy Technicians","Washington",41260,"West Virginia",25790,"Washington",39749.884,"New York",26024.073
+"310","29-2053","Psychiatric Technicians","California",59010,"West Virginia",19120,"California",52501.197,"West Virginia",21508.088
+"311","29-2054","Respiratory Therapy Technicians","California",67430,"Georgia",36750,"Nevada",65923.635,"Colorado",39823.848
+"312","29-2055","Surgical Technologists","Nevada",60970,"Alabama",34660,"Nevada",62402.795,"Vermont",38595.186
+"313","29-2056","Veterinary Technologists and Technicians","Alaska",43150,"Arkansas",24870,"Alaska",40824.215,"Hawaii",25831.554
+"314","29-2057","Ophthalmic Medical Technicians","Hawaii",41890,"Arkansas",28040,"Wisconsin",42560.325,"Virginia",30449.628
+"315","29-2061","Licensed Practical and Licensed Vocational Nurses","Connecticut",55740,"West Virginia",34940,"Rhode Island",56465.636,"Virginia",39221.928
+"316","29-2071","Medical Records and Health Information Technicians","New Jersey",58420,"Mississippi",28120,"New Jersey",51024.028,"New Mexico",32220.086
+"317","29-2081","Opticians, Dispensing","New Jersey",53820,"Oklahoma",25520,"Massachusetts",48468.367,"Oklahoma",28324.648
+"318","29-2091","Orthotists and Prosthetists","Louisiana",86630,"West Virginia",38800,"Louisiana",94781.883,"West Virginia",43646.12
+"319","29-2092","Hearing Aid Specialists","Maine",95910,"Montana",24590,"Maine",98777.709,"Montana",26104.744
+"320","29-2099","Health Technologists and Technicians, All Other","Wisconsin",56890,"Louisiana",29500,"Wisconsin",60912.123,"Louisiana",32275.95
+"321","29-9011","Occupational Health and Safety Specialists","District of Columbia",86550,"South Carolina",46720,"Rhode Island",86010.548,"South Carolina",51625.6
+"322","29-9012","Occupational Health and Safety Technicians","Alaska",69040,"Mississippi",34360,"Nebraska",68303.144,"Hawaii",39325.266
+"323","29-9091","Athletic Trainers","Nevada",65580,"Delaware",37200,"Nevada",67121.13,"Delaware",36508.08
+"324","29-9099","Healthcare Practitioners and Technical Workers, All Other","Maryland",87290,"Alabama",27980,"Maryland",79137.114,"Florida",30737.186
+"325","31-0000","Healthcare Support Occupations","Alaska",37210,"Mississippi",21620,"Alaska",35204.381,"New York",23379.315
+"326","31-1011","Home Health Aides","Alaska",30780,"Arkansas",17960,"North Dakota",32109.402,"Texas",19068.384
+"327","31-1013","Psychiatric Aides","New York",41880,"Mississippi",17530,"Alaska",39310.455,"Mississippi",20219.102
+"328","31-1014","Nursing Assistants","Alaska",36820,"Mississippi",20050,"Alaska",34835.402,"Louisiana",22035.174
+"329","31-1015","Orderlies","California",37150,"Louisiana",18990,"Minnesota",34272.87,"Louisiana",20776.959
+"330","31-2011","Occupational Therapy Assistants","Nevada",71990,"South Dakota",36620,"Arkansas",75477.116,"South Dakota",41614.968
+"331","31-2012","Occupational Therapy Aides","District of Columbia",40340,"Arkansas",22700,"North Dakota",40470.087,"New Jersey",23695.342
+"332","31-2021","Physical Therapist Assistants","Texas",70860,"South Dakota",35050,"Texas",73354.272,"District of Columbia",32343.94
+"333","31-2022","Physical Therapist Aides","Alaska",36860,"South Carolina",20310,"Illinois",35082.69,"Maryland",21305.1
+"334","31-9011","Massage Therapists","Alaska",80430,"Mississippi",18930,"Alaska",76094.823,"District of Columbia",19804.313
+"335","31-9091","Dental Assistants","New Hampshire",44800,"West Virginia",27750,"Minnesota",45113.138,"Hawaii",29496.09
+"336","31-9092","Medical Assistants","District of Columbia",38670,"West Virginia",25080,"Minnesota",36803.632,"West Virginia",28212.492
+"337","31-9093","Medical Equipment Preparers","California",44510,"Alabama",25420,"Nevada",42802.77,"Florida",28648.349
+"338","31-9094","Medical Transcriptionists","District of Columbia",50630,"Hawaii",27590,"District of Columbia",42868.421,"Hawaii",23622.558
+"339","31-9095","Pharmacy Aides","Alaska",38950,"Delaware",18120,"Alaska",36850.595,"Delaware",17782.968
+"340","31-9096","Veterinary Assistants and Laboratory Animal Caretakers","District of Columbia",35900,"Utah",18790,"District of Columbia",30396.53,"Utah",19370.611
+"341","31-9097","Phlebotomists","District of Columbia",38740,"Mississippi",24930,"Rhode Island",37214.836,"Utah",27061.125
+"342","31-9099","Healthcare Support Workers, All Other","Massachusetts",42260,"Alabama",27190,"Mississippi",47900.702,"Arizona",28982.162
+"343","33-0000","Protective Service Occupations","District of Columbia",52590,"Mississippi",27190,"Rhode Island",48197.924,"Mississippi",31360.946
+"344","33-1011","First-Line Supervisors of Correctional Officers","New Jersey",107630,"Georgia",36020,"New Jersey",94004.042,"Georgia",39153.74
+"345","33-1012","First-Line Supervisors of Police and Detectives","California",132010,"Mississippi",49180,"California",117449.297,"Arkansas",56276.396
+"346","33-1021","First-Line Supervisors of Fire Fighting and Prevention Workers","New Jersey",116080,"Mississippi",43170,"New Jersey",101384.272,"Mississippi",49792.278
+"347","33-1099","First-Line Supervisors of Protective Service Workers, All Other","Alaska",59340,"Iowa",35620,"Rhode Island",56941.84,"Hawaii",39196.836
+"348","33-2011","Firefighters","New Jersey",85770,"Wisconsin",28250,"New Jersey",74911.518,"Wisconsin",30247.275
+"349","33-2021","Fire Inspectors and Investigators","Washington",89230,"West Virginia",29340,"Oregon",89484.759,"West Virginia",33004.566
+"350","33-2022","Forest Fire Inspectors and Prevention Specialists","California",71440,"Mississippi",26420,"California",63560.168,"Mississippi",30472.828
+"351","33-3011","Bailiffs","Colorado",66430,"Georgia",19310,"Colorado",65127.972,"Georgia",20989.97
+"352","33-3012","Correctional Officers and Jailers","California",75880,"Mississippi",24630,"California",67510.436,"Mississippi",28408.242
+"353","33-3021","Detectives and Criminal Investigators","District of Columbia",128650,"Arkansas",41180,"Alaska",111819.559,"West Virginia",46447.121
+"354","33-3031","Fish and Game Wardens","Illinois",91540,"Georgia",35760,"Illinois",90899.22,"Massachusetts",38029.601
+"355","33-3041","Parking Enforcement Workers","Washington",53680,"Louisiana",20660,"Washington",51715.312,"Louisiana",22604.106
+"356","33-3051","Police and Sheriff's Patrol Officers","California",94890,"Mississippi",33430,"California",84423.633,"Mississippi",38558.162
+"357","33-9011","Animal Control Workers","Nevada",49690,"Maine",22360,"Nevada",50857.715,"Maine",23028.564
+"358","33-9021","Private Detectives and Investigators","Nebraska",68450,"Mississippi",25960,"Nebraska",75555.11,"New Mexico",29241.228
+"359","33-9032","Security Guards","District of Columbia",36760,"Alabama",20220,"Alaska",34504.267,"California",21877.723
+"360","33-9091","Crossing Guards","Washington",41130,"Arkansas",18330,"Wyoming",40394.97,"Arizona",19283.407
+"361","33-9092","Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers","Hawaii",36540,"Tennessee",17760,"Hawaii",31285.548,"Maryland",17044.08
+"362","33-9093","Transportation Security Screeners","Connecticut",41530,"Vermont",35830,"Kentucky",43675.476,"Hawaii",31944.822
+"363","33-9099","Protective Service Workers, All Other","North Dakota",42120,"Illinois",19540,"North Dakota",46032.948,"Illinois",19403.22
+"364","35-0000","Food Preparation and Serving Related Occupations","Vermont",23860,"Arkansas",18230,"North Dakota",23617.569,"Maryland",17814.69
+"365","35-1011","Chefs and Head Cooks","New Jersey",56730,"Tennessee",24540,"Rhode Island",53648.94,"Tennessee",27205.044
+"366","35-1012","First-Line Supervisors of Food Preparation and Serving Workers","District of Columbia",40760,"Oklahoma",24320,"Rhode Island",37224.968,"New Mexico",26378.156
+"367","35-2011","Cooks, Fast Food","North Dakota",22560,"Idaho",17730,"North Dakota",24655.824,"New York",16715.562
+"368","35-2012","Cooks, Institution and Cafeteria","Alaska",37750,"Mississippi",18300,"Alaska",35715.275,"Louisiana",20886.369
+"369","35-2014","Cooks, Restaurant","Nevada",28720,"Kentucky",19360,"Nevada",29394.92,"Iowa",21671.818
+"370","35-2015","Cooks, Short Order","Massachusetts",26300,"Oklahoma",17990,"Vermont",25848.696,"New York",17052.639
+"371","35-2019","Cooks, All Other","Alaska",35600,"North Carolina",19250,"West Virginia",34286.952,"Pennsylvania",19928.131
+"372","35-2021","Food Preparation Workers","Alaska",25250,"Louisiana",17880,"North Dakota",26688.618,"New Jersey",18000.774
+"373","35-3011","Bartenders","Hawaii",30670,"Iowa",18020,"Hawaii",26259.654,"New York",17121.783
+"374","35-3021","Combined Food Preparation and Serving Workers, Including Fast Food","Washington",22440,"Kentucky",17780,"North Dakota",22852.539,"Hawaii",16353.42
+"375","35-3022","Counter Attendants, Cafeteria, Food Concession, and Coffee Shop","North Dakota",23640,"Arkansas",17850,"North Dakota",25836.156,"New Jersey",16559.664
+"376","35-3031","Waiters and Waitresses","Vermont",27570,"Louisiana",17870,"Vermont",27241.917,"District of Columbia",16874.731
+"377","35-3041","Food Servers, Nonrestaurant","New York",29180,"Arkansas",18110,"South Dakota",26478.12,"Hawaii",16944.198
+"378","35-9011","Dining Room and Cafeteria Attendants and Bartender Helpers","Hawaii",26360,"Wisconsin",17970,"Hawaii",22569.432,"New York",16905.708
+"379","35-9021","Dishwashers","Nevada",24760,"Idaho",17900,"Nevada",25341.86,"New York",16922.994
+"380","35-9031","Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop","Massachusetts",22720,"Alabama",17820,"Vermont",22182.845,"Maryland",17261.664
+"381","35-9099","Food Preparation and Serving Related Workers, All Other","Massachusetts",36450,"Kansas",17490,"Massachusetts",34033.365,"New York",16577.274
+"382","37-0000","Building and Grounds Cleaning and Maintenance Occupations","Hawaii",32760,"Mississippi",19260,"Nevada",31288.395,"Texas",21915.184
+"383","37-1011","First-Line Supervisors of Housekeeping and Janitorial Workers","Connecticut",51170,"Mississippi",27280,"Connecticut",47030.347,"Rhode Island",31277.484
+"384","37-1012","First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers","District of Columbia",73900,"West Virginia",30740,"District of Columbia",62571.13,"West Virginia",34579.426
+"385","37-2011","Janitors and Cleaners, Except Maids and Housekeeping Cleaners","Massachusetts",32070,"Mississippi",19140,"Nevada",30264.895,"Utah",19844.825
+"386","37-2012","Maids and Housekeeping Cleaners","Hawaii",35510,"Mississippi",18020,"Nevada",33038.58,"Texas",19472.112
+"387","37-2021","Pest Control Workers","District of Columbia",53850,"West Virginia",21200,"Wyoming",55550.88,"West Virginia",23847.88
+"388","37-3011","Landscaping and Groundskeeping Workers","District of Columbia",35060,"Mississippi",21910,"Massachusetts",30644.034,"New Jersey",22402.71
+"389","37-3012","Pesticide Handlers, Sprayers, and Applicators, Vegetation","Hawaii",40140,"Mississippi",25100,"Maine",40732.545,"New York",25807.998
+"390","37-3013","Tree Trimmers and Pruners","Alaska",50820,"Florida",25980,"Montana",53939.896,"Florida",26216.418
+"391","37-3019","Grounds Maintenance Workers, All Other","Connecticut",57740,"Michigan",19570,"Pennsylvania",53827.338,"New Jersey",19450.618
+"392","39-0000","Personal Care and Service Occupations","Alaska",29450,"Arkansas",18630,"Alaska",27862.645,"Texas",19337.536
+"393","39-1011","Gaming Supervisors","New Jersey",58330,"Montana",22440,"Kansas",57484.35,"Montana",23822.304
+"394","39-1012","Slot Supervisors","Pennsylvania",49190,"Alabama",23600,"Pennsylvania",50090.177,"New Mexico",26272.896
+"395","39-1021","First-Line Supervisors of Personal Service Workers","New Jersey",46850,"West Virginia",26590,"Delaware",41994.106,"Idaho",28833.951
+"396","39-2011","Animal Trainers","Minnesota",45840,"Kansas",19120,"Minnesota",46967.664,"Kansas",21079.8
+"397","39-2021","Nonfarm Animal Caretakers","Hawaii",30380,"Arkansas",18560,"Hawaii",26011.356,"Delaware",18891.95
+"398","39-3012","Gaming and Sports Book Writers and Runners","Delaware",42110,"Oklahoma",18160,"Delaware",41326.754,"New Mexico",19325.736
+"399","39-3021","Motion Picture Projectionists","New Jersey",31860,"Iowa",17570,"Missouri",33110.56,"Connecticut",18005.169
+"400","39-3091","Amusement and Recreation Attendants","Alaska",26890,"Alabama",17890,"Alaska",25440.629,"New Jersey",16612.068
+"401","39-3093","Locker Room, Coatroom, and Dressing Room Attendants","Hawaii",28150,"Iowa",17620,"North Dakota",29475.513,"New Jersey",17249.65
+"402","39-3099","Entertainment Attendants and Related Workers, All Other","Nevada",29960,"Idaho",19080,"Nevada",30664.06,"Maryland",18032.274
+"403","39-4011","Embalmers","Connecticut",66770,"New York",29370,"Connecticut",61368.307,"New York",25384.491
+"404","39-4021","Funeral Attendants","Connecticut",37670,"Arkansas",18800,"New Hampshire",34668.382,"Arkansas",21486.52
+"405","39-4031","Morticians, Undertakers, and Funeral Directors","Delaware",78570,"Hawaii",30770,"Delaware",77108.598,"Hawaii",26345.274
+"406","39-5012","Hairdressers, Hairstylists, and Cosmetologists","New Jersey",31700,"Mississippi",19110,"South Dakota",32046.48,"New York",19636.896
+"407","39-5092","Manicurists and Pedicurists","Vermont",34340,"Nevada",18190,"Vermont",33931.354,"New York",16585.917
+"408","39-5093","Shampooers","Tennessee",31110,"Wisconsin",17510,"Tennessee",34488.546,"Hawaii",16182.18
+"409","39-5094","Skincare Specialists","Wyoming",60760,"Indiana",18570,"Wyoming",63160.02,"Hawaii",18160.002
+"410","39-6011","Baggage Porters and Bellhops","New York",31420,"Indiana",17770,"Nevada",28330.48,"Alaska",18089.432
+"411","39-6012","Concierges","New York",42940,"North Carolina",20970,"New York",37113.042,"North Carolina",22867.785
+"412","39-7011","Tour Guides and Escorts","District of Columbia",34770,"North Dakota",18420,"Wyoming",34542.585,"Maryland",18802.884
+"413","39-9011","Childcare Workers","New York",25450,"Mississippi",18140,"Colorado",23402.148,"Hawaii",16147.932
+"414","39-9021","Personal Care Aides","Alaska",31660,"Mississippi",17810,"North Dakota",32677.71,"Virginia",18139.167
+"415","39-9031","Fitness Trainers and Aerobics Instructors","New York",54900,"Arkansas",19450,"New York",47450.07,"Arkansas",22229.405
+"416","39-9032","Recreation Workers","District of Columbia",47100,"Louisiana",19270,"District of Columbia",39879.57,"New Mexico",20473.07
+"417","39-9041","Residential Advisors","Alaska",40770,"Tennessee",18800,"Alaska",38572.497,"Idaho",20621.682
+"418","39-9099","Personal Care and Service Workers, All Other","Nevada",32150,"Nebraska",18530,"Nevada",32905.525,"New Hampshire",18175.472
+"419","41-0000","Sales and Related Occupations","Washington",29860,"West Virginia",19940,"North Dakota",31071.147,"West Virginia",22430.506
+"420","41-1011","First-Line Supervisors of Retail Sales Workers","Rhode Island",46080,"Arkansas",30480,"South Dakota",47444.7,"California",34724.991
+"421","41-1012","First-Line Supervisors of Non-Retail Sales Workers","New York",102910,"Nevada",50250,"South Dakota",100230.48,"Hawaii",44556.648
+"422","41-2011","Cashiers","Washington",23800,"South Carolina",18170,"North Dakota",23355.273,"New York",16888.422
+"423","41-2021","Counter and Rental Clerks","District of Columbia",31080,"Arkansas",19070,"North Dakota",29333.436,"New York",20674.056
+"424","41-2022","Parts Salespersons","North Dakota",38380,"Kentucky",25000,"North Dakota",41945.502,"Arizona",26285.182
+"425","41-2031","Retail Salespersons","Alaska",25340,"Arkansas",19540,"North Dakota",27289.713,"New York",18409.59
+"426","41-3011","Advertising Sales Agents","New York",69130,"West Virginia",24900,"Massachusetts",61652.211,"West Virginia",28010.01
+"427","41-3021","Insurance Sales Agents","New York",64220,"West Virginia",33950,"Minnesota",62039.53,"West Virginia",38190.355
+"428","41-3031","Securities, Commodities, and Financial Services Sales Agents","New York",129230,"Nevada",41460,"New Hampshire",120260.406,"Nevada",42434.31
+"429","41-3041","Travel Agents","Massachusetts",49030,"South Carolina",26430,"Massachusetts",45779.311,"New York",27424.239
+"430","41-3099","Sales Representatives, Services, All Other","Massachusetts",69310,"Arkansas",36720,"Massachusetts",64714.747,"Hawaii",35369.622
+"431","41-4011","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Minnesota",104880,"Oklahoma",55830,"Minnesota",107460.048,"Hawaii",52673.424
+"432","41-4012","Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products","Massachusetts",65300,"Hawaii",42700,"Kansas",64286.775,"Hawaii",36559.74
+"433","41-9011","Demonstrators and Product Promoters","Rhode Island",39180,"Maryland",19170,"Rhode Island",39697.176,"Maryland",17379.522
+"434","41-9021","Real Estate Brokers","District of Columbia",119720,"Missouri",19180,"District of Columbia",101366.924,"Missouri",21454.748
+"435","41-9022","Real Estate Sales Agents","New York",80240,"Tennessee",29920,"New York",69351.432,"Oregon",32404.008
+"436","41-9031","Sales Engineers","South Dakota",152550,"Montana",61110,"South Dakota",173357.82,"Montana",64874.376
+"437","41-9041","Telemarketers","Connecticut",31270,"Arkansas",18940,"Kansas",31222.8,"Maryland",17869.086
+"438","41-9099","Sales and Related Workers, All Other","Nebraska",50820,"Louisiana",21270,"Nebraska",56095.116,"Louisiana",23271.507
+"439","43-0000","Office and Administrative Support Occupations","District of Columbia",46360,"West Virginia",27510,"District of Columbia",39253.012,"Florida",30505.093
+"440","43-1011","First-Line Supervisors of Office and Administrative Support Workers","District of Columbia",71270,"West Virginia",40120,"District of Columbia",60344.309,"Hawaii",42176.412
+"441","43-2011","Switchboard Operators, Including Answering Service","Hawaii",39280,"Mississippi",23010,"Hawaii",33631.536,"Florida",24773.405
+"442","43-2021","Telephone Operators","California",52280,"Idaho",23490,"Texas",51739.296,"Florida",23764.305
+"443","43-3011","Bill and Account Collectors","District of Columbia",57130,"Utah",28810,"District of Columbia",48371.971,"Utah",29700.229
+"444","43-3021","Billing and Posting Clerks","District of Columbia",51250,"South Dakota",27880,"District of Columbia",43393.375,"South Dakota",31682.832
+"445","43-3031","Bookkeeping, Accounting, and Auditing Clerks","District of Columbia",52380,"South Dakota",30340,"District of Columbia",44350.146,"Hawaii",32424.294
+"446","43-3051","Payroll and Timekeeping Clerks","District of Columbia",57020,"West Virginia",31310,"District of Columbia",48278.834,"Hawaii",33340.428
+"447","43-3061","Procurement Clerks","District of Columbia",52130,"Nebraska",34070,"Mississippi",48062.178,"New Hampshire",34706.406
+"448","43-3071","Tellers","Connecticut",31110,"West Virginia",22660,"North Carolina",30632.145,"Hawaii",21507.744
+"449","43-3099","Financial Clerks, All Other","Delaware",52160,"Hawaii",24520,"Delaware",51189.824,"Hawaii",20994.024
+"450","43-4011","Brokerage Clerks","New York",58580,"South Dakota",36820,"West Virginia",56177.506,"New Mexico",39093.564
+"451","43-4021","Correspondence Clerks","Massachusetts",46360,"Alabama",26160,"Kentucky",45253.836,"Maryland",28911.474
+"452","43-4031","Court, Municipal, and License Clerks","New York",48610,"Wisconsin",24510,"Rhode Island",47377.232,"Wisconsin",26242.857
+"453","43-4041","Credit Authorizers, Checkers, and Clerks","Colorado",44320,"New Mexico",24020,"Wisconsin",44808.795,"New Mexico",25283.452
+"454","43-4051","Customer Service Representatives","District of Columbia",39710,"West Virginia",25670,"Minnesota",37367.162,"Idaho",28587.69
+"455","43-4061","Eligibility Interviewers, Government Programs","District of Columbia",56570,"West Virginia",28260,"Rhode Island",57073.556,"West Virginia",31789.674
+"456","43-4071","File Clerks","District of Columbia",44070,"Hawaii",19390,"District of Columbia",37314.069,"Hawaii",16601.718
+"457","43-4081","Hotel, Motel, and Resort Desk Clerks","Hawaii",40340,"Arkansas",18000,"Hawaii",34539.108,"Texas",19865.488
+"458","43-4111","Interviewers, Except Eligibility and Loan","Rhode Island",41440,"Arkansas",24630,"Rhode Island",41987.008,"Louisiana",27111.798
+"459","43-4121","Library Assistants, Clerical","Alaska",38610,"Mississippi",18780,"Alaska",36528.921,"Maryland",20661.414
+"460","43-4131","Loan Interviewers and Clerks","District of Columbia",45040,"West Virginia",28400,"Arizona",43846.671,"New Mexico",29978.048
+"461","43-4141","New Accounts Clerks","New Jersey",44330,"West Virginia",29430,"North Carolina",41133.66,"Hawaii",25711.686
+"462","43-4151","Order Clerks","Alaska",40740,"Nebraska",24160,"North Dakota",40164.075,"Virginia",26385.129
+"463","43-4161","Human Resources Assistants, Except Payroll and Timekeeping","District of Columbia",51790,"South Carolina",31070,"Kentucky",44611.218,"New York",34157.136
+"464","43-4171","Receptionists and Information Clerks","District of Columbia",33520,"Louisiana",22510,"Rhode Island",30193.36,"Delaware",24191.51
+"465","43-4181","Reservation and Transportation Ticket Agents and Travel Clerks","Oklahoma",52840,"Montana",22300,"Oklahoma",58647.116,"Vermont",23664.995
+"466","43-4199","Information and Record Clerks, All Other","District of Columbia",53100,"Maine",27750,"Alabama",48669.47,"Maine",28579.725
+"467","43-5011","Cargo and Freight Agents","West Virginia",53580,"New Mexico",24350,"West Virginia",60272.142,"Hawaii",24358.89
+"468","43-5021","Couriers and Messengers","District of Columbia",39990,"Mississippi",19850,"Montana",35308.816,"New Hampshire",21635.656
+"469","43-5031","Police, Fire, and Ambulance Dispatchers","District of Columbia",65870,"Mississippi",24310,"Nevada",59516.525,"Mississippi",28039.154
+"470","43-5032","Dispatchers, Except Police, Fire, and Ambulance","Alaska",44320,"South Dakota",27740,"North Dakota",46885.41,"South Dakota",31523.736
+"471","43-5041","Meter Readers, Utilities","Alaska",66660,"Louisiana",25420,"Alaska",63067.026,"Louisiana",27812.022
+"472","43-5051","Postal Service Clerks","Rhode Island",56800,"North Dakota",39190,"Mississippi",65490.052,"Alaska",37654.78
+"473","43-5052","Postal Service Mail Carriers","Hawaii",59290,"North Dakota",48590,"Ohio",64746.836,"District of Columbia",50192.376
+"474","43-5053","Postal Service Mail Sorters, Processors, and Processing Machine Operators","Wisconsin",56790,"North Dakota",41630,"Mississippi",65455.45,"North Dakota",45497.427
+"475","43-5061","Production, Planning, and Expediting Clerks","Maine",57970,"South Dakota",36990,"Maine",59703.303,"New Jersey",39896.912
+"476","43-5071","Shipping, Receiving, and Traffic Clerks","District of Columbia",45200,"Idaho",27010,"District of Columbia",38270.84,"California",27215.923
+"477","43-5081","Stock Clerks and Order Fillers","Washington",28930,"Arkansas",20440,"North Dakota",29650.377,"New York",19438.107
+"478","43-5111","Weighers, Measurers, Checkers, and Samplers, Recordkeeping","Alaska",43360,"Hawaii",18900,"Alaska",41022.896,"Hawaii",16182.18
+"479","43-6011","Executive Secretaries and Executive Administrative Assistants","New York",67560,"South Dakota",36670,"Connecticut",61487.79,"Louisiana",41630.505
+"480","43-6012","Legal Secretaries","District of Columbia",77370,"Arkansas",31000,"District of Columbia",65509.179,"New Mexico",35135.788
+"481","43-6013","Medical Secretaries","Washington",40800,"West Virginia",27110,"Minnesota",40031.122,"Florida",30242.727
+"482","43-6014","Secretaries and Administrative Assistants, Except Legal, Medical, and Executive","District of Columbia",45980,"South Dakota",26930,"Rhode Island",40092.324,"South Dakota",30603.252
+"483","43-9011","Computer Operators","District of Columbia",56510,"Nebraska",30560,"Alaska",51392.152,"Maine",31937.199
+"484","43-9021","Data Entry Keyers","District of Columbia",38050,"Mississippi",24370,"Rhode Island",33851.012,"Wyoming",25904.34
+"485","43-9022","Word Processors and Typists","Washington",47480,"Idaho",19570,"Washington",45742.232,"Idaho",20953.599
+"486","43-9031","Desktop Publishers","Washington",55510,"New Mexico",24630,"Georgia",56980.54,"New Mexico",25925.538
+"487","43-9041","Insurance Claims and Policy Processing Clerks","District of Columbia",48080,"South Dakota",29210,"Missouri",45336.858,"New Mexico",31472.74
+"488","43-9051","Mail Clerks and Mail Machine Operators, Except Postal Service","District of Columbia",43510,"Wyoming",22450,"District of Columbia",36839.917,"Wyoming",23336.775
+"489","43-9061","Office Clerks, General","Alaska",43870,"Alabama",22370,"Alaska",41505.407,"New Mexico",25325.556
+"490","43-9071","Office Machine Operators, Except Computer","Hawaii",42530,"Alabama",23010,"Nebraska",40564.65,"New Jersey",24306.722
+"491","43-9111","Statistical Assistants","Connecticut",60030,"Mississippi",23040,"Kentucky",59583.09,"Mississippi",26574.336
+"492","43-9199","Office and Administrative Support Workers, All Other","Massachusetts",50910,"Connecticut",20010,"Massachusetts",47534.667,"Connecticut",18391.191
+"493","45-0000","Farming, Fishing, and Forestry Occupations","Alaska",41050,"Arizona",18760,"Alaska",38837.405,"California",17607.163
+"494","45-1011","First-Line Supervisors of Farming, Fishing, and Forestry Workers","New York",57340,"Montana",34860,"Oklahoma",60644.936,"New Jersey",33093.126
+"495","45-2011","Agricultural Inspectors","Connecticut",72890,"Montana",26470,"Michigan",69224.278,"Montana",28100.552
+"496","45-2041","Graders and Sorters, Agricultural Products","Maryland",40740,"Idaho",18340,"Maryland",36934.884,"New York",16845.207
+"497","45-2091","Agricultural Equipment Operators","New York",36160,"Kentucky",19160,"North Dakota",39114.891,"Georgia",21272.59
+"498","45-2092","Farmworkers and Laborers, Crop, Nursery, and Greenhouse","Nebraska",29550,"Mississippi",18430,"Nebraska",32617.29,"California",17509.296
+"499","45-2093","Farmworkers, Farm, Ranch, and Aquacultural Animals","Nevada",38010,"Mississippi",20110,"Nevada",38903.235,"Colorado",21353.112
+"500","45-2099","Agricultural Workers, All Other","Louisiana",42280,"Mississippi",18210,"Louisiana",46258.548,"Mississippi",21003.414
+"501","45-4011","Forest and Conservation Workers","Alabama",55480,"California",18880,"Alabama",63191.72,"California",16797.536
+"502","45-4021","Fallers","Idaho",64970,"Wisconsin",18550,"Idaho",69563.379,"Wisconsin",19861.485
+"503","45-4022","Logging Equipment Operators","Washington",48380,"West Virginia",21770,"Idaho",48791.799,"West Virginia",24489.073
+"504","45-4023","Log Graders and Scalers","Oregon",45890,"Kentucky",27270,"Oregon",46353.489,"Texas",30269.248
+"505","45-4029","Logging Workers, All Other","Washington",44480,"Virginia",17480,"Washington",42852.032,"Virginia",17037.756
+"506","47-0000","Construction and Extraction Occupations","Alaska",63530,"Arkansas",33220,"Illinois",60731.88,"Florida",34440.583
+"507","47-1011","First-Line Supervisors of Construction Trades and Extraction Workers","Alaska",88650,"Arkansas",48420,"Alaska",83871.765,"New Hampshire",53994.08
+"508","47-2011","Boilermakers","California",81710,"North Carolina",48120,"Missouri",86322.362,"Arizona",50423.153
+"509","47-2021","Brickmasons and Blockmasons","Illinois",76920,"South Carolina",34480,"Illinois",76381.56,"Florida",35025.861
+"510","47-2022","Stonemasons","Massachusetts",82550,"Ohio",23400,"Massachusetts",77076.935,"Ohio",26203.32
+"511","47-2031","Carpenters","Alaska",67650,"South Dakota",32680,"Alaska",64003.665,"Florida",35187.317
+"512","47-2041","Carpet Installers","Hawaii",55680,"Mississippi",19500,"Missouri",52507.084,"Mississippi",22491.3
+"513","47-2042","Floor Layers, Except Carpet, Wood, and Hard Tiles","Illinois",68750,"Montana",23980,"Missouri",69632.85,"Montana",25457.168
+"514","47-2043","Floor Sanders and Finishers","Arizona",56380,"Arkansas",22620,"Missouri",61601.302,"Arkansas",25852.398
+"515","47-2044","Tile and Marble Setters","Massachusetts",85320,"Arkansas",28460,"Massachusetts",79663.284,"Wyoming",30571.695
+"516","47-2051","Cement Masons and Concrete Finishers","Hawaii",66520,"Mississippi",26900,"Alaska",58355.448,"Mississippi",31026.46
+"517","47-2061","Construction Laborers","Hawaii",50050,"Arkansas",24100,"Illinois",49421.61,"Florida",26892.515
+"518","47-2071","Paving, Surfacing, and Tamping Equipment Operators","Alaska",79160,"Alabama",29480,"Alaska",74893.276,"Florida",30595.912
+"519","47-2073","Operating Engineers and Other Construction Equipment Operators","Illinois",74620,"Georgia",32980,"Illinois",74097.66,"Florida",35146.953
+"520","47-2081","Drywall and Ceiling Tile Installers","Alaska",74090,"Arkansas",29150,"Alaska",70096.549,"Florida",30061.089
+"521","47-2111","Electricians","Alaska",79820,"North Carolina",39790,"Alaska",75517.702,"Florida",40464.91
+"522","47-2121","Glaziers","Hawaii",64820,"West Virginia",28640,"Alaska",60257.109,"New Hampshire",28869.722
+"523","47-2131","Insulation Workers, Floor, Ceiling, and Wall","Alaska",57370,"Montana",26340,"Alaska",54277.757,"Montana",27962.544
+"524","47-2132","Insulation Workers, Mechanical","Indiana",102000,"South Dakota",30580,"Indiana",111598.2,"South Dakota",34751.112
+"525","47-2141","Painters, Construction and Maintenance","Alaska",54650,"South Dakota",28110,"Missouri",58178.386,"Florida",29939.997
+"526","47-2151","Pipelayers","Massachusetts",67610,"Arkansas",29510,"Missouri",70628.404,"Texas",31915.216
+"527","47-2152","Plumbers, Pipefitters, and Steamfitters","Illinois",76040,"Arkansas",35360,"Illinois",75507.72,"Florida",37689.885
+"528","47-2161","Plasterers and Stucco Masons","New York",84550,"North Carolina",19430,"Illinois",82677.18,"North Carolina",21188.415
+"529","47-2181","Roofers","Minnesota",59700,"Mississippi",28410,"Minnesota",61168.62,"Wyoming",31361.715
+"530","47-2211","Sheet Metal Workers","Illinois",77340,"Arkansas",34110,"Illinois",76798.62,"Florida",35288.227
+"531","47-2221","Structural Iron and Steel Workers","New Jersey",91660,"South Dakota",33910,"Illinois",87453.51,"Texas",37795.152
+"532","47-3011","Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters","Rhode Island",53710,"Arkansas",20970,"Rhode Island",54418.972,"New York",22039.65
+"533","47-3012","Helpers--Carpenters","Hawaii",36620,"South Dakota",22090,"Kentucky",36054.252,"Maryland",22374.888
+"534","47-3013","Helpers--Electricians","Alaska",38680,"Arkansas",22720,"Wyoming",38149.65,"Maryland",24296.88
+"535","47-3014","Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons","Illinois",34570,"Oklahoma",19250,"Illinois",34328.01,"Idaho",21253.395
+"536","47-3015","Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters","Washington",51570,"Arkansas",21490,"Washington",49682.538,"Utah",24133.369
+"537","47-3016","Helpers--Roofers","North Dakota",34230,"South Carolina",21360,"North Dakota",37409.967,"Hawaii",19076.136
+"538","47-3019","Helpers, Construction Trades, All Other","Wisconsin",39280,"New Hampshire",19960,"Wisconsin",42057.096,"New Hampshire",18973.976
+"539","47-4011","Construction and Building Inspectors","Alaska",84340,"South Dakota",39860,"Alaska",79794.074,"Vermont",39672.215
+"540","47-4021","Elevator Installers and Repairers","Washington",107860,"Louisiana",35720,"Oregon",106818.075,"Louisiana",39081.252
+"541","47-4031","Fence Erectors","Illinois",51070,"South Carolina",23080,"Illinois",50712.51,"South Carolina",25503.4
+"542","47-4041","Hazardous Materials Removal Workers","Idaho",69990,"Arkansas",27730,"Idaho",74938.293,"Hawaii",23999.286
+"543","47-4051","Highway Maintenance Workers","Alaska",55260,"West Virginia",25160,"Alaska",52281.486,"West Virginia",28302.484
+"544","47-4061","Rail-Track Laying and Maintenance Equipment Operators","California",61500,"Oklahoma",33860,"Arkansas",63270.944,"Oregon",36666.63
+"545","47-4071","Septic Tank Servicers and Sewer Pipe Cleaners","New Jersey",51090,"South Dakota",25880,"Illinois",49123.71,"Florida",28002.525
+"546","47-4099","Construction and Related Workers, All Other","Alaska",66720,"Georgia",27290,"Alaska",63123.792,"Georgia",29664.23
+"547","47-5012","Rotary Drill Operators, Oil and Gas","Mississippi",84290,"Kentucky",36480,"Mississippi",97220.086,"Washington",35530.192
+"548","47-5013","Service Unit Operators, Oil, Gas, and Mining","Alaska",72420,"Indiana",24310,"Alaska",68516.562,"Illinois",24159.69
+"549","47-5021","Earth Drillers, Except Oil and Gas","Illinois",68290,"Nebraska",30740,"Illinois",67811.97,"Nebraska",33930.812
+"550","47-5031","Explosives Workers, Ordnance Handling Experts, and Blasters","Washington",75180,"Texas",38230,"Illinois",72757.11,"Texas",39575.696
+"551","47-5041","Continuous Mining Machine Operators","Wyoming",78590,"Texas",28850,"Wyoming",81694.305,"Texas",29865.52
+"552","47-5042","Mine Cutting and Channeling Machine Operators","Wyoming",72030,"Texas",25780,"Wyoming",74875.185,"Texas",26687.456
+"553","47-5049","Mining Machine Operators, All Other","California",59190,"Texas",32960,"New Mexico",57840.37,"Texas",34120.192
+"554","47-5071","Roustabouts, Oil and Gas","Alaska",52330,"Kentucky",29270,"Montana",50691.4,"Illinois",31090.83
+"555","47-5081","Helpers--Extraction Workers","Alaska",55450,"South Dakota",26490,"Alabama",60890.94,"New York",25514.136
+"556","47-5099","Extraction Workers, All Other","Pennsylvania",66350,"Georgia",28630,"Pennsylvania",67564.205,"California",27055.777
+"557","49-0000","Installation, Maintenance, and Repair Occupations","Alaska",57350,"West Virginia",35380,"Alaska",54258.835,"Florida",38002.706
+"558","49-1011","First-Line Supervisors of Mechanics, Installers, and Repairers","Alaska",84690,"West Virginia",50170,"Alaska",80125.209,"West Virginia",56436.233
+"559","49-2011","Computer, Automated Teller, and Office Machine Repairers","District of Columbia",53500,"Hawaii",30250,"Rhode Island",46890.896,"Hawaii",25900.05
+"560","49-2021","Radio, Cellular, and Tower Equipment Installers and Repairers","New York",72990,"Idaho",36050,"Mississippi",80380.446,"Maine",37622.247
+"561","49-2022","Telecommunications Equipment Installers and Repairers, Except Line Installers","Alaska",72770,"Oklahoma",42490,"North Dakota",74393.703,"Texas",46542.592
+"562","49-2091","Avionics Technicians","Washington",81150,"Indiana",48340,"Washington",78179.91,"New Jersey",48499.902
+"563","49-2092","Electric Motor, Power Tool, and Related Repairers","Connecticut",55040,"Utah",24720,"New Hampshire",52302.012,"Utah",25483.848
+"564","49-2093","Electrical and Electronics Installers and Repairers, Transportation Equipment","Montana",83000,"South Dakota",29960,"Montana",88112.8,"South Dakota",34046.544
+"565","49-2094","Electrical and Electronics Repairers, Commercial and Industrial Equipment","District of Columbia",82560,"South Dakota",44520,"Alaska",76993.618,"New York",46862.346
+"566","49-2095","Electrical and Electronics Repairers, Powerhouse, Substation, and Relay","Washington",92790,"Texas",56050,"North Dakota",95552.247,"Texas",58022.96
+"567","49-2096","Electronic Equipment Installers and Repairers, Motor Vehicles","Washington",51440,"Hawaii",24730,"Washington",49557.296,"Hawaii",21173.826
+"568","49-2097","Electronic Home Entertainment Equipment Installers and Repairers","Alaska",50820,"Arkansas",26750,"Illinois",49669.86,"Arkansas",30572.575
+"569","49-2098","Security and Fire Alarm Systems Installers","Alaska",57210,"Mississippi",29690,"South Dakota",60717.852,"Mississippi",34244.446
+"570","49-3011","Aircraft Mechanics and Service Technicians","Kentucky",92500,"Maine",47260,"Kentucky",104284.5,"Maine",48673.074
+"571","49-3021","Automotive Body and Related Repairers","District of Columbia",63170,"Arkansas",33200,"Maryland",53833.908,"New York",33085.404
+"572","49-3022","Automotive Glass Installers and Repairers","New Hampshire",43460,"New York",20250,"South Dakota",44035.5,"New York",17502.075
+"573","49-3023","Automotive Service Technicians and Mechanics","District of Columbia",57360,"West Virginia",29510,"Alaska",48941.753,"New York",31408.662
+"574","49-3031","Bus and Truck Mechanics and Diesel Engine Specialists","Alaska",62190,"Mississippi",35140,"Alaska",58837.959,"West Virginia",40102.685
+"575","49-3041","Farm Equipment Mechanics and Service Technicians","North Dakota",47030,"West Virginia",24270,"North Dakota",51399.087,"West Virginia",27301.323
+"576","49-3042","Mobile Heavy Equipment Mechanics, Except Engines","District of Columbia",67770,"Arkansas",38320,"Nevada",65544.94,"Vermont",42112.822
+"577","49-3043","Rail Car Repairers","Maryland",65020,"South Carolina",37040,"Arkansas",68231.13,"South Carolina",40929.2
+"578","49-3051","Motorboat Mechanics and Service Technicians","Connecticut",49460,"Illinois",28440,"Rhode Island",46414.692,"Illinois",28240.92
+"579","49-3052","Motorcycle Mechanics","Hawaii",48760,"New Mexico",24920,"Alaska",43369.224,"New Mexico",26230.792
+"580","49-3053","Outdoor Power Equipment and Other Small Engine Mechanics","Alaska",52790,"West Virginia",25570,"Alaska",49944.619,"Utah",27813.682
+"581","49-3091","Bicycle Repairers","Wyoming",34150,"Tennessee",18710,"Wyoming",35498.925,"Tennessee",20741.906
+"582","49-3092","Recreational Vehicle Service Technicians","Alabama",43250,"Mississippi",22310,"Alabama",49261.75,"Mississippi",25732.354
+"583","49-3093","Tire Repairers and Changers","Rhode Island",33380,"Florida",19170,"Rhode Island",33820.616,"Florida",19344.447
+"584","49-9011","Mechanical Door Repairers","Illinois",48670,"Arkansas",27370,"Illinois",48329.31,"Oklahoma",31221.487
+"585","49-9012","Control and Valve Installers and Repairers, Except Mechanical Door","New York",80560,"Mississippi",32780,"South Dakota",79673.004,"Mississippi",37808.452
+"586","49-9021","Heating, Air Conditioning, and Refrigeration Mechanics and Installers","District of Columbia",66120,"Mississippi",33420,"Alaska",60815.308,"Florida",37992.615
+"587","49-9031","Home Appliance Repairers","Hawaii",55910,"West Virginia",24930,"Illinois",52708.44,"West Virginia",28043.757
+"588","49-9041","Industrial Machinery Mechanics","Alaska",70150,"West Virginia",42450,"Alaska",66368.915,"New York",44442.306
+"589","49-9043","Maintenance Workers, Machinery","Wyoming",58770,"South Dakota",29150,"Wyoming",61091.415,"Hawaii",32586.972
+"590","49-9044","Millwrights","Alaska",69230,"Arkansas",39840,"Kansas",71761.725,"Florida",44915.041
+"591","49-9045","Refractory Materials Repairers, Except Brickmasons","North Carolina",52830,"Oklahoma",41090,"North Carolina",57611.115,"New York",39507.153
+"592","49-9051","Electrical Power-Line Installers and Repairers","California",104490,"Georgia",47090,"California",92964.753,"Georgia",51186.83
+"593","49-9052","Telecommunications Line Installers and Repairers","New York",78070,"Alabama",36230,"West Virginia",80452.848,"District of Columbia",38067.632
+"594","49-9062","Medical Equipment Repairers","Alaska",64340,"Arkansas",33700,"Alaska",60872.074,"Arizona",37176.832
+"595","49-9063","Musical Instrument Repairers and Tuners","Pennsylvania",43490,"Iowa",25380,"Pennsylvania",44285.867,"Iowa",28105.812
+"596","49-9064","Watch Repairers","Texas",56660,"Arizona",25050,"Texas",58654.432,"Florida",25298.137
+"597","49-9069","Precision Instrument and Equipment Repairers, All Other","Wyoming",71250,"Louisiana",28750,"Wyoming",74064.375,"Louisiana",31455.375
+"598","49-9071","Maintenance and Repair Workers, General","Alaska",48040,"West Virginia",27770,"Alaska",45450.644,"West Virginia",31238.473
+"599","49-9091","Coin, Vending, and Amusement Machine Servicers and Repairers","Nevada",41710,"Florida",25410,"Nevada",42690.185,"Florida",25641.231
+"600","49-9092","Commercial Divers","New York",88550,"Hawaii",37600,"New York",76533.765,"Hawaii",32193.12
+"601","49-9094","Locksmiths and Safe Repairers","District of Columbia",59680,"Mississippi",19390,"District of Columbia",50531.056,"Mississippi",22364.426
+"602","49-9095","Manufactured Building and Mobile Home Installers","New Mexico",42760,"California",23200,"New Mexico",45009.176,"California",20641.04
+"603","49-9096","Riggers","Hawaii",70330,"Arkansas",25420,"Minnesota",63156.344,"Arkansas",29052.518
+"604","49-9098","Helpers--Installation, Maintenance, and Repair Workers","District of Columbia",38700,"South Dakota",19080,"North Dakota",35497.392,"South Dakota",21682.512
+"605","49-9099","Installation, Maintenance, and Repair Workers, All Other","Alaska",67500,"District of Columbia",30730,"Alaska",63861.75,"District of Columbia",26019.091
+"606","51-0000","Production Occupations","District of Columbia",49880,"Arkansas",28760,"Wyoming",50363.775,"California",26655.412
+"607","51-1011","First-Line Supervisors of Production and Operating Workers","Wyoming",79430,"Arkansas",47530,"Wyoming",82567.485,"Hawaii",43974.432
+"608","51-2011","Aircraft Structure, Surfaces, Rigging, and Systems Assemblers","Wisconsin",51650,"Idaho",29710,"Wisconsin",55301.655,"Idaho",31810.497
+"609","51-2021","Coil Winders, Tapers, and Finishers","Louisiana",44420,"South Carolina",22050,"Louisiana",48599.922,"California",21984.487
+"610","51-2022","Electrical and Electronic Equipment Assemblers","Vermont",45010,"Mississippi",24210,"Vermont",44474.381,"New York",25349.919
+"611","51-2023","Electromechanical Equipment Assemblers","Kentucky",44990,"Nevada",26380,"Kentucky",50721.726,"California",25810.197
+"612","51-2031","Engine and Other Machine Assemblers","Michigan",52750,"Arkansas",24320,"West Virginia",58854.768,"Arkansas",27795.328
+"613","51-2041","Structural Metal Fabricators and Fitters","Maine",53020,"South Dakota",31720,"Maine",54605.298,"Vermont",32785.158
+"614","51-2091","Fiberglass Laminators and Fabricators","Alaska",52280,"Virginia",23490,"West Virginia",57864.856,"Virginia",22895.703
+"615","51-2092","Team Assemblers","Kentucky",33200,"West Virginia",22580,"Kentucky",37429.68,"Hawaii",19504.236
+"616","51-2099","Assemblers and Fabricators, All Other","Alaska",36450,"Utah",22620,"Alaska",34485.345,"Hawaii",21987.216
+"617","51-3011","Bakers","District of Columbia",35860,"Arkansas",19260,"Nevada",32752,"New York",20656.77
+"618","51-3021","Butchers and Meat Cutters","Alaska",43350,"Arkansas",23310,"Alaska",41013.435,"California",23852.857
+"619","51-3022","Meat, Poultry, and Fish Cutters and Trimmers","Maryland",40700,"Alaska",19560,"Maryland",36898.62,"Alaska",18505.716
+"620","51-3023","Slaughterers and Meat Packers","North Dakota",36540,"South Carolina",19060,"North Dakota",39934.566,"New York",17303.286
+"621","51-3091","Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders","North Carolina",50700,"Arkansas",20290,"North Carolina",55288.35,"California",23007.642
+"622","51-3092","Food Batchmakers","Iowa",38340,"West Virginia",18630,"Iowa",42457.716,"Hawaii",18750.78
+"623","51-3093","Food Cooking Machine Operators and Tenders","Georgia",38600,"North Carolina",18820,"Georgia",41958.2,"Hawaii",18023.01
+"624","51-3099","Food Processing Workers, All Other","Vermont",30450,"Hawaii",20720,"Kansas",31707.9,"Hawaii",17740.464
+"625","51-4011","Computer-Controlled Machine Tool Operators, Metal and Plastic","Vermont",55190,"New Mexico",24700,"Vermont",54533.239,"New Mexico",25999.22
+"626","51-4012","Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic","Washington",84370,"Idaho",28740,"Washington",81282.058,"Idaho",30771.918
+"627","51-4021","Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic","South Carolina",48410,"Florida",28090,"South Carolina",53493.05,"New Jersey",24909.368
+"628","51-4022","Forging Machine Setters, Operators, and Tenders, Metal and Plastic","Maryland",52050,"Michigan",25770,"Kentucky",58004.73,"Michigan",27385.779
+"629","51-4023","Rolling Machine Setters, Operators, and Tenders, Metal and Plastic","Indiana",52760,"California",30250,"Indiana",57724.716,"New Jersey",26909.454
+"630","51-4031","Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic","Washington",36320,"Hawaii",22840,"West Virginia",39877.705,"Hawaii",19555.608
+"631","51-4032","Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Alabama",50640,"Florida",26420,"Alabama",57678.96,"New Jersey",25756.566
+"632","51-4033","Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Oregon",42510,"Kentucky",23390,"South Carolina",46155.85,"New Jersey",25197.59
+"633","51-4034","Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Oregon",50980,"South Dakota",30430,"Oregon",51494.898,"New Jersey",28961.944
+"634","51-4035","Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic","Maryland",48360,"Mississippi",24910,"West Virginia",52544.079,"Mississippi",28731.194
+"635","51-4041","Machinists","Hawaii",59540,"Nevada",36280,"Delaware",52446.016,"California",35445.648
+"636","51-4051","Metal-Refining Furnace Operators and Tenders","Nevada",55200,"Nebraska",29310,"Alabama",60207.54,"Nebraska",32352.378
+"637","51-4052","Pourers and Casters, Metal","New York",42750,"California",25910,"Arkansas",46390.311,"California",23052.127
+"638","51-4061","Model Makers, Metal and Plastic","Michigan",66320,"Kansas",27360,"Michigan",70478.264,"Kansas",30164.4
+"639","51-4062","Patternmakers, Metal and Plastic","Kansas",53610,"California",23970,"Kansas",59105.025,"California",21326.109
+"640","51-4071","Foundry Mold and Coremakers","Massachusetts",43020,"South Carolina",23610,"Minnesota",43094.676,"South Carolina",26089.05
+"641","51-4072","Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic","Hawaii",43520,"Mississippi",22510,"West Virginia",46807.089,"Delaware",24005.044
+"642","51-4081","Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic","Alaska",47400,"Georgia",28250,"Rhode Island",46617.332,"Colorado",28804.152
+"643","51-4111","Tool and Die Makers","Washington",69090,"Louisiana",40740,"Washington",66561.306,"Maryland",43308.282
+"644","51-4121","Welders, Cutters, Solderers, and Brazers","Alaska",70410,"Vermont",33520,"Alaska",66614.901,"Vermont",33121.112
+"645","51-4122","Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders","Washington",44700,"New Hampshire",30340,"North Dakota",48655.908,"New Hampshire",28841.204
+"646","51-4191","Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic","Virginia",46580,"Missouri",29650,"Alabama",50696.89,"Utah",31339.36
+"647","51-4192","Layout Workers, Metal and Plastic","Hawaii",70330,"New York",28190,"Kansas",67715.55,"New York",24364.617
+"648","51-4193","Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic","North Dakota",39840,"Tennessee",25890,"North Dakota",43541.136,"New Jersey",24673.55
+"649","51-4194","Tool Grinders, Filers, and Sharpeners","Washington",50190,"Utah",23130,"Washington",48353.046,"Utah",23844.717
+"650","51-5111","Prepress Technicians and Workers","District of Columbia",76080,"Montana",26990,"District of Columbia",64416.936,"Montana",28652.584
+"651","51-5112","Printing Press Operators","District of Columbia",89130,"New Mexico",27850,"District of Columbia",75466.371,"Hawaii",25120.908
+"652","51-5113","Print Binding and Finishing Workers","District of Columbia",75310,"Wyoming",22580,"District of Columbia",63764.977,"Wyoming",23471.91
+"653","51-6011","Laundry and Dry-Cleaning Workers","District of Columbia",32620,"Arkansas",18300,"Hawaii",27826.5,"New York",17234.142
+"654","51-6021","Pressers, Textile, Garment, and Related Materials","Washington",27800,"Arkansas",18340,"Washington",26782.52,"District of Columbia",16934
+"655","51-6031","Sewing Machine Operators","Alaska",40710,"California",19970,"Alaska",38515.731,"New York",17484.789
+"656","51-6041","Shoe and Leather Workers and Repairers","Arizona",28790,"Georgia",20540,"Montana",30032.664,"New York",19524.537
+"657","51-6051","Sewers, Hand","Massachusetts",32090,"Georgia",18590,"Massachusetts",29962.433,"Illinois",19452.87
+"658","51-6052","Tailors, Dressmakers, and Custom Sewers","District of Columbia",44480,"Kansas",19270,"District of Columbia",37661.216,"Hawaii",19889.526
+"659","51-6061","Textile Bleaching and Dyeing Machine Operators and Tenders","Washington",34640,"California",23130,"Washington",33372.176,"California",20578.761
+"660","51-6062","Textile Cutting Machine Setters, Operators, and Tenders","New Hampshire",32740,"Maryland",19120,"South Dakota",32637.408,"Maryland",17334.192
+"661","51-6063","Textile Knitting and Weaving Machine Setters, Operators, and Tenders","Ohio",42040,"California",21040,"Ohio",47076.392,"California",18719.288
+"662","51-6064","Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders","Texas",30550,"Rhode Island",22570,"Alabama",32256.48,"New York",20743.2
+"663","51-6091","Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers","Nebraska",44060,"New Jersey",23290,"Mississippi",50518.92,"New Jersey",20341.486
+"664","51-6093","Upholsterers","New Hampshire",53220,"South Carolina",22910,"New Hampshire",50590.932,"Maryland",25058.424
+"665","51-6099","Textile, Apparel, and Furnishings Workers, All Other","Washington",50650,"Iowa",18820,"Colorado",49137.648,"California",18434.584
+"666","51-7011","Cabinetmakers and Bench Carpenters","District of Columbia",44760,"Mississippi",25380,"North Dakota",42776.106,"Arizona",26513.388
+"667","51-7021","Furniture Finishers","Connecticut",45140,"Oregon",20140,"Nebraska",45167.496,"Oregon",20343.414
+"668","51-7041","Sawing Machine Setters, Operators, and Tenders, Wood","Alaska",50700,"Texas",21950,"Alaska",47967.27,"California",22215.809
+"669","51-7042","Woodworking Machine Setters, Operators, and Tenders, Except Sawing","Connecticut",36070,"New Mexico",22000,"Montana",38090.208,"New Mexico",23157.2
+"670","51-7099","Woodworkers, All Other","New York",53590,"New Mexico",22810,"Louisiana",51915.045,"California",23096.612
+"671","51-8012","Power Distributors and Dispatchers","Washington",98990,"Mississippi",64440,"North Dakota",101333.688,"Maryland",65592.51
+"672","51-8013","Power Plant Operators","Washington",90450,"Virginia",47700,"North Dakota",90404.688,"Virginia",46493.19
+"673","51-8021","Stationary Engineers and Boiler Operators","Illinois",80590,"New Mexico",38180,"Illinois",80025.87,"New Mexico",40188.268
+"674","51-8031","Water and Wastewater Treatment Plant and System Operators","California",63770,"Arkansas",31690,"Nevada",63323.945,"Oklahoma",35239.325
+"675","51-8091","Chemical Plant and System Operators","North Dakota",72810,"Rhode Island",37310,"North Dakota",79574.049,"Rhode Island",37802.492
+"676","51-8092","Gas Plant Operators","Wisconsin",89700,"Georgia",52650,"Wisconsin",96041.79,"Pennsylvania",55283.507
+"677","51-8093","Petroleum Pump System Operators, Refinery Operators, and Gaugers","Mississippi",82250,"Alabama",42970,"Mississippi",94867.15,"Maine",44728.557
+"678","51-8099","Plant and System Operators, All Other","Tennessee",74410,"Wyoming",37310,"Alabama",84752.99,"Wyoming",38783.745
+"679","51-9011","Chemical Equipment Operators and Tenders","Wyoming",74150,"Rhode Island",35050,"Wyoming",77078.925,"Connecticut",33280.611
+"680","51-9012","Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders","Wyoming",71460,"Connecticut",19240,"Wyoming",74282.67,"Connecticut",17683.484
+"681","51-9021","Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders","Wyoming",70200,"Rhode Island",27380,"Wyoming",72972.9,"New Jersey",25800.236
+"682","51-9022","Grinding and Polishing Workers, Hand","Vermont",41330,"Arkansas",21650,"Vermont",40838.173,"Hawaii",22458.126
+"683","51-9023","Mixing and Blending Machine Setters, Operators, and Tenders","Alaska",56160,"Utah",28010,"Alaska",53132.976,"California",26459.678
+"684","51-9031","Cutters and Trimmers, Hand","Maine",39170,"Arizona",18850,"Maine",40341.183,"Arizona",19553.105
+"685","51-9032","Cutting and Slicing Machine Setters, Operators, and Tenders","Virginia",49570,"Hawaii",21600,"Louisiana",49015.68,"Hawaii",18493.92
+"686","51-9041","Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders","West Virginia",40480,"New Mexico",18620,"West Virginia",45535.952,"New Mexico",19599.412
+"687","51-9051","Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders","Maryland",55710,"Vermont",20070,"South Dakota",53672.172,"Vermont",19831.167
+"688","51-9061","Inspectors, Testers, Sorters, Samplers, and Weighers","Alaska",64570,"Alabama",28490,"Alaska",61089.677,"New Jersey",31416.198
+"689","51-9071","Jewelers and Precious Stone and Metal Workers","Arkansas",53050,"New Mexico",26470,"Arkansas",60630.845,"Utah",27318.85
+"690","51-9081","Dental Laboratory Technicians","District of Columbia",71510,"Delaware",26340,"District of Columbia",60547.517,"Delaware",25850.076
+"691","51-9082","Medical Appliance Technicians","Oregon",52690,"Utah",22820,"Nebraska",57353.448,"Utah",23525.138
+"692","51-9083","Ophthalmic Laboratory Technicians","Iowa",39140,"North Carolina",23020,"Iowa",43343.636,"Hawaii",21507.744
+"693","51-9111","Packaging and Filling Machine Operators and Tenders","Wyoming",42550,"Florida",23330,"Wyoming",44230.725,"Hawaii",21208.074
+"694","51-9121","Coating, Painting, and Spraying Machine Setters, Operators, and Tenders","Maine",53290,"Idaho",26690,"Maine",54883.371,"Delaware",26507.614
+"695","51-9122","Painters, Transportation Equipment","Connecticut",57570,"Mississippi",34090,"Missouri",53133.5,"Hawaii",32929.452
+"696","51-9123","Painting, Coating, and Decorating Workers","District of Columbia",58430,"Oklahoma",21200,"District of Columbia",49472.681,"New Jersey",22909.282
+"697","51-9151","Photographic Process Workers and Processing Machine Operators","Alaska",37970,"Montana",18930,"New Mexico",37356.774,"Montana",20096.088
+"698","51-9191","Adhesive Bonding Machine Operators and Tenders","Washington",40660,"Michigan",24030,"Nebraska",40763.334,"New York",25038.771
+"699","51-9192","Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders","Wisconsin",36950,"Delaware",22880,"Wisconsin",39562.365,"Hawaii",21687.546
+"700","51-9193","Cooling and Freezing Equipment Operators and Tenders","Illinois",53840,"Kentucky",21930,"Illinois",53463.12,"New Jersey",20516.166
+"701","51-9194","Etchers and Engravers","Washington",44500,"Arizona",19440,"Washington",42871.3,"Arizona",20165.112
+"702","51-9195","Molders, Shapers, and Casters, Except Metal and Plastic","Vermont",50370,"Alabama",23310,"Vermont",49770.597,"Texas",25041.488
+"703","51-9196","Paper Goods Machine Setters, Operators, and Tenders","Delaware",50900,"New Mexico",20890,"South Carolina",54498.6,"New Mexico",21988.814
+"704","51-9197","Tire Builders","Alabama",53930,"Kentucky",24510,"Alabama",61426.27,"Kentucky",27632.574
+"705","51-9198","Helpers--Production Workers","Wyoming",32720,"Hawaii",19600,"North Dakota",34185.912,"Hawaii",16781.52
+"706","51-9199","Production Workers, All Other","Wyoming",60580,"Florida",19790,"Wyoming",62972.91,"Florida",19970.089
+"707","53-0000","Transportation and Material Moving Occupations","Alaska",42860,"Mississippi",26490,"North Dakota",45377.208,"New Jersey",25896.31
+"708","53-1011","Aircraft Cargo Handling Supervisors","North Dakota",58430,"Tennessee",29960,"North Dakota",63858.147,"Tennessee",33213.656
+"709","53-1021","First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand","District of Columbia",67760,"Oregon",39640,"District of Columbia",57372.392,"Hawaii",39034.158
+"710","53-1031","First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators","Alaska",69490,"West Virginia",39180,"South Dakota",68911.296,"Hawaii",42630.198
+"711","53-2011","Airline Pilots, Copilots, and Flight Engineers","Colorado",163220,"Wyoming",69240,"Texas",164048.144,"Wyoming",71974.98
+"712","53-2012","Commercial Pilots","Connecticut",114090,"Utah",41890,"Delaware",105785.106,"Utah",43184.401
+"713","53-2021","Air Traffic Controllers","New Hampshire",145970,"Montana",71550,"Georgia",150669.07,"Montana",75957.48
+"714","53-2022","Airfield Operations Specialists","California",65490,"Nebraska",24850,"Kentucky",65885.256,"Nebraska",27429.43
+"715","53-3011","Ambulance Drivers and Attendants, Except Emergency Medical Technicians","Nebraska",34830,"Utah",17950,"Nebraska",38445.354,"Utah",18504.655
+"716","53-3021","Bus Drivers, Transit and Intercity","New York",54750,"Alabama",23930,"Ohio",52597.006,"Nevada",26129.955
+"717","53-3022","Bus Drivers, School or Special Client","District of Columbia",44020,"Alabama",18010,"North Dakota",42175.011,"Alabama",20513.39
+"718","53-3031","Driver/Sales Workers","New Jersey",32150,"Indiana",19050,"South Dakota",30455.52,"New York",18279.945
+"719","53-3032","Heavy and Tractor-Trailer Truck Drivers","Alaska",51280,"West Virginia",35690,"North Dakota",54175.053,"Florida",36398.237
+"720","53-3033","Light Truck or Delivery Services Drivers","Alaska",38670,"Arkansas",25000,"Alaska",36585.687,"District of Columbia",25561.873
+"721","53-3041","Taxi Drivers and Chauffeurs","District of Columbia",30710,"Mississippi",18570,"Nevada",29159.515,"Hawaii",20899.842
+"722","53-3099","Motor Vehicle Operators, All Other","Alaska",59680,"North Carolina",18290,"Alaska",56463.248,"Maine",19444.512
+"723","53-4011","Locomotive Engineers","Washington",82300,"Oklahoma",38000,"Washington",79287.82,"Oklahoma",42176.2
+"724","53-4013","Rail Yard Engineers, Dinkey Operators, and Hostlers","Ohio",55840,"Colorado",34600,"Ohio",62529.632,"Colorado",33921.84
+"725","53-4021","Railroad Brake, Signal, and Switch Operators","New York",72410,"Alabama",34720,"Georgia",70828.92,"Alabama",39546.08
+"726","53-4031","Railroad Conductors and Yardmasters","New Mexico",69490,"New Hampshire",36200,"Mississippi",77323.936,"New Hampshire",34411.72
+"727","53-5011","Sailors and Marine Oilers","Illinois",62440,"South Carolina",25830,"Illinois",62002.92,"Hawaii",25720.248
+"728","53-5021","Captains, Mates, and Pilots of Water Vessels","Texas",104120,"North Carolina",41790,"Texas",107785.024,"Hawaii",39573.564
+"729","53-6021","Parking Lot Attendants","Maine",25500,"Indiana",18490,"Maine",26262.45,"District of Columbia",17204.944
+"730","53-6031","Automotive and Watercraft Service Attendants","Montana",31080,"Maine",19010,"Montana",32994.528,"New Jersey",16952.694
+"731","53-6051","Transportation Inspectors","District of Columbia",109630,"Delaware",29580,"Utah",110749.587,"Delaware",29029.812
+"732","53-6099","Transportation Workers, All Other","Texas",50890,"Louisiana",18970,"Texas",52681.328,"Louisiana",20755.077
+"733","53-7011","Conveyor Operators and Tenders","Kentucky",52540,"Mississippi",27900,"Kentucky",59233.596,"Hawaii",25985.67
+"734","53-7021","Crane and Tower Operators","Hawaii",74790,"Connecticut",36810,"Montana",72241.88,"Connecticut",33832.071
+"735","53-7032","Excavating and Loading Machine and Dragline Operators","Wyoming",69940,"Arkansas",30670,"Wyoming",72702.63,"Arkansas",35052.743
+"736","53-7033","Loading Machine Operators, Underground Mining","Alabama",56000,"Missouri",38100,"Alabama",63784,"New York",38020.557
+"737","53-7041","Hoist and Winch Operators","Illinois",92470,"Nebraska",28630,"Illinois",91822.71,"Nebraska",31601.794
+"738","53-7051","Industrial Truck and Tractor Operators","District of Columbia",51860,"Mississippi",26840,"Alaska",45081.665,"New Jersey",29564.59
+"739","53-7061","Cleaners of Vehicles and Equipment","District of Columbia",40860,"West Virginia",19190,"District of Columbia",34596.162,"New Jersey",17861.03
+"740","53-7062","Laborers and Freight, Stock, and Material Movers, Hand","District of Columbia",35100,"Mississippi",21940,"North Dakota",33355.308,"New Jersey",21424.502
+"741","53-7063","Machine Feeders and Offbearers","Delaware",43300,"Alaska",19000,"New Mexico",45114.436,"Alaska",17975.9
+"742","53-7064","Packers and Packagers, Hand","Wyoming",27880,"New Mexico",19100,"Wyoming",28981.26,"New Jersey",17144.842
+"743","53-7071","Gas Compressor and Gas Pumping Station Operators","Ohio",67360,"Kentucky",39460,"Ohio",75429.728,"New Jersey",43600.128
+"744","53-7072","Pump Operators, Except Wellhead Pumpers","Montana",59930,"Mississippi",23130,"Georgia",64861.29,"Mississippi",26678.142
+"745","53-7081","Refuse and Recyclable Material Collectors","New York",52240,"South Carolina",22820,"Washington",47052.456,"South Carolina",25216.1
+"746","53-7111","Mine Shuttle Car Operators","Wyoming",78840,"Kentucky",48100,"Wyoming",81954.18,"Kentucky",54227.94
+"747","53-7121","Tank Car, Truck, and Ship Loaders","North Carolina",67880,"Minnesota",24850,"North Carolina",74023.14,"Minnesota",25461.31
+"748","53-7199","Material Moving Workers, All Other","Alaska",52440,"Connecticut",19950,"Alaska",49613.484,"Connecticut",18336.045
+"749","19-2043","Hydrologists","California",105040,"Nebraska",50420,"Georgia",103656.32,"Nebraska",55653.596
+"750","19-3011","Economists","Virginia",119870,"West Virginia",37790,"Virginia",116837.289,"West Virginia",42509.971
+"751","19-4061","Social Science Research Assistants","Kansas",53780,"Louisiana",19090,"Kansas",59292.45,"Louisiana",20886.369
+"752","25-1071","Health Specialties Teachers, Postsecondary","Washington",129560,"Vermont",43790,"Mississippi",141649.054,"Vermont",43268.899
+"753","27-3099","Media and Communication Workers, All Other","District of Columbia",65540,"Tennessee",29740,"Alaska",56775.461,"Virginia",30868.749
+"754","29-1129","Therapists, All Other","Alaska",113160,"Tennessee",40030,"Alaska",107060.676,"Tennessee",44377.258
+"755","29-1161","Nurse Midwives","California",137330,"Wisconsin",67450,"Oregon",123313.008,"Wisconsin",72218.715
+"756","29-1199","Health Diagnosing and Treating Practitioners, All Other","Maryland",128960,"Tennessee",46120,"Maryland",116915.136,"Colorado",47941.56
+"757","37-2019","Building Cleaning Workers, All Other","Tennessee",39950,"Louisiana",18690,"Tennessee",44288.57,"Maryland",18893.544
+"758","39-3011","Gaming Dealers","Kansas",37210,"North Carolina",17500,"Kansas",41024.025,"Maryland",16318.8
+"759","39-3031","Ushers, Lobby Attendants, and Ticket Takers","Nevada",26870,"Wyoming",17610,"Nevada",27501.445,"Maryland",16826.496
+"760","41-2012","Gaming Change Persons and Booth Cashiers","New Jersey",29410,"Texas",18210,"Idaho",30322.224,"Texas",18850.992
+"761","41-9091","Door-to-Door Sales Workers, News and Street Vendors, and Related Workers","Alaska",32870,"Wisconsin",17990,"Alaska",31098.307,"Colorado",18392.304
+"762","43-2099","Communications Equipment Operators, All Other","New York",51920,"Michigan",28930,"Nebraska",50598.192,"Michigan",30743.911
+"763","45-3011","Fishers and Related Fishing Workers","Washington",30550,"Florida",27310,"Mississippi",34025.3,"California",26388.502
+"764","47-2072","Pile-Driver Operators","Massachusetts",86000,"Kentucky",29580,"Massachusetts",80298.2,"Kentucky",33348.492
+"765","47-2082","Tapers","Massachusetts",84380,"Idaho",32560,"Illinois",82131.03,"Maryland",33054.636
+"766","47-5011","Derrick Operators, Oil and Gas","Alaska",69300,"Michigan",37510,"Alaska",65564.73,"Illinois",37316.94
+"767","53-2031","Flight Attendants","Texas",51260,"Alaska",36580,"Texas",53064.352,"New York",33707.7
+"768","53-5022","Motorboat Operators","Alaska",68440,"New Jersey",27210,"South Carolina",66830.4,"New Jersey",23765.214
+"769","53-5031","Ship Engineers","Louisiana",101370,"Maine",46540,"Louisiana",110908.917,"Maine",47931.546
+"770","53-6061","Transportation Attendants, Except Flight Attendants","Florida",40660,"Arkansas",18290,"Florida",41030.006,"Hawaii",17671.968
+"771","11-9013","Farmers, Ranchers, and Other Agricultural Managers","New Jersey",90460,"Colorado",41860,"Florida",89295.259,"Colorado",41039.544
+"772","11-9071","Gaming Managers","North Dakota",81820,"Oklahoma",52580,"North Dakota",89421.078,"Colorado",51598.452
+"773","13-1011","Agents and Business Managers of Artists, Performers, and Athletes","Massachusetts",85330,"Oregon",30440,"Massachusetts",79672.621,"Maryland",27950.478
+"774","19-1012","Food Scientists and Technologists","Minnesota",79280,"South Carolina",39090,"Minnesota",81230.288,"South Carolina",43194.45
+"775","19-3022","Survey Researchers","Maryland",78580,"West Virginia",19460,"Tennessee",78211.73,"Missouri",21846.258
+"776","19-3041","Sociologists","New Jersey",153000,"Texas",33450,"New Jersey",133630.2,"Texas",34627.44
+"777","19-3094","Political Scientists","Virginia",131500,"Michigan",63730,"Virginia",128173.05,"California",62919.584
+"778","23-1012","Judicial Law Clerks","New York",129500,"Indiana",29950,"New York",111926.85,"Indiana",32768.295
+"779","25-1043","Forestry and Conservation Science Teachers, Postsecondary","California",126770,"New York",57990,"California",112787.269,"New York",50120.757
+"780","25-1061","Anthropology and Archeology Teachers, Postsecondary","Massachusetts",102980,"Idaho",59060,"Michigan",97917.178,"Colorado",58774.98
+"781","25-1062","Area, Ethnic, and Cultural Studies Teachers, Postsecondary","Michigan",101150,"Idaho",46120,"Michigan",107492.105,"Colorado",46745.472
+"782","25-1069","Social Sciences Teachers, Postsecondary, All Other","California",83970,"Maine",36320,"Kentucky",85321.632,"Maine",37405.968
+"783","27-1013","Fine Artists, Including Painters, Sculptors, and Illustrators","Washington",71010,"Ohio",18980,"Washington",68411.034,"Ohio",21253.804
+"784","27-1027","Set and Exhibit Designers","District of Columbia",70100,"South Carolina",24740,"Connecticut",60458.398,"South Carolina",27337.7
+"785","27-1029","Designers, All Other","Massachusetts",82620,"Montana",30870,"Georgia",79340.13,"Montana",32771.592
+"786","27-2011","Actors",NA,NA,NA,NA,NA,NA,NA,NA
+"787","27-2021","Athletes and Sports Competitors","Connecticut",60240,"Arkansas",18510,"Utah",60183.942,"Arkansas",21155.079
+"788","27-2099","Entertainers and Performers, Sports and Related Workers, All Other",NA,NA,NA,NA,NA,NA,NA,NA
+"789","29-1029","Dentists, All Other Specialists","Tennessee",185990,"California",89350,"Ohio",208137.226,"California",79494.695
+"790","33-9031","Gaming Surveillance Officers and Gaming Investigators","Ohio",44060,"West Virginia",21870,"Ohio",49338.388,"New York",23327.457
+"791","39-3019","Gaming Service Workers, All Other","Oklahoma",49470,"Maryland",18560,"Oklahoma",54906.753,"Maryland",16826.496
+"792","39-7012","Travel Guides","Tennessee",54290,"Arizona",18300,"Tennessee",60185.894,"Arizona",18982.59
+"793","41-9012","Models","Pennsylvania",42790,"Iowa",18020,"Ohio",46863.63,"Texas",18778.528
+"794","43-3041","Gaming Cage Workers","New Jersey",33920,"Montana",19220,"Nevada",31779.675,"Montana",20403.952
+"795","43-9081","Proofreaders and Copy Markers","District of Columbia",46840,"New Mexico",18720,"North Carolina",47731.185,"New Mexico",19704.672
+"796","47-2142","Paperhangers","Washington",46300,"Arizona",19690,"Washington",44605.42,"Arizona",20424.437
+"797","47-2171","Reinforcing Iron and Rebar Workers","New York",95550,"South Dakota",31080,"Indiana",89311.383,"South Dakota",35319.312
+"798","47-2231","Solar Photovoltaic Installers","Hawaii",50070,"Florida",29170,"Louisiana",47801.229,"Florida",29435.447
+"799","47-5051","Rock Splitters, Quarry","Massachusetts",46100,"Texas",19870,"Washington",43719.092,"Texas",20569.424
+"800","49-9061","Camera and Photographic Equipment Repairers","Wisconsin",68350,"New York",25760,"Wisconsin",73182.345,"New York",22264.368
+"801","49-9097","Signal and Track Switch Repairers","New York",72850,"Louisiana",40110,"Kentucky",79008.192,"Louisiana",43884.351
+"802","51-4199","Metal Workers and Plastic Workers, All Other","North Carolina",46970,"Mississippi",22120,"North Carolina",51220.785,"Florida",22906.57
+"803","51-9141","Semiconductor Processors","New Hampshire",44780,"Colorado",30120,"Ohio",45284.712,"Connecticut",27775.202
+"804","53-6041","Traffic Technicians","Nevada",72100,"Mississippi",26120,"Nevada",73794.35,"Mississippi",30126.808
+"805","17-2021","Agricultural Engineers","North Carolina",108500,"Florida",44270,"North Carolina",118319.25,"Florida",44672.857
+"806","19-1011","Animal Scientists","Maryland",76190,"Florida",42570,"Nebraska",75842.098,"Florida",42957.387
+"807","51-6042","Shoe Machine Operators and Tenders","Massachusetts",30510,"California",20960,"Georgia",29131.6,"California",18648.112
+"808","53-4012","Locomotive Firers","Pennsylvania",50970,"Arkansas",46560,"Arkansas",53213.424,"Pennsylvania",51902.751
+"809","53-7073","Wellhead Pumpers","Montana",59920,"Louisiana",24680,"North Dakota",64022.082,"Louisiana",27002.388
+"810","13-1074","Farm Labor Contractors","California",52430,"Florida",32140,"California",46646.971,"Florida",32432.474
+"811","15-2021","Mathematicians","New Jersey",145360,"Texas",53900,"New Jersey",126957.424,"Texas",55797.28
+"812","17-2121","Marine Engineers and Naval Architects","District of Columbia",127820,"Wisconsin",70010,"Texas",110859.568,"Hawaii",69232.332
+"813","19-2011","Astronomers","California",133820,"Texas",61250,"New Mexico",123796.286,"Texas",63406
+"814","19-3032","Industrial-Organizational Psychologists","Minnesota",102020,"Ohio",68950,"Minnesota",104529.692,"Florida",71565.372
+"815","19-3092","Geographers","Virginia",94420,"Georgia",39540,"Virginia",92031.174,"Georgia",42979.98
+"816","27-1022","Fashion Designers","Georgia",86880,"Virginia",40380,"Georgia",94438.56,"Hawaii",37458.75
+"817","27-2031","Dancers",NA,NA,NA,NA,NA,NA,NA,NA
+"818","27-2032","Choreographers","New York",75370,"South Dakota",27030,"Washington",69817.598,"South Dakota",30716.892
+"819","29-1024","Prosthodontists","Texas",130770,"California",92680,"Texas",135373.104,"California",82457.396
+"820","29-9092","Genetic Counselors","South Carolina",105570,"Michigan",45520,"South Carolina",116654.85,"Michigan",48374.104
+"821","33-3052","Transit and Railroad Police","New Jersey",90320,"Missouri",34750,"New Jersey",78885.488,"Missouri",38871.35
+"822","39-3092","Costume Attendants","New York",70340,"Oregon",19590,"New York",60794.862,"Oregon",19787.859
+"823","39-5011","Barbers","Illinois",72990,"Wisconsin",18650,"Illinois",72479.07,"New Jersey",17948.37
+"824","39-5091","Makeup Artists, Theatrical and Performance","District of Columbia",104350,"Indiana",17930,"Tennessee",101115.406,"Indiana",19617.213
+"825","45-2021","Animal Breeders","Ohio",49990,"Missouri",24910,"Ohio",55978.802,"Missouri",27864.326
+"826","47-2053","Terrazzo Workers and Finishers","Massachusetts",87590,"Minnesota",30030,"Massachusetts",81782.783,"Washington",30058.08
+"827","49-9081","Wind Turbine Service Technicians","South Dakota",65790,"Wyoming",38910,"South Dakota",74763.756,"Wyoming",40446.945
+"828","49-9093","Fabric Menders, Except Garment","Illinois",30810,"Texas",19350,"Illinois",30594.33,"Texas",20031.12
+"829","51-6092","Fabric and Apparel Patternmakers","New York",64070,"Louisiana",24070,"New York",55375.701,"Illinois",23911.44
+"830","51-7031","Model Makers, Wood","New York",43530,"South Carolina",22850,"North Carolina",38821.8,"South Carolina",25249.25
+"831","51-7032","Patternmakers, Wood","Michigan",47380,"Tennessee",23050,"Michigan",50350.726,"Tennessee",25553.23
+"832","51-8011","Nuclear Power Reactor Operators","New York",103470,"Mississippi",78690,"Michigan",99723.768,"New Jersey",78509.926
+"833","53-4041","Subway and Streetcar Operators","New York",74240,"Colorado",41170,"Illinois",65269.89,"Colorado",40363.068
+"834","53-4099","Rail Transportation Workers, All Other","California",84100,"North Carolina",24630,"California",74823.77,"North Carolina",26859.015
+"835","53-6011","Bridge and Lock Tenders","Minnesota",56520,"Oregon",24320,"Mississippi",61337.812,"Oregon",24565.632
+"836","53-7031","Dredge Operators","California",60530,"Nebraska",34720,"Idaho",55826.298,"Illinois",36135.27
+"837","15-2099","Mathematical Science Occupations, All Other","Ohio",122250,"Maryland",37470,"Ohio",136895.55,"Maryland",33970.302
+"838","47-5061","Roof Bolters, Mining","Wyoming",84900,"Indiana",47640,"Wyoming",88253.55,"Indiana",52122.924
+"839","27-4013","Radio Operators","New York",62710,"Indiana",36490,"Michigan",60818.321,"Maryland",35003.826
+"840","15-2091","Mathematical Technicians","Texas",51740,"Georgia",34150,"Texas",53561.248,"Georgia",37121.05
+"841","47-4091","Segmental Pavers","Wisconsin",35640,"Florida",25240,"Wisconsin",38159.748,"Florida",25469.684
+"842","51-2093","Timing Device Assemblers and Adjusters","Wisconsin",51390,"Ohio",24000,"Wisconsin",55023.273,"Ohio",26875.2
+"843","35-2013","Cooks, Private Household","New York",25310,"Oklahoma",20460,"Oklahoma",22708.554,"New York",21875.433
