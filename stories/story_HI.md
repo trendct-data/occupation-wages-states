@@ -2,17 +2,18 @@
 
 #Hawaii
 
-In Hawaii, there are about 0.6 million full-time workers.
+In Hawaii, there are about 0.6 million full-time workers based on 2015 data.
 
-
-Most workers in the state are in major job category of office and administrative support occupations (about 14.73 percent). More specifically, the most employed people in the state work as retail salespersons (4 percent).
+The largest major job category in the state was office and administrative support occupations (about 14.73 percent). Using narrower job descriptions, retail salespersons were the largest category at 4 percent.
                
 The annual median pay ranges from $18,860 for childcare workers at the lowest end of the spectrum to  $185,550 for nurse anesthetists at the highest. That's a gap of $142,720. Mississippi has the largest gap in the country of $193,000 between anesthesiologists and psychiatric aides.
-               
+          
+Credentials, experience, and skill contribute to the differences in pay within a given occupation.
+
 ## Best paid jobs
-Hawaii's highest paid jobs include psychiatrists, chief executives, and pediatricians.
+Hawaii's highest paid jobs include <span class='occ_title_em'>psychiatrists, chief executives</span>, and <span class='occ_title_em'>pediatricians</span>.
                
-About 31 occupations in Hawaii have the highest median annual pay compared to the other states in the country. Out of 603, that's 6 percent of all jobs with the highest pay categorized by the Bureau of Labor Statistics.
+About 31 occupations in Hawaii have the highest median annual pay compared to the other states in the country. Out of 603 specific occupations, that's 6 percent of all jobs with the highest pay categorized by the Bureau of Labor Statistics.
                
 However, the value of a dollar differs state to state. Prices for some things can be cheaper or more expensive depending on where someone lives. For example, $85.62 in Hawaii is actually $110.99 in Oklahoma, according to the Bureau of Economic Analysis.
                
@@ -20,12 +21,15 @@ So after adjusting for the actual value of a dollar in a given state, Hawaii has
                
 ## Worst paid jobs
 
-Its lowest-paying jobs include combined food preparation and serving workers, including fast food, weighers, measurers, checkers, and samplers, recordkeeping, and shampooers. After adjusting for cost of living, those occupational groups make $19,033,  $19,812, and  $17,432, respectively.
+Its lowest-paying jobs include <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>, <span class='occ_title_em'>weighers, measurers, checkers, and samplers, recordkeeping</span>, and <span class='occ_title_em'>shampooers</span>. After adjusting for cost of living, those occupational groups make $19,033,  $19,812, and  $17,432, respectively.
                
-Weighers, measurers, checkers, and samplers, recordkeeping have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $46,343 to $18,900. That's a change of about -59.22 percent.
+<span class='occ_title_em'>Dentists, general</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $-1 to $120,900. That's a change of about -12,090,100 percent.
                
-Meanwhile, physician assistants saw the sharpest increase in wages in Hawaii. Wages went up 168.55 percent between 1999 and 2015 from $34,329 to $92,190.
+Meanwhile, <span class='occ_title_em'>physician assistants</span> saw the sharpest increase in wages in Hawaii. Income went up 168.55 percent between 1999 and 2015 from $34,329 to $92,190.
 
-Protective service workers, all other lost the most workers in Hawaii. In 2004, there were 2,430 employees. But by 2015, that figure declined 86.01 percent to 340. 
+Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
+
+            
+The biggest decline for any job category inHawaiiwas among <span class='occ_title_em'>Bus drivers, transit and intercity</span>. In 1999, there were -1 employees. But by 2015, that figure declined 242100 percent to 2,420. 
                
 The jobs that had gained the most employees was personal and home care aides. There were 1,791 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 220 to 4,160 in Hawaii.

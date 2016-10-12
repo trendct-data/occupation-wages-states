@@ -8,6 +8,9 @@ output: html_document
 # Would you make more money doing your job in another state?
 
 ### Explore how wages vary depending on where one lives
+
+[Interative goes here]
+
 ```{r setup, include=FALSE}
 library(readxl)
 library(dplyr)
@@ -310,10 +313,11 @@ most_workers_state <- subset(most_workers, STATE==state_abbr)
 state_max_min_state <- subset(state_max_min, State==state_abbr)
 ```
 
-What someone earns can vary due to factors such as industry, geography, and worker skill. 
-Jobs with more consistent tasks such as waiters or retail workers have more consistent median annual wages state to state. 
+Would you be better off doing your job where you currently reside or would you be better off moving to another state, after adjusting the cost of living? 
 
-But the larger the variation within a particular occupation, particularly with healthcare, management, and the arts, the larger the pay can vary. 
+What someone earns can vary due to factors such as industry, geography, and worker skill. Jobs with more consistent tasks such as waiters or retail workers have more consistent median annual wages state to state.
+
+But the larger the variation within a particular occupation, particularly with healthcare, management, and the arts, the larger the pay can vary.
 
 ## `r state_name`
 
@@ -335,7 +339,7 @@ So after adjusting for the actual value of a dollar in a given state, `r state_n
 
 ## Worst paid jobs
 
-Its lowest-paying jobs include `r paste0(min_job_median$OCC_TITLE[4], ", ", min_job_median$OCC_TITLE[3], ", and ", min_job_median$OCC_TITLE[2])`. After adjusting for cost of living, those occupational groups make $`r formatC(round(max(min_job_median$adjusted_A_MEAN[4])), format="d", big.mark=',')`,  $`r formatC(round(max(min_job_median$adjusted_A_MEAN[3])), format="d", big.mark=',')`, and  $`r formatC(round(max(min_job_median$adjusted_A_MEAN[2])), format="d", big.mark=',')`, respectively.
+Its lowest-paying jobs include `r paste0(min_job_median$OCC_TITLE[4], "; ", min_job_median$OCC_TITLE[3], "; and ", min_job_median$OCC_TITLE[2])`. After adjusting for cost of living, those occupational groups make $`r formatC(round(max(min_job_median$adjusted_A_MEAN[4])), format="d", big.mark=',')`,  $`r formatC(round(max(min_job_median$adjusted_A_MEAN[3])), format="d", big.mark=',')`, and  $`r formatC(round(max(min_job_median$adjusted_A_MEAN[2])), format="d", big.mark=',')`, respectively.
 
 ```{r time, include=F}
 overtime <- read.csv("mega_wages.csv", stringsAsFactors=F)
@@ -497,6 +501,6 @@ BLS excludes wages in the top 10 percent, or more than $187,200, when determinin
 
 ----
 
-**Check our work** —  The data and analysis for this story are available in Trend CT’s <a href="https://github.com/trendct-data/ct-leaf-colors-analysis">GitHub repository</a>. Read about <a href="http://trendct.org/data/">our philosophy</a> on reproducibility and open data. 
+**Check our work** —  The data and analysis for this story are available in Trend CT’s <a href="https://github.com/trendct-data/occupation-wages-states">GitHub repository</a>. Read about <a href="http://trendct.org/data/">our philosophy</a> on reproducibility and open data. 
 
 ----

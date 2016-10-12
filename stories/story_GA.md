@@ -2,17 +2,18 @@
 
 #Georgia
 
-In Georgia, there are about 4.1 million full-time workers.
+In Georgia, there are about 4.1 million full-time workers based on 2015 data.
 
-
-Most workers in the state are in major job category of office and administrative support occupations (about 15.67 percent). More specifically, the most employed people in the state work as retail salespersons (3.46 percent).
+The largest major job category in the state was office and administrative support occupations (about 15.67 percent). Using narrower job descriptions, retail salespersons were the largest category at 3.46 percent.
                
 The annual median pay ranges from $17,880 for ushers, lobby attendants, and ticket takers at the lowest end of the spectrum to  $181,380 for chief executives at the highest. That's a gap of $177,724. Mississippi has the largest gap in the country of $193,000 between anesthesiologists and psychiatric aides.
-               
+          
+Credentials, experience, and skill contribute to the differences in pay within a given occupation.
+
 ## Best paid jobs
-Georgia's highest paid jobs include nurse anesthetists, dentists, and pediatricians.
+Georgia's highest paid jobs include <span class='occ_title_em'>nurse anesthetists, dentists</span>, and <span class='occ_title_em'>pediatricians</span>.
                
-About 2 occupations in Georgia have the highest median annual pay compared to the other states in the country. Out of 779, that's 4 percent of all jobs with the highest pay categorized by the Bureau of Labor Statistics.
+About 2 occupations in Georgia have the highest median annual pay compared to the other states in the country. Out of 779 specific occupations, that's 4 percent of all jobs with the highest pay categorized by the Bureau of Labor Statistics.
                
 However, the value of a dollar differs state to state. Prices for some things can be cheaper or more expensive depending on where someone lives. For example, $108.7 in Georgia is actually $109.29 in North Dakota, according to the Bureau of Economic Analysis.
                
@@ -20,12 +21,15 @@ So after adjusting for the actual value of a dollar in a given state, Georgia ha
                
 ## Worst paid jobs
 
-Its lowest-paying jobs include waiters and waitresses, hosts and hostesses, restaurant, lounge, and coffee shop, and combined food preparation and serving workers, including fast food. After adjusting for cost of living, those occupational groups make $20,533,  $19,544, and  $19,675, respectively.
+Its lowest-paying jobs include <span class='occ_title_em'>waiters and waitresses</span>, <span class='occ_title_em'>hosts and hostesses, restaurant, lounge, and coffee shop</span>, and <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>. After adjusting for cost of living, those occupational groups make $20,533,  $19,544, and  $19,675, respectively.
                
-Legislators have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $67,643 to $18,220. That's a change of about -73.06 percent.
+<span class='occ_title_em'>Dentists, general</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $-1 to $157,540. That's a change of about -15,754,100 percent.
                
-Meanwhile, costume attendants saw the sharpest increase in wages in Georgia. Wages went up 144.68 percent between 2000 and 2015 from $21,988 to $53,800.
+Meanwhile, <span class='occ_title_em'>costume attendants</span> saw the sharpest increase in wages in Georgia. Income went up 144.68 percent between 2000 and 2015 from $21,988 to $53,800.
 
-Correspondence clerks lost the most workers in Georgia. In 1999, there were 2,080 employees. But by 2015, that figure declined 96.15 percent to 80. 
+Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
+
+            
+The biggest decline for any job category inGeorgiawas among <span class='occ_title_em'>Reservation and transportation ticket agents and travel clerks</span>. In 1999, there were -1 employees. But by 2014, that figure declined 908100 percent to 9,080. 
                
 The jobs that had gained the most employees was electrical and electronics repairers, powerhouse, substation, and relay. There were 2,220 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 50 to 1,160 in Georgia.
