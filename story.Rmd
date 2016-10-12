@@ -5,6 +5,9 @@ date: "September 14, 2016"
 output: html_document
 ---
 
+# Would you make more money doing your job in another state?
+
+### Explore how wages vary depending on where one lives
 ```{r setup, include=FALSE}
 library(readxl)
 library(dplyr)
@@ -307,13 +310,20 @@ most_workers_state <- subset(most_workers, STATE==state_abbr)
 state_max_min_state <- subset(state_max_min, State==state_abbr)
 ```
 
-# Focusing on `r state_name`
+What someone earns can vary due to factors such as industry, geography, and worker skill. 
+Jobs with more consistent tasks such as waiters or retail workers have more consistent median annual wages state to state. 
+
+But the larger the variation within a particular occupation, particularly with healthcare, management, and the arts, the larger the pay can vary. 
+
+## `r state_name`
 
 In `r state_name`, there are about `r total_emp` million full-time workers.
 
 Most workers in the state are in major job category of `r most_workers_state$major_title` (about `r most_workers_state$major_percent` percent). More specifically, the most employed people in the state work as `r most_workers_state$detailed_title` (`r most_workers_state$detailed_percent` percent).
 
 The annual median pay ranges from $`r formatC(round(min(state_wages_median$A_MEDIAN)), format="d", big.mark=',')` for `r min_job_median$OCC_TITLE[1]` at the lowest end of the spectrum to  $`r formatC(round(max(state_wages_median$A_MEDIAN)), format="d", big.mark=',')` for `r max_job_median$OCC_TITLE[5]` at the highest. That's a gap of $`r paste0(formatC(round(max(state_max_min_state$adj_diff)), format="d", big.mark=','),  ifelse(state_abbr=="MS", ", the largest in the country.", paste0(". Mississippi has the largest gap in the country of $193,000 between anesthesiologists and psychiatric aides.")))`
+
+Credentials, experience, and skill contribute to the differences in pay within a given occupation. 
 
 `r ifelse(substr(state_name, nchar(state_name), nchar(state_name))=="s", paste0(state_name, "'"), paste0(state_name, "'s"))` highest paid jobs include `r paste0(max_job_median$OCC_TITLE[2], ", ", max_job_median$OCC_TITLE[3], ", and ", max_job_median$OCC_TITLE[4])`.
 
@@ -322,6 +332,8 @@ About `r nrow(number1_median)` occupations in `r state_name` have the highest me
 However, the value of a dollar differs state to state. Prices for some things can be cheaper or more expensive depending on where someone lives. For example, $`r dol_value1` in `r state_name` is actually $`r dol_value2` in `r dol_value2_state`, according to the Bureau of Economic Analysis.
 
 So after adjusting for the actual value of a dollar in a given state, `r state_name` has about `r nrow(number1_median_adjusted)` jobs that have the highest median annual salary compared to other states.
+
+## Worst paid jobs
 
 Its lowest-paying jobs include `r paste0(min_job_median$OCC_TITLE[4], ", ", min_job_median$OCC_TITLE[3], ", and ", min_job_median$OCC_TITLE[2])`. After adjusting for cost of living, those occupational groups make $`r formatC(round(max(min_job_median$adjusted_A_MEAN[4])), format="d", big.mark=',')`,  $`r formatC(round(max(min_job_median$adjusted_A_MEAN[3])), format="d", big.mark=',')`, and  $`r formatC(round(max(min_job_median$adjusted_A_MEAN[2])), format="d", big.mark=',')`, respectively.
 
@@ -430,6 +442,8 @@ wages_all_state_min <- head(wages_all_state, 5)
 
 Meanwhile, `r str_to_lower(wages_all_state_max$OCC_TITLE[5])` saw the sharpest increase in wages in `r state_name`. Wages went up `r wages_all_state_max$percent_change_wages[5]` percent between `r wages_all_state_max$FIRST_YEAR[1]` and `r wages_all_state_max$LAST_YEAR[1]` from $`r  formatC(round(min(wages_all_state_max$FIRST_adjusted_A_MEDIAN[5])), format="d", big.mark=',')` to $`r  formatC(round(min(wages_all_state_max$LAST_adjusted_A_MEDIAN[5])), format="d", big.mark=',')`.
 
+Some occupations are markedly competitive, with less workers earning more. Local demand for the work and cost of living also can affect salaries.
+
 `r growth_all_state_min$OCC_TITLE[1]` lost the most workers in `r state_name`. In `r growth_all_state_min$FIRST_YEAR[1]`, there were `r  formatC(round(min(growth_all_state_min$FIRST_TOT_EMP[1])), format="d", big.mark=',')` employees. But by `r growth_all_state_min$LAST_YEAR[1]`, that figure declined `r growth_all_state_min$percent_change_emp[1]*-1` percent to `r  formatC(round(min(growth_all_state_min$LAST_TOT_EMP[1])), format="d", big.mark=',')`. 
 
 The jobs that had gained the most employees was `r str_to_lower(growth_all_state_max$OCC_TITLE[5])`. There were `r formatC(round(min(growth_all_state_max$percent_change_emp[5])), format="d", big.mark=',')` percent more workers in `r growth_all_state_max$LAST_YEAR[1]` as compared to `r growth_all_state_max$FIRST_YEAR[1]`. Overall, the total number of workers grew from `r  formatC(round(min(growth_all_state_max$FIRST_TOT_EMP[5])), format="d", big.mark=',')` to `r  formatC(round(min(growth_all_state_max$LAST_TOT_EMP[5])), format="d", big.mark=',')` in `r state_name`.
@@ -466,8 +480,23 @@ growth_all_state <- filter(growth_all, ST==state_abbr & OCC_CODE==state_code)
 
 ```
 
-The adjusted median annual salary for `r str_to_lower(state_occ)` in `r state_name` is $`r formatC(round(min(occu_only_state$adjusted_A_MEDIAN)), format="d", big.mark=',')`, which is ranked `r occu_only_state$rank_adjusted_A_MEDIAN` in the country. `r ifelse(occu_only_state$rank_adjusted_A_MEDIAN==51, "", paste0(state_occ, " in ", occu_only_low$STATE[5], " make the lowest salary out of all the states at $", formatC(round(min(occu_only_low$adjusted_A_MEDIAN[5])), format="d", big.mark=','), "."))` `r ifelse(occu_only_state$rank_adjusted_A_MEDIAN==1, "", paste0(state_occ, " in ", occu_only_high$STATE[1], " make the highest salary at $", formatC(round(min(occu_only_high$adjusted_A_MEDIAN[1])), format="d", big.mark=','), "."))`
+## `r state_occ`
+
+The adjusted median annual salary for `r str_to_lower(state_occ)` in `r state_name` is $`r formatC(round(min(occu_only_state$adjusted_A_MEDIAN)), format="d", big.mark=',')`, which is ranked `r occu_only_state$rank_adjusted_A_MEDIAN` in the country. `r ifelse(occu_only_state$rank_adjusted_A_MEDIAN==51, "", paste0(state_occ, " in ", occu_only_low$STATE[5], " make the lowest salary out of all the states at $", formatC(round(min(occu_only_low$adjusted_A_MEDIAN[5])), format="d", big.mark=','), "."))` `r ifelse(occu_only_state$rank_adjusted_A_MEDIAN==1, "", paste0("Over in ", occu_only_high$STATE[1], ", they make the highest salary at $", formatC(round(min(occu_only_high$adjusted_A_MEDIAN[1])), format="d", big.mark=','), "."))`
 
 `r state_occ` in `r state_name` earn about the same as `r str_to_lower(wage_sorted_sorta$OCC_TITLE[r_n])` in `r wage_sorted_sorta$STATE[r_n]`.
 
 The wages for `r str_to_lower(state_occ)` have `r ifelse(wages_all_state$FIRST_adjusted_A_MEDIAN > wages_all_state$LAST_adjusted_A_MEDIAN, "declined", "grown")` by `r ifelse(wages_all_state$percent_change_wages < 0, wages_all_state$percent_change_wages*-1, wages_all_state$percent_change_wages)` percent to $`r formatC(round(min(wages_all_state$LAST_adjusted_A_MEDIAN)), format="d", big.mark=',')` and the number of employees have `r ifelse(growth_all_state$FIRST_TOT_EMP > growth_all_state$LAST_TOT_EMP, "declined", "grown")` by `r ifelse(growth_all_state$percent_change_emp < 0, growth_all_state$percent_change_emp*-1, growth_all_state$percent_change_emp)` percent to `r formatC(round(min(growth_all_state$LAST_TOT_EMP)), format="d", big.mark=',')` in `r growth_all_state$LAST_YEAR`.
+
+
+```notes
+Data from this story is from the Bureau of Labor Statistics Occupational Employment Statistics survey— specifically the wages as defined by straight-time, gross pay, which includes some types of pay like commissions, production bonuses, and tips. It does not include premium pay, such as overtime or profit-sharing payments, nor does it include data on the self-employed.
+
+BLS excludes wages in the top 10 percent, or more than $187,200, when determining the median.
+```
+
+----
+
+**Check our work** —  The data and analysis for this story are available in Trend CT’s <a href="https://github.com/trendct-data/ct-leaf-colors-analysis">GitHub repository</a>. Read about <a href="http://trendct.org/data/">our philosophy</a> on reproducibility and open data. 
+
+----
