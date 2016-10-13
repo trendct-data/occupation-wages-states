@@ -1,6 +1,6 @@
 
 
-#Delaware
+##Delaware
 
 In Delaware, there are about 0.4 million full-time workers based on 2015 data.
 

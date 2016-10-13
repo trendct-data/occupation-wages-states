@@ -1,6 +1,6 @@
 
 
-#South Carolina
+##South Carolina
 
 In South Carolina, there are about 1.9 million full-time workers based on 2015 data.
 

@@ -1,6 +1,6 @@
 
 
-#Wyoming
+##Wyoming
 
 In Wyoming, there are about 0.3 million full-time workers based on 2015 data.
 

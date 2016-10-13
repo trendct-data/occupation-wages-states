@@ -1,6 +1,6 @@
 
 
-#Utah
+##Utah
 
 In Utah, there are about 1.3 million full-time workers based on 2015 data.
 

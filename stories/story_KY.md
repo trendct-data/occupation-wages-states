@@ -1,6 +1,6 @@
 
 
-#Kentucky
+##Kentucky
 
 In Kentucky, there are about 1.8 million full-time workers based on 2015 data.
 

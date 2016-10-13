@@ -1,6 +1,6 @@
 
 
-#Michigan
+##Michigan
 
 In Michigan, there are about 4.1 million full-time workers based on 2015 data.
 

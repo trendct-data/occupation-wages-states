@@ -1,6 +1,6 @@
 
 
-#Colorado
+##Colorado
 
 In Colorado, there are about 2.5 million full-time workers based on 2015 data.
 

@@ -1,6 +1,6 @@
 
 
-#Connecticut
+##Connecticut
 
 In Connecticut, there are about 1.7 million full-time workers based on 2015 data.
 

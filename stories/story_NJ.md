@@ -1,6 +1,6 @@
 
 
-#New Jersey
+##New Jersey
 
 In New Jersey, there are about 3.9 million full-time workers based on 2015 data.
 

@@ -1,6 +1,6 @@
 
 
-#California
+##California
 
 In California, there are about 15.5 million full-time workers based on 2015 data.
 
