@@ -6,7 +6,7 @@ In Washington, there are about 3 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 14.17 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.55 percent.
                
-The annual median pay ranges from $19,910 for <span class='occ_title_em'>forest and conservation workers</span> at the lowest end of the spectrum to  $181,490 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $155,666. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $19,181 for <span class='occ_title_em'>forest and conservation workers</span> at the lowest end of the spectrum to  $174,847 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $155,666. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>dentists, all other specialists</span> saw
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Washington was among <span class='occ_title_em'>Helpers, construction trades, all other</span>. In 2004, there were 1,470 employees. But by 2015, that figure declined 94.56 percent to 80. 
+The biggest decline for any job category in Washington was among <span class='occ_title_em'>helpers, construction trades, all other</span>. In 2004, there were 1,470 employees. But by 2015, that figure declined 94.56 percent to 80. 
                
 The jobs that had gained the most employees was slaughterers and meat packers. There were 3,967 percent more workers in 2015 as compared to 2004. Overall, the total number of workers grew from 30 to 1,220 in Washington.

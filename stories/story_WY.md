@@ -6,7 +6,7 @@ In Wyoming, there are about 0.3 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 12.9 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 2.99 percent.
                
-The annual median pay ranges from $17,610 for <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span> at the lowest end of the spectrum to  $164,160 for <span class='occ_title_em'>dentists</span> at the highest. That's a gap of $152,339. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $18,306 for <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span> at the lowest end of the spectrum to  $170,644 for <span class='occ_title_em'>dentists</span> at the highest. That's a gap of $152,339. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>optometrists</span> saw the sharpest incre
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Wyoming was among <span class='occ_title_em'>Chief executives</span>. In 1999, there were 990 employees. But by 2015, that figure declined 83.84 percent to 160. 
+The biggest decline for any job category in Wyoming was among <span class='occ_title_em'>chief executives</span>. In 1999, there were 990 employees. But by 2015, that figure declined 83.84 percent to 160. 
                
 The jobs that had gained the most employees was fence erectors. There were 1,067 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 30 to 350 in Wyoming.

@@ -6,7 +6,7 @@ In Colorado, there are about 2.5 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 14.81 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.32 percent.
                
-The annual median pay ranges from $18,480 for <span class='occ_title_em'>motion picture projectionists</span> at the lowest end of the spectrum to  $163,220 for <span class='occ_title_em'>airline pilots, copilots, and flight engineers</span> at the highest. That's a gap of $141,903. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $18,118 for <span class='occ_title_em'>motion picture projectionists</span> at the lowest end of the spectrum to  $160,021 for <span class='occ_title_em'>airline pilots, copilots, and flight engineers</span> at the highest. That's a gap of $141,903. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>bailiffs</span> saw the sharpest increase 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Colorado was among <span class='occ_title_em'>Helpers--carpenters</span>. In 1999, there were 4,110 employees. But by 2015, that figure declined 94.65 percent to 220. 
+The biggest decline for any job category in Colorado was among <span class='occ_title_em'>helpers--carpenters</span>. In 1999, there were 4,110 employees. But by 2015, that figure declined 94.65 percent to 220. 
                
 The jobs that had gained the most employees was service unit operators, oil, gas, and mining. There were 4,812 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 80 to 3,930 in Colorado.

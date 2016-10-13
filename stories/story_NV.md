@@ -6,7 +6,7 @@ In Nevada, there are about 1.2 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 15.62 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 4.14 percent.
                
-The annual median pay ranges from $17,660 for <span class='occ_title_em'>gaming dealers</span> at the lowest end of the spectrum to  $184,390 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $170,648. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $18,075 for <span class='occ_title_em'>gaming dealers</span> at the lowest end of the spectrum to  $188,723 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $170,648. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>agents and business managers of artists, p
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Nevada was among <span class='occ_title_em'>Survey researchers</span>. In 2000, there were 1,680 employees. But by 2015, that figure declined 94.05 percent to 100. 
+The biggest decline for any job category in Nevada was among <span class='occ_title_em'>survey researchers</span>. In 2000, there were 1,680 employees. But by 2015, that figure declined 94.05 percent to 100. 
                
 The jobs that had gained the most employees was personal and home care aides. There were 4,724 percent more workers in 2014 as compared to 1999. Overall, the total number of workers grew from 210 to 10,130 in Nevada.

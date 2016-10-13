@@ -6,7 +6,7 @@ In District of Columbia, there are about 0.7 million full-time workers based on 
 
 The largest major job category in the state was <span class='occ_title_em'>business and financial operations occupations</span> (about 14.66 percent). Using narrower job descriptions, <span class='occ_title_em'>lawyers</span> were the largest category at 4.54 percent.
                
-The annual median pay ranges from $19,930 for <span class='occ_title_em'>waiters and waitresses</span> at the lowest end of the spectrum to  $186,370 for <span class='occ_title_em'>chief executives</span> at the highest. That's a gap of $140,925. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $16,875 for <span class='occ_title_em'>waiters and waitresses</span> at the lowest end of the spectrum to  $157,799 for <span class='occ_title_em'>chief executives</span> at the highest. That's a gap of $140,925. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>healthcare practitioners and technical wor
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in District of Columbia was among <span class='occ_title_em'>Word processors and typists</span>. In 1999, there were 5,260 employees. But by 2015, that figure declined 94.87 percent to 270. 
+The biggest decline for any job category in District of Columbia was among <span class='occ_title_em'>word processors and typists</span>. In 1999, there were 5,260 employees. But by 2015, that figure declined 94.87 percent to 270. 
                
 The jobs that had gained the most employees was postal service mail carriers. There were 2,325 percent more workers in 2015 as compared to 2004. Overall, the total number of workers grew from 40 to 970 in District of Columbia.

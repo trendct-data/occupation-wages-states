@@ -6,7 +6,7 @@ In New Hampshire, there are about 0.6 million full-time workers based on 2015 da
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 16.52 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 4.36 percent.
                
-The annual median pay ranges from $17,730 for <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span> at the lowest end of the spectrum to  $177,490 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $151,868. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $16,854 for <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span> at the lowest end of the spectrum to  $168,722 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $151,868. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>securities, commodities, and financial ser
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in New Hampshire was among <span class='occ_title_em'>Semiconductor processors</span>. In 2000, there were 1,450 employees. But by 2015, that figure declined 95.86 percent to 60. 
+The biggest decline for any job category in New Hampshire was among <span class='occ_title_em'>semiconductor processors</span>. In 2000, there were 1,450 employees. But by 2015, that figure declined 95.86 percent to 60. 
                
 The jobs that had gained the most employees was medical scientists, except epidemiologists. There were 1,333 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 30 to 430 in New Hampshire.

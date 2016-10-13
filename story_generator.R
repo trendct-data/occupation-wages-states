@@ -70,7 +70,7 @@ state_abbreviations <- unique(wages2015$ST)
 
 for (i in 1:length(state_abbreviations)) {
 state_abbr<- state_abbreviations[i]
-
+print(state_abbr)
 state_wages <- subset(wages2015, ST==state_abbr)
 state_name <- unique(state_wages$STATE)
 total_emp <-  subset(state_wages, OCC_TITLE=="all occupations")
@@ -430,7 +430,7 @@ In ", state_name, ", there are about ", total_emp, " million full-time workers b
 
 The largest major job category in the state was <span class='occ_title_em'>", most_workers_state$major_title, "</span> (about ", most_workers_state$major_percent," percent). Using narrower job descriptions, <span class='occ_title_em'>", most_workers_state$detailed_title,"</span> were the largest category at ", most_workers_state$detailed_percent," percent.
                
-The annual median pay ranges from $", formatC(round(min(state_wages_median$A_MEDIAN)), format="d", big.mark=',')," for <span class='occ_title_em'>", min_job_median$OCC_TITLE[1],"</span> at the lowest end of the spectrum to  $", formatC(round(max(state_wages_median$A_MEDIAN)), format="d", big.mark=',')," for <span class='occ_title_em'>", max_job_median$OCC_TITLE[5],"</span> at the highest. That's a gap of $", paste0(formatC(round(max(state_max_min_state$adj_diff)), format="d", big.mark=','),  ifelse(state_abbr=="MS", ", the largest in the country.", paste0(". Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>."))),"
+The annual median pay ranges from $", formatC(round(min(state_wages_median$adjusted_A_MEDIAN)), format="d", big.mark=',')," for <span class='occ_title_em'>", min_job_median$OCC_TITLE[1],"</span> at the lowest end of the spectrum to  $", formatC(round(max(state_wages_median$adjusted_A_MEDIAN)), format="d", big.mark=',')," for <span class='occ_title_em'>", max_job_median$OCC_TITLE[5],"</span> at the highest. That's a gap of $", paste0(formatC(round(max(state_max_min_state$adj_diff)), format="d", big.mark=','),  ifelse(state_abbr=="MS", ", the largest in the country.", paste0(". Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>."))),"
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -454,7 +454,7 @@ Meanwhile, <span class='occ_title_em'>", str_to_lower(wages_all_state_max$OCC_TI
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in ", state_name, " was among <span class='occ_title_em'>", growth_all_state_min$OCC_TITLE[1],"</span>. In ", growth_all_state_min$FIRST_YEAR[1],", there were ",  formatC(round(min(growth_all_state_min$FIRST_TOT_EMP[1])), format="d", big.mark=',')," employees. But by ", growth_all_state_min$LAST_YEAR[1],", that figure declined ", growth_all_state_min$percent_change_emp[1]*-1," percent to ",  formatC(round(min(growth_all_state_min$LAST_TOT_EMP[1])), format="d", big.mark=','),". 
+The biggest decline for any job category in ", state_name, " was among <span class='occ_title_em'>", str_to_lower(growth_all_state_min$OCC_TITLE[1]),"</span>. In ", growth_all_state_min$FIRST_YEAR[1],", there were ",  formatC(round(min(growth_all_state_min$FIRST_TOT_EMP[1])), format="d", big.mark=',')," employees. But by ", growth_all_state_min$LAST_YEAR[1],", that figure declined ", growth_all_state_min$percent_change_emp[1]*-1," percent to ",  formatC(round(min(growth_all_state_min$LAST_TOT_EMP[1])), format="d", big.mark=','),". 
                
 The jobs that had gained the most employees was ", str_to_lower(growth_all_state_max$OCC_TITLE[5]),". There were ", formatC(round(min(growth_all_state_max$percent_change_emp[5])), format="d", big.mark=',')," percent more workers in ", growth_all_state_max$LAST_YEAR[1]," as compared to ", growth_all_state_max$FIRST_YEAR[1],". Overall, the total number of workers grew from ",  formatC(round(min(growth_all_state_max$FIRST_TOT_EMP[5])), format="d", big.mark=',')," to ",  formatC(round(min(growth_all_state_max$LAST_TOT_EMP[5])), format="d", big.mark=',')," in ", state_name,".")
 

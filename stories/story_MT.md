@@ -6,7 +6,7 @@ In Montana, there are about 0.4 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 15.33 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.46 percent.
                
-The annual median pay ranges from $18,180 for <span class='occ_title_em'>locker room, coatroom, and dressing room attendants</span> at the lowest end of the spectrum to  $181,320 for <span class='occ_title_em'>family and general practitioners</span> at the highest. That's a gap of $173,189. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $19,300 for <span class='occ_title_em'>locker room, coatroom, and dressing room attendants</span> at the lowest end of the spectrum to  $192,489 for <span class='occ_title_em'>family and general practitioners</span> at the highest. That's a gap of $173,189. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>dentists, general</span> saw the sharpest 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Montana was among <span class='occ_title_em'>Demonstrators and product promoters</span>. In 1999, there were 2,020 employees. But by 2015, that figure declined 95.54 percent to 90. 
+The biggest decline for any job category in Montana was among <span class='occ_title_em'>demonstrators and product promoters</span>. In 1999, there were 2,020 employees. But by 2015, that figure declined 95.54 percent to 90. 
                
 The jobs that had gained the most employees was dental hygienists. There were 2,500 percent more workers in 2014 as compared to 2000. Overall, the total number of workers grew from 30 to 780 in Montana.

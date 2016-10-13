@@ -6,7 +6,7 @@ In Florida, there are about 7.9 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 17.73 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 4.25 percent.
                
-The annual median pay ranges from $18,240 for <span class='occ_title_em'>graduate teaching assistants</span> at the lowest end of the spectrum to  $171,240 for <span class='occ_title_em'>psychiatrists</span> at the highest. That's a gap of $154,392. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $18,406 for <span class='occ_title_em'>graduate teaching assistants</span> at the lowest end of the spectrum to  $172,798 for <span class='occ_title_em'>psychiatrists</span> at the highest. That's a gap of $154,392. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>subway and streetcar operators</span> saw 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Florida was among <span class='occ_title_em'>Door-to-door sales workers, news and street vendors, and related workers</span>. In 1999, there were 5,990 employees. But by 2015, that figure declined 99.33 percent to 40. 
+The biggest decline for any job category in Florida was among <span class='occ_title_em'>door-to-door sales workers, news and street vendors, and related workers</span>. In 1999, there were 5,990 employees. But by 2015, that figure declined 99.33 percent to 40. 
                
 The jobs that had gained the most employees was marriage and family therapists. There were 1,823 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 130 to 2,500 in Florida.

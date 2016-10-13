@@ -6,7 +6,7 @@ In Ohio, there are about 5.3 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 15.4 percent). Using narrower job descriptions, <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span> were the largest category at 3.23 percent.
                
-The annual median pay ranges from $18,300 for <span class='occ_title_em'>shampooers</span> at the lowest end of the spectrum to  $185,870 for <span class='occ_title_em'>dentists, all other specialists</span> at the highest. That's a gap of $187,645. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $20,492 for <span class='occ_title_em'>shampooers</span> at the lowest end of the spectrum to  $208,137 for <span class='occ_title_em'>dentists, all other specialists</span> at the highest. That's a gap of $187,645. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>real estate brokers</span> saw the sharpes
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Ohio was among <span class='occ_title_em'>Rail transportation workers, all other</span>. In 2006, there were 1,720 employees. But by 2015, that figure declined 94.19 percent to 100. 
+The biggest decline for any job category in Ohio was among <span class='occ_title_em'>rail transportation workers, all other</span>. In 2006, there were 1,720 employees. But by 2015, that figure declined 94.19 percent to 100. 
                
 The jobs that had gained the most employees was medical scientists, except epidemiologists. There were 903 percent more workers in 2015 as compared to 2000. Overall, the total number of workers grew from 390 to 3,910 in Ohio.

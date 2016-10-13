@@ -6,7 +6,7 @@ In Nebraska, there are about 1 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 16.32 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.09 percent.
                
-The annual median pay ranges from $18,350 for <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span> at the lowest end of the spectrum to  $165,940 for <span class='occ_title_em'>psychiatrists</span> at the highest. That's a gap of $162,910. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $20,255 for <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span> at the lowest end of the spectrum to  $183,165 for <span class='occ_title_em'>psychiatrists</span> at the highest. That's a gap of $162,910. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>occupational therapist assistants</span> s
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Nebraska was among <span class='occ_title_em'>Coil winders, tapers, and finishers</span>. In 2000, there were 410 employees. But by 2015, that figure declined 92.68 percent to 30. 
+The biggest decline for any job category in Nebraska was among <span class='occ_title_em'>coil winders, tapers, and finishers</span>. In 2000, there were 410 employees. But by 2015, that figure declined 92.68 percent to 30. 
                
 The jobs that had gained the most employees was locomotive engineers. There were 1,371 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 70 to 1,030 in Nebraska.

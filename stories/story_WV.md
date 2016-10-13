@@ -6,7 +6,7 @@ In West Virginia, there are about 0.7 million full-time workers based on 2015 da
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 15.88 percent). Using narrower job descriptions, <span class='occ_title_em'>office clerks</span> were the largest category at 3.92 percent.
                
-The annual median pay ranges from $18,260 for <span class='occ_title_em'>lifeguards, ski patrol, and other recreational protective service workers</span> at the lowest end of the spectrum to  $164,920 for <span class='occ_title_em'>family and general practitioners</span> at the highest. That's a gap of $164,978. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $20,541 for <span class='occ_title_em'>lifeguards, ski patrol, and other recreational protective service workers</span> at the lowest end of the spectrum to  $185,519 for <span class='occ_title_em'>family and general practitioners</span> at the highest. That's a gap of $164,978. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>judicial law clerks</span> saw the sharpes
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in West Virginia was among <span class='occ_title_em'>Surgeons</span>. In 1999, there were 700 employees. But by 2015, that figure declined 92.86 percent to 50. 
+The biggest decline for any job category in West Virginia was among <span class='occ_title_em'>surgeons</span>. In 1999, there were 700 employees. But by 2015, that figure declined 92.86 percent to 50. 
                
 The jobs that had gained the most employees was substitute teachers. There were 2,750 percent more workers in 2015 as compared to 2000. Overall, the total number of workers grew from 80 to 2,280 in West Virginia.

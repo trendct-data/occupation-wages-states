@@ -6,7 +6,7 @@ In California, there are about 15.5 million full-time workers based on 2015 data
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 15.9 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 2.92 percent.
                
-The annual median pay ranges from $18,880 for <span class='occ_title_em'>forest and conservation workers</span> at the lowest end of the spectrum to  $185,440 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $148,188. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $16,798 for <span class='occ_title_em'>forest and conservation workers</span> at the lowest end of the spectrum to  $164,986 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $148,188. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>survey researchers</span> saw the sharpest
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in California was among <span class='occ_title_em'>Entertainers and performers, sports and related workers, all other</span>. In 2004, there were 51,080 employees. But by 2015, that figure declined 95.44 percent to 2,330. 
+The biggest decline for any job category in California was among <span class='occ_title_em'>entertainers and performers, sports and related workers, all other</span>. In 2004, there were 51,080 employees. But by 2015, that figure declined 95.44 percent to 2,330. 
                
 The jobs that had gained the most employees was service unit operators, oil, gas, and mining. There were 1,240 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 200 to 2,680 in California.

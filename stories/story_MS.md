@@ -6,7 +6,7 @@ In Mississippi, there are about 1.1 million full-time workers based on 2015 data
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 14.4 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.7 percent.
                
-The annual median pay ranges from $17,530 for <span class='occ_title_em'>psychiatric aides</span> at the lowest end of the spectrum to  $185,490 for <span class='occ_title_em'>anesthesiologists</span> at the highest. That's a gap of $193,725, the largest in the country.
+The annual median pay ranges from $20,219 for <span class='occ_title_em'>psychiatric aides</span> at the lowest end of the spectrum to  $213,944 for <span class='occ_title_em'>anesthesiologists</span> at the highest. That's a gap of $193,725, the largest in the country.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>education, training, and library workers, 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Mississippi was among <span class='occ_title_em'>Forest and conservation workers</span>. In 1999, there were 1,480 employees. But by 2014, that figure declined 95.27 percent to 70. 
+The biggest decline for any job category in Mississippi was among <span class='occ_title_em'>forest and conservation workers</span>. In 1999, there were 1,480 employees. But by 2014, that figure declined 95.27 percent to 70. 
                
 The jobs that had gained the most employees was farmworkers and laborers, crop, nursery, and greenhouse. There were 2,033 percent more workers in 2014 as compared to 2000. Overall, the total number of workers grew from 30 to 640 in Mississippi.

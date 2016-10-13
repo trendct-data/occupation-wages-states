@@ -6,7 +6,7 @@ In Maine, there are about 0.6 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 15.47 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.47 percent.
                
-The annual median pay ranges from $17,890 for <span class='occ_title_em'>locker room, coatroom, and dressing room attendants</span> at the lowest end of the spectrum to  $176,610 for <span class='occ_title_em'>dentists</span> at the highest. That's a gap of $163,466. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $18,425 for <span class='occ_title_em'>locker room, coatroom, and dressing room attendants</span> at the lowest end of the spectrum to  $181,891 for <span class='occ_title_em'>dentists</span> at the highest. That's a gap of $163,466. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>broadcast news analysts</span> saw the sha
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Maine was among <span class='occ_title_em'>Word processors and typists</span>. In 1999, there were 1,590 employees. But by 2015, that figure declined 91.82 percent to 130. 
+The biggest decline for any job category in Maine was among <span class='occ_title_em'>word processors and typists</span>. In 1999, there were 1,590 employees. But by 2015, that figure declined 91.82 percent to 130. 
                
 The jobs that had gained the most employees was telecommunications equipment installers and repairers, except line installers. There were 1,267 percent more workers in 2015 as compared to 2000. Overall, the total number of workers grew from 60 to 820 in Maine.

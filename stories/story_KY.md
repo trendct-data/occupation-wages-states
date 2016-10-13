@@ -6,7 +6,7 @@ In Kentucky, there are about 1.8 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 15.16 percent). Using narrower job descriptions, <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span> were the largest category at 3.56 percent.
                
-The annual median pay ranges from $17,770 for <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span> at the lowest end of the spectrum to  $183,240 for <span class='occ_title_em'>physicians and surgeons, all other</span> at the highest. That's a gap of $186,551. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $20,034 for <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span> at the lowest end of the spectrum to  $206,585 for <span class='occ_title_em'>physicians and surgeons, all other</span> at the highest. That's a gap of $186,551. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>dentists, all other specialists</span> saw
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Kentucky was among <span class='occ_title_em'>Pile-driver operators</span>. In 1999, there were 620 employees. But by 2015, that figure declined 95.16 percent to 30. 
+The biggest decline for any job category in Kentucky was among <span class='occ_title_em'>pile-driver operators</span>. In 1999, there were 620 employees. But by 2015, that figure declined 95.16 percent to 30. 
                
 The jobs that had gained the most employees was locomotive engineers. There were 1,250 percent more workers in 2015 as compared to 2000. Overall, the total number of workers grew from 60 to 810 in Kentucky.

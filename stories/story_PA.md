@@ -6,7 +6,7 @@ In Pennsylvania, there are about 5.7 million full-time workers based on 2015 dat
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 16.35 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.32 percent.
                
-The annual median pay ranges from $18,160 for <span class='occ_title_em'>gaming dealers</span> at the lowest end of the spectrum to  $177,220 for <span class='occ_title_em'>psychiatrists</span> at the highest. That's a gap of $161,971. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $18,492 for <span class='occ_title_em'>gaming dealers</span> at the lowest end of the spectrum to  $180,463 for <span class='occ_title_em'>psychiatrists</span> at the highest. That's a gap of $161,971. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>artists and related workers, all other</sp
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Pennsylvania was among <span class='occ_title_em'>Sewers, hand</span>. In 1999, there were 2,070 employees. But by 2015, that figure declined 93.72 percent to 130. 
+The biggest decline for any job category in Pennsylvania was among <span class='occ_title_em'>sewers, hand</span>. In 1999, there were 2,070 employees. But by 2015, that figure declined 93.72 percent to 130. 
                
 The jobs that had gained the most employees was gaming supervisors. There were 2,220 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 50 to 1,160 in Pennsylvania.

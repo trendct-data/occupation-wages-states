@@ -6,7 +6,7 @@ In New York, there are about 9 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 16.87 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.61 percent.
                
-The annual median pay ranges from $19,180 for <span class='occ_title_em'>food preparation and serving related workers, all other</span> at the lowest end of the spectrum to  $174,810 for <span class='occ_title_em'>marketing managers</span> at the highest. That's a gap of $134,511. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $16,577 for <span class='occ_title_em'>food preparation and serving related workers, all other</span> at the lowest end of the spectrum to  $151,088 for <span class='occ_title_em'>marketing managers</span> at the highest. That's a gap of $134,511. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>legislators</span> saw the sharpest increa
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in New York was among <span class='occ_title_em'>Correspondence clerks</span>. In 1999, there were 3,540 employees. But by 2015, that figure declined 92.09 percent to 280. 
+The biggest decline for any job category in New York was among <span class='occ_title_em'>correspondence clerks</span>. In 1999, there were 3,540 employees. But by 2015, that figure declined 92.09 percent to 280. 
                
 The jobs that had gained the most employees was animal trainers. There were 2,067 percent more workers in 2015 as compared to 2005. Overall, the total number of workers grew from 30 to 650 in New York.

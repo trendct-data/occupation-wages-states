@@ -6,7 +6,7 @@ In Wisconsin, there are about 2.8 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 14.88 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.22 percent.
                
-The annual median pay ranges from $17,510 for <span class='occ_title_em'>shampooers</span> at the lowest end of the spectrum to  $182,860 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $177,040. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $18,748 for <span class='occ_title_em'>shampooers</span> at the lowest end of the spectrum to  $195,788 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $177,040. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>survey researchers</span> saw the sharpest
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Wisconsin was among <span class='occ_title_em'>Funeral directors</span>. In 1999, there were 1,230 employees. But by 2015, that figure declined 95.12 percent to 60. 
+The biggest decline for any job category in Wisconsin was among <span class='occ_title_em'>funeral directors</span>. In 1999, there were 1,230 employees. But by 2015, that figure declined 95.12 percent to 60. 
                
 The jobs that had gained the most employees was music directors and composers. There were 820 percent more workers in 2015 as compared to 2000. Overall, the total number of workers grew from 50 to 460 in Wisconsin.

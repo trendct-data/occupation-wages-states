@@ -6,7 +6,7 @@ In Vermont, there are about 0.3 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 13.7 percent). Using narrower job descriptions, <span class='occ_title_em'>cashiers</span> were the largest category at 3.13 percent.
                
-The annual median pay ranges from $19,560 for <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span> at the lowest end of the spectrum to  $182,950 for <span class='occ_title_em'>chief executives</span> at the highest. That's a gap of $161,446. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $19,327 for <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span> at the lowest end of the spectrum to  $180,773 for <span class='occ_title_em'>chief executives</span> at the highest. That's a gap of $161,446. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>education, training, and library workers, 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Vermont was among <span class='occ_title_em'>Machine feeders and offbearers</span>. In 1999, there were 1,010 employees. But by 2015, that figure declined 94.06 percent to 60. 
+The biggest decline for any job category in Vermont was among <span class='occ_title_em'>machine feeders and offbearers</span>. In 1999, there were 1,010 employees. But by 2015, that figure declined 94.06 percent to 60. 
                
 The jobs that had gained the most employees was physician assistants. There were 675 percent more workers in 2015 as compared to 2000. Overall, the total number of workers grew from 40 to 310 in Vermont.

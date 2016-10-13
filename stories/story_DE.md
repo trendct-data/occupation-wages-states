@@ -6,7 +6,7 @@ In Delaware, there are about 0.4 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 16.97 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 4.05 percent.
                
-The annual median pay ranges from $18,120 for <span class='occ_title_em'>pharmacy aides</span> at the lowest end of the spectrum to  $179,450 for <span class='occ_title_em'>psychiatrists</span> at the highest. That's a gap of $158,329. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $17,783 for <span class='occ_title_em'>pharmacy aides</span> at the lowest end of the spectrum to  $176,112 for <span class='occ_title_em'>psychiatrists</span> at the highest. That's a gap of $158,329. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>chiropractors</span> saw the sharpest incr
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Delaware was among <span class='occ_title_em'>Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers</span>. In 2000, there were 1,190 employees. But by 2015, that figure declined 96.64 percent to 40. 
+The biggest decline for any job category in Delaware was among <span class='occ_title_em'>extruding and forming machine setters, operators, and tenders, synthetic and glass fibers</span>. In 2000, there were 1,190 employees. But by 2015, that figure declined 96.64 percent to 40. 
                
 The jobs that had gained the most employees was personal and home care aides. There were 1,658 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 190 to 3,340 in Delaware.

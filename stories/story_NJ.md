@@ -6,7 +6,7 @@ In New Jersey, there are about 3.9 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 16.72 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.49 percent.
                
-The annual median pay ranges from $18,950 for <span class='occ_title_em'>shampooers</span> at the lowest end of the spectrum to  $182,130 for <span class='occ_title_em'>nurse anesthetists</span> at the highest. That's a gap of $142,521. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $16,551 for <span class='occ_title_em'>shampooers</span> at the lowest end of the spectrum to  $159,072 for <span class='occ_title_em'>nurse anesthetists</span> at the highest. That's a gap of $142,521. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>sociologists</span> saw the sharpest incre
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in New Jersey was among <span class='occ_title_em'>Textile bleaching and dyeing machine operators and tenders</span>. In 1999, there were 1,490 employees. But by 2015, that figure declined 94.63 percent to 80. 
+The biggest decline for any job category in New Jersey was among <span class='occ_title_em'>textile bleaching and dyeing machine operators and tenders</span>. In 1999, there were 1,490 employees. But by 2015, that figure declined 94.63 percent to 80. 
                
 The jobs that had gained the most employees was biomedical engineers. There were 1,800 percent more workers in 2015 as compared to 2000. Overall, the total number of workers grew from 30 to 570 in New Jersey.

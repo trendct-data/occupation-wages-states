@@ -6,7 +6,7 @@ In Kansas, there are about 1.4 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 16.66 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 2.96 percent.
                
-The annual median pay ranges from $17,490 for <span class='occ_title_em'>food preparation and serving related workers, all other</span> at the lowest end of the spectrum to  $153,170 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $149,587. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $19,283 for <span class='occ_title_em'>food preparation and serving related workers, all other</span> at the lowest end of the spectrum to  $168,870 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $149,587. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>securities, commodities, and financial ser
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Kansas was among <span class='occ_title_em'>Computer hardware engineers</span>. In 1999, there were 2,610 employees. But by 2014, that figure declined 96.17 percent to 100. 
+The biggest decline for any job category in Kansas was among <span class='occ_title_em'>computer hardware engineers</span>. In 1999, there were 2,610 employees. But by 2014, that figure declined 96.17 percent to 100. 
                
 The jobs that had gained the most employees was fiberglass laminators and fabricators. There were 1,057 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 70 to 810 in Kansas.

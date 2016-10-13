@@ -6,7 +6,7 @@ In Oregon, there are about 1.7 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 14.9 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.64 percent.
                
-The annual median pay ranges from $19,590 for <span class='occ_title_em'>costume attendants</span> at the lowest end of the spectrum to  $182,600 for <span class='occ_title_em'>nurse anesthetists</span> at the highest. That's a gap of $164,656. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $19,788 for <span class='occ_title_em'>costume attendants</span> at the lowest end of the spectrum to  $184,444 for <span class='occ_title_em'>nurse anesthetists</span> at the highest. That's a gap of $164,656. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>athletes and sports competitors</span> saw
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Oregon was among <span class='occ_title_em'>Electronic equipment installers and repairers, motor vehicles</span>. In 1999, there were 990 employees. But by 2015, that figure declined 92.93 percent to 70. 
+The biggest decline for any job category in Oregon was among <span class='occ_title_em'>electronic equipment installers and repairers, motor vehicles</span>. In 1999, there were 990 employees. But by 2015, that figure declined 92.93 percent to 70. 
                
 The jobs that had gained the most employees was personal care and service workers, all other. There were 1,741 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 860 to 15,830 in Oregon.

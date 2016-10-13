@@ -6,7 +6,7 @@ In Maryland, there are about 2.6 million full-time workers based on 2015 data.
 
 The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 15.52 percent). Using narrower job descriptions, <span class='occ_title_em'>cashiers</span> were the largest category at 3 percent.
                
-The annual median pay ranges from $18,000 for <span class='occ_title_em'>gaming dealers</span> at the lowest end of the spectrum to  $185,940 for <span class='occ_title_em'>chief executives</span> at the highest. That's a gap of $152,254. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $16,319 for <span class='occ_title_em'>gaming dealers</span> at the lowest end of the spectrum to  $168,573 for <span class='occ_title_em'>chief executives</span> at the highest. That's a gap of $152,254. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -30,6 +30,6 @@ Meanwhile, <span class='occ_title_em'>artists and related workers, all other</sp
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Maryland was among <span class='occ_title_em'>Sociologists</span>. In 2003, there were 710 employees. But by 2014, that figure declined 92.96 percent to 50. 
+The biggest decline for any job category in Maryland was among <span class='occ_title_em'>sociologists</span>. In 2003, there were 710 employees. But by 2014, that figure declined 92.96 percent to 50. 
                
 The jobs that had gained the most employees was court reporters. There were 4,880 percent more workers in 2015 as compared to 2004. Overall, the total number of workers grew from 50 to 2,490 in Maryland.
