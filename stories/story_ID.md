@@ -4,9 +4,9 @@
 
 In Idaho, there are about 0.6 million full-time workers based on 2015 data.
 
-The largest major job category in the state was office and administrative support occupations (about 15.96 percent). Using narrower job descriptions, retail salespersons were the largest category at 3.61 percent.
+The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 15.96 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.61 percent.
                
-The annual median pay ranges from $17,730 for cooks, fast food at the lowest end of the spectrum to  $182,020 for family and general practitioners at the highest. That's a gap of $175,905. Mississippi has the largest gap in the country of $193,000 between anesthesiologists and psychiatric aides.
+The annual median pay ranges from $17,730 for <span class='occ_title_em'>cooks, fast food</span> at the lowest end of the spectrum to  $182,020 for <span class='occ_title_em'>family and general practitioners</span> at the highest. That's a gap of $175,905. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -23,13 +23,13 @@ So after adjusting for the actual value of a dollar in a given state, Idaho has 
 
 Its lowest-paying jobs include <span class='occ_title_em'>dishwashers</span>, <span class='occ_title_em'>legislators</span>, and <span class='occ_title_em'>hosts and hostesses, restaurant, lounge, and coffee shop</span>. After adjusting for cost of living, those occupational groups make $19,251,  $23,887, and  $19,101, respectively.
                
-<span class='occ_title_em'>Orthodontists</span> have seen the largest decline in wages. Between 2005 and 2015, the adjusted median annual salary dropped from $-1 to $60,910. That's a change of about -6,091,100 percent.
+<span class='occ_title_em'>Postsecondary teachers, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $64,575 to $19,680. That's a change of about -69 percent.
                
 Meanwhile, <span class='occ_title_em'>purchasing agents and buyers, farm products</span> saw the sharpest increase in wages in Idaho. Income went up 161.99 percent between 2000 and 2015 from $24,371 to $63,850.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category inIdahowas among <span class='occ_title_em'>Middle school teachers, except special and vocational education</span>. In 2007, there were -1 employees. But by 2015, that figure declined 268100 percent to 2,680. 
+The biggest decline for any job category in Idaho was among <span class='occ_title_em'>Community and social service specialists, all other</span>. In 2004, there were 1,290 employees. But by 2015, that figure declined 94.57 percent to 70. 
                
-The jobs that had gained the most employees was personal and home care aides. There were 1,376 percent more workers in 2014 as compared to 2000. Overall, the total number of workers grew from 580 to 8,560 in Idaho.
+The jobs that had gained the most employees was personal and home care aides. There were 1,376 percent more workers in 2015 as compared to 2000. Overall, the total number of workers grew from 580 to 8,560 in Idaho.

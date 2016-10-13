@@ -4,9 +4,9 @@
 
 In Delaware, there are about 0.4 million full-time workers based on 2015 data.
 
-The largest major job category in the state was office and administrative support occupations (about 16.97 percent). Using narrower job descriptions, retail salespersons were the largest category at 4.05 percent.
+The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 16.97 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 4.05 percent.
                
-The annual median pay ranges from $18,120 for pharmacy aides at the lowest end of the spectrum to  $179,450 for psychiatrists at the highest. That's a gap of $158,329. Mississippi has the largest gap in the country of $193,000 between anesthesiologists and psychiatric aides.
+The annual median pay ranges from $18,120 for <span class='occ_title_em'>pharmacy aides</span> at the lowest end of the spectrum to  $179,450 for <span class='occ_title_em'>psychiatrists</span> at the highest. That's a gap of $158,329. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -23,13 +23,13 @@ So after adjusting for the actual value of a dollar in a given state, Delaware h
 
 Its lowest-paying jobs include <span class='occ_title_em'>shampooers</span>, <span class='occ_title_em'>food preparation and serving related workers, all other</span>, and <span class='occ_title_em'>dining room and cafeteria attendants and bartender helpers</span>. After adjusting for cost of living, those occupational groups make $18,264,  $20,001, and  $17,881, respectively.
                
-<span class='occ_title_em'>Survey researchers</span> have seen the largest decline in wages. Between 2012 and 2014, the adjusted median annual salary dropped from $-1 to $52,800. That's a change of about -5,280,100 percent.
+<span class='occ_title_em'>Personal care and service workers, all other</span> have seen the largest decline in wages. Between 2005 and 2015, the adjusted median annual salary dropped from $62,500 to $19,440. That's a change of about -68 percent.
                
 Meanwhile, <span class='occ_title_em'>chiropractors</span> saw the sharpest increase in wages in Delaware. Income went up 220.57 percent between 1999 and 2015 from $36,685 to $117,600.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category inDelawarewas among <span class='occ_title_em'>Meat, poultry, and fish cutters and trimmers</span>. In 1999, there were -1 employees. But by 2015, that figure declined 380100 percent to 3,800. 
+The biggest decline for any job category in Delaware was among <span class='occ_title_em'>Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers</span>. In 2000, there were 1,190 employees. But by 2015, that figure declined 96.64 percent to 40. 
                
-The jobs that had gained the most employees was legal secretaries. There were 955 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 110 to 1,160 in Delaware.
+The jobs that had gained the most employees was personal and home care aides. There were 1,658 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 190 to 3,340 in Delaware.

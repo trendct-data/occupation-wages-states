@@ -4,9 +4,9 @@
 
 In Mississippi, there are about 1.1 million full-time workers based on 2015 data.
 
-The largest major job category in the state was office and administrative support occupations (about 14.4 percent). Using narrower job descriptions, retail salespersons were the largest category at 3.7 percent.
+The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 14.4 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.7 percent.
                
-The annual median pay ranges from $17,530 for psychiatric aides at the lowest end of the spectrum to  $185,490 for anesthesiologists at the highest. That's a gap of $193,725, the largest in the country.
+The annual median pay ranges from $17,530 for <span class='occ_title_em'>psychiatric aides</span> at the lowest end of the spectrum to  $185,490 for <span class='occ_title_em'>anesthesiologists</span> at the highest. That's a gap of $193,725, the largest in the country.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -23,13 +23,13 @@ So after adjusting for the actual value of a dollar in a given state, Mississipp
 
 Its lowest-paying jobs include <span class='occ_title_em'>cooks, fast food</span>, <span class='occ_title_em'>personal care aides</span>, and <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>. After adjusting for cost of living, those occupational groups make $20,369,  $20,404, and  $21,315, respectively.
                
-<span class='occ_title_em'>Anesthesiologists</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $-1 to $185,490. That's a change of about -18,549,100 percent.
+<span class='occ_title_em'>Athletes and sports competitors</span> have seen the largest decline in wages. Between 2005 and 2015, the adjusted median annual salary dropped from $95,183 to $31,780. That's a change of about -66 percent.
                
-Meanwhile, <span class='occ_title_em'>education, training, and library workers, all other</span> saw the sharpest increase in wages in Mississippi. Income went up 134.87 percent between 1999 and 2015 from $19,951 to $46,860.
+Meanwhile, <span class='occ_title_em'>education, training, and library workers, all other</span> saw the sharpest increase in wages in Mississippi. Income went up 134.87 percent between 2004 and 2015 from $19,951 to $46,860.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category inMississippiwas among <span class='occ_title_em'>Slaughterers and meat packers</span>. In 1999, there were -1 employees. But by 2015, that figure declined 131100 percent to 1,310. 
+The biggest decline for any job category in Mississippi was among <span class='occ_title_em'>Forest and conservation workers</span>. In 1999, there were 1,480 employees. But by 2014, that figure declined 95.27 percent to 70. 
                
-The jobs that had gained the most employees was farmworkers and laborers, crop, nursery, and greenhouse. There were 2,033 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 30 to 640 in Mississippi.
+The jobs that had gained the most employees was farmworkers and laborers, crop, nursery, and greenhouse. There were 2,033 percent more workers in 2014 as compared to 2000. Overall, the total number of workers grew from 30 to 640 in Mississippi.

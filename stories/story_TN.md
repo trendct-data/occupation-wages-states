@@ -4,9 +4,9 @@
 
 In Tennessee, there are about 2.8 million full-time workers based on 2015 data.
 
-The largest major job category in the state was office and administrative support occupations (about 16.36 percent). Using narrower job descriptions, laborers and freight, stock, and material movers, hand were the largest category at 3.36 percent.
+The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 16.36 percent). Using narrower job descriptions, <span class='occ_title_em'>laborers and freight, stock, and material movers, hand</span> were the largest category at 3.36 percent.
                
-The annual median pay ranges from $17,750 for cooks, fast food at the lowest end of the spectrum to  $185,990 for dentists, all other specialists at the highest. That's a gap of $186,511. Mississippi has the largest gap in the country of $193,000 between anesthesiologists and psychiatric aides.
+The annual median pay ranges from $17,750 for <span class='occ_title_em'>cooks, fast food</span> at the lowest end of the spectrum to  $185,990 for <span class='occ_title_em'>dentists, all other specialists</span> at the highest. That's a gap of $186,511. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -23,13 +23,13 @@ So after adjusting for the actual value of a dollar in a given state, Tennessee 
 
 Its lowest-paying jobs include <span class='occ_title_em'>waiters and waitresses</span>, <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>, and <span class='occ_title_em'>lifeguards, ski patrol, and other recreational protective service workers</span>. After adjusting for cost of living, those occupational groups make $20,842,  $20,188, and  $19,833, respectively.
                
-<span class='occ_title_em'>Podiatrists</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $-1 to $120,670. That's a change of about -12,067,100 percent.
+<span class='occ_title_em'>Door-to-door sales workers, news and street vendors, and related workers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $62,700 to $18,950. That's a change of about -69 percent.
                
 Meanwhile, <span class='occ_title_em'>judges, magistrate judges, and magistrates</span> saw the sharpest increase in wages in Tennessee. Income went up 189.13 percent between 1999 and 2015 from $39,529 to $114,290.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category inTennesseewas among <span class='occ_title_em'>Cooks, fast food</span>. In 1999, there were -1 employees. But by 2015, that figure declined 1596100 percent to 15,960. 
+The biggest decline for any job category in Tennessee was among <span class='occ_title_em'>Door-to-door sales workers, news and street vendors, and related workers</span>. In 1999, there were 930 employees. But by 2015, that figure declined 94.62 percent to 50. 
                
 The jobs that had gained the most employees was power plant operators. There were 1,967 percent more workers in 2015 as compared to 2000. Overall, the total number of workers grew from 30 to 620 in Tennessee.

@@ -4,9 +4,9 @@
 
 In Louisiana, there are about 1.9 million full-time workers based on 2015 data.
 
-The largest major job category in the state was office and administrative support occupations (about 14.48 percent). Using narrower job descriptions, cashiers were the largest category at 3.64 percent.
+The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 14.48 percent). Using narrower job descriptions, <span class='occ_title_em'>cashiers</span> were the largest category at 3.64 percent.
                
-The annual median pay ranges from $17,750 for food preparation and serving related workers, all other at the lowest end of the spectrum to  $156,910 for chief executives at the highest. That's a gap of $152,255. Mississippi has the largest gap in the country of $193,000 between anesthesiologists and psychiatric aides.
+The annual median pay ranges from $17,750 for <span class='occ_title_em'>food preparation and serving related workers, all other</span> at the lowest end of the spectrum to  $156,910 for <span class='occ_title_em'>chief executives</span> at the highest. That's a gap of $152,255. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -23,13 +23,13 @@ So after adjusting for the actual value of a dollar in a given state, Louisiana 
 
 Its lowest-paying jobs include <span class='occ_title_em'>food preparation workers</span>, <span class='occ_title_em'>waiters and waitresses</span>, and <span class='occ_title_em'>gaming dealers</span>. After adjusting for cost of living, those occupational groups make $19,595,  $21,018, and  $19,300, respectively.
                
-<span class='occ_title_em'>Psychiatrists</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $-1 to $136,900. That's a change of about -13,690,100 percent.
+<span class='occ_title_em'>Health diagnosing and treating practitioners, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $118,475 to $56,450. That's a change of about -52 percent.
                
 Meanwhile, <span class='occ_title_em'>arbitrators, mediators, and conciliators</span> saw the sharpest increase in wages in Louisiana. Income went up 180.93 percent between 2004 and 2015 from $19,068 to $53,570.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category inLouisianawas among <span class='occ_title_em'>Correctional officers and jailers</span>. In 1999, there were -1 employees. But by 2015, that figure declined 848100 percent to 8,480. 
+The biggest decline for any job category in Louisiana was among <span class='occ_title_em'>Metal workers and plastic workers, all other</span>. In 2006, there were 1,250 employees. But by 2015, that figure declined 96 percent to 50. 
                
-The jobs that had gained the most employees was railroad brake, signal, and switch operators. There were 1,675 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 40 to 710 in Louisiana.
+The jobs that had gained the most employees was entertainers and performers, sports and related workers, all other. There were 6,625 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 40 to 2,690 in Louisiana.

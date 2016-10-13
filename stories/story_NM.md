@@ -4,9 +4,9 @@
 
 In New Mexico, there are about 0.8 million full-time workers based on 2015 data.
 
-The largest major job category in the state was office and administrative support occupations (about 14.92 percent). Using narrower job descriptions, retail salespersons were the largest category at 3.57 percent.
+The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 14.92 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.57 percent.
                
-The annual median pay ranges from $17,860 for gaming dealers at the lowest end of the spectrum to  $173,390 for pediatricians at the highest. That's a gap of $163,711. Mississippi has the largest gap in the country of $193,000 between anesthesiologists and psychiatric aides.
+The annual median pay ranges from $17,860 for <span class='occ_title_em'>gaming dealers</span> at the lowest end of the spectrum to  $173,390 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $163,711. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -23,13 +23,13 @@ So after adjusting for the actual value of a dollar in a given state, New Mexico
 
 Its lowest-paying jobs include <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>, <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>, and <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>. After adjusting for cost of living, those occupational groups make $19,326,  $19,031, and  $18,905, respectively.
                
-<span class='occ_title_em'>Airline pilots, copilots, and flight engineers</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $-1 to $87,160. That's a change of about -8,716,100 percent.
+<span class='occ_title_em'>Massage therapists</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $80,971 to $23,410. That's a change of about -71 percent.
                
 Meanwhile, <span class='occ_title_em'>podiatrists</span> saw the sharpest increase in wages in New Mexico. Income went up 177.59 percent between 2012 and 2015 from $50,805 to $141,030.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category inNew Mexicowas among <span class='occ_title_em'>Recreation workers</span>. In 1999, there were -1 employees. But by 2015, that figure declined 213100 percent to 2,130. 
+The biggest decline for any job category in New Mexico was among <span class='occ_title_em'>Chief executives</span>. In 1999, there were 1,250 employees. But by 2015, that figure declined 95.2 percent to 60. 
                
-The jobs that had gained the most employees was molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic. There were 925 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 40 to 410 in New Mexico.
+The jobs that had gained the most employees was health specialties teachers, postsecondary. There were 2,580 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 50 to 1,340 in New Mexico.

@@ -4,9 +4,9 @@
 
 In South Dakota, there are about 0.4 million full-time workers based on 2015 data.
 
-The largest major job category in the state was office and administrative support occupations (about 15.75 percent). Using narrower job descriptions, retail salespersons were the largest category at 3.88 percent.
+The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 15.75 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.88 percent.
                
-The annual median pay ranges from $18,800 for locker room, coatroom, and dressing room attendants at the lowest end of the spectrum to  $173,920 for nurse anesthetists at the highest. That's a gap of $176,278. Mississippi has the largest gap in the country of $193,000 between anesthesiologists and psychiatric aides.
+The annual median pay ranges from $18,800 for <span class='occ_title_em'>locker room, coatroom, and dressing room attendants</span> at the lowest end of the spectrum to  $173,920 for <span class='occ_title_em'>nurse anesthetists</span> at the highest. That's a gap of $176,278. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -23,13 +23,13 @@ So after adjusting for the actual value of a dollar in a given state, South Dako
 
 Its lowest-paying jobs include <span class='occ_title_em'>waiters and waitresses</span>, <span class='occ_title_em'>dishwashers</span>, and <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>. After adjusting for cost of living, those occupational groups make $23,205,  $22,285, and  $22,171, respectively.
                
-<span class='occ_title_em'>Dentists, general</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $-1 to $136,240. That's a change of about -13,624,100 percent.
+<span class='occ_title_em'>Securities, commodities, and financial services sales agents</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $111,356 to $60,750. That's a change of about -45 percent.
                
-Meanwhile, <span class='occ_title_em'>sales engineers</span> saw the sharpest increase in wages in South Dakota. Income went up 103.87 percent between 1999 and 2014 from $74,829 to $152,550.
+Meanwhile, <span class='occ_title_em'>sales engineers</span> saw the sharpest increase in wages in South Dakota. Income went up 103.87 percent between 1999 and 2015 from $74,829 to $152,550.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category inSouth Dakotawas among <span class='occ_title_em'>Fitness trainers and aerobics instructors</span>. In 1999, there were -1 employees. But by 2015, that figure declined 105100 percent to 1,050. 
+The biggest decline for any job category in South Dakota was among <span class='occ_title_em'>Helpers--production workers</span>. In 2001, there were 420 employees. But by 2014, that figure declined 92.86 percent to 30. 
                
-The jobs that had gained the most employees was taxi drivers and chauffeurs. There were 712 percent more workers in 2014 as compared to 2000. Overall, the total number of workers grew from 80 to 650 in South Dakota.
+The jobs that had gained the most employees was taxi drivers and chauffeurs. There were 712 percent more workers in 2015 as compared to 2000. Overall, the total number of workers grew from 80 to 650 in South Dakota.

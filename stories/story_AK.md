@@ -4,9 +4,9 @@
 
 In Alaska, there are about 0.3 million full-time workers based on 2015 data.
 
-The largest major job category in the state was office and administrative support occupations (about 16.4 percent). Using narrower job descriptions, retail salespersons were the largest category at 3.23 percent.
+The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 16.4 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.23 percent.
                
-The annual median pay ranges from $19,000 for machine feeders and offbearers at the lowest end of the spectrum to  $175,750 for pediatricians at the highest. That's a gap of $148,301. Mississippi has the largest gap in the country of $193,000 between anesthesiologists and psychiatric aides.
+The annual median pay ranges from $19,000 for <span class='occ_title_em'>machine feeders and offbearers</span> at the lowest end of the spectrum to  $175,750 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $148,301. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -23,13 +23,13 @@ So after adjusting for the actual value of a dollar in a given state, Alaska has
 
 Its lowest-paying jobs include <span class='occ_title_em'>education, training, and library workers, all other</span>, <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>, and <span class='occ_title_em'>baggage porters and bellhops</span>. After adjusting for cost of living, those occupational groups make $31,562,  $19,480, and  $19,073, respectively.
                
-<span class='occ_title_em'>Pediatricians, general</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $-1 to $175,750. That's a change of about -17,575,100 percent.
+<span class='occ_title_em'>Crossing guards</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $64,041 to $24,340. That's a change of about -61 percent.
                
 Meanwhile, <span class='occ_title_em'>education administrators, postsecondary</span> saw the sharpest increase in wages in Alaska. Income went up 111.12 percent between 2001 and 2015 from $53,055 to $112,010.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category inAlaskawas among <span class='occ_title_em'>Meat, poultry, and fish cutters and trimmers</span>. In 1999, there were -1 employees. But by 2015, that figure declined 390100 percent to 3,900. 
+The biggest decline for any job category in Alaska was among <span class='occ_title_em'>Pump operators, except wellhead pumpers</span>. In 2000, there were 540 employees. But by 2014, that figure declined 90.74 percent to 50. 
                
 The jobs that had gained the most employees was service unit operators, oil, gas, and mining. There were 3,767 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 30 to 1,160 in Alaska.

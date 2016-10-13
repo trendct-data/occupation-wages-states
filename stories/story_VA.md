@@ -4,9 +4,9 @@
 
 In Virginia, there are about 3.7 million full-time workers based on 2015 data.
 
-The largest major job category in the state was office and administrative support occupations (about 14.92 percent). Using narrower job descriptions, retail salespersons were the largest category at 3.48 percent.
+The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 14.92 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.48 percent.
                
-The annual median pay ranges from $17,480 for logging workers, all other at the lowest end of the spectrum to  $180,320 for internists at the highest. That's a gap of $158,720. Mississippi has the largest gap in the country of $193,000 between anesthesiologists and psychiatric aides.
+The annual median pay ranges from $17,480 for <span class='occ_title_em'>logging workers, all other</span> at the lowest end of the spectrum to  $180,320 for <span class='occ_title_em'>internists</span> at the highest. That's a gap of $158,720. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -23,13 +23,13 @@ So after adjusting for the actual value of a dollar in a given state, Virginia h
 
 Its lowest-paying jobs include <span class='occ_title_em'>food preparation and serving related workers, all other</span>, <span class='occ_title_em'>cooks, fast food</span>, and <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>. After adjusting for cost of living, those occupational groups make $19,445,  $17,779, and  $17,788, respectively.
                
-<span class='occ_title_em'>Internists, general</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $-1 to $180,320. That's a change of about -18,032,100 percent.
+<span class='occ_title_em'>Legislators</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $80,123 to $18,270. That's a change of about -77 percent.
                
 Meanwhile, <span class='occ_title_em'>artists and related workers, all other</span> saw the sharpest increase in wages in Virginia. Income went up 200.2 percent between 1999 and 2015 from $26,612 to $79,890.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category inVirginiawas among <span class='occ_title_em'>Health specialties teachers, postsecondary</span>. In 1999, there were -1 employees. But by 2015, that figure declined 502100 percent to 5,020. 
+The biggest decline for any job category in Virginia was among <span class='occ_title_em'>Sewers, hand</span>. In 1999, there were 1,210 employees. But by 2015, that figure declined 96.69 percent to 40. 
                
-The jobs that had gained the most employees was chiropractors. There were 1,012 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 80 to 890 in Virginia.
+The jobs that had gained the most employees was petroleum engineers. There were 1,033 percent more workers in 2015 as compared to 2000. Overall, the total number of workers grew from 30 to 340 in Virginia.

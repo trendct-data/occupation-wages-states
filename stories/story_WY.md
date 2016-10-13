@@ -4,9 +4,9 @@
 
 In Wyoming, there are about 0.3 million full-time workers based on 2015 data.
 
-The largest major job category in the state was office and administrative support occupations (about 12.9 percent). Using narrower job descriptions, retail salespersons were the largest category at 2.99 percent.
+The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 12.9 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 2.99 percent.
                
-The annual median pay ranges from $17,610 for ushers, lobby attendants, and ticket takers at the lowest end of the spectrum to  $164,160 for dentists at the highest. That's a gap of $152,339. Mississippi has the largest gap in the country of $193,000 between anesthesiologists and psychiatric aides.
+The annual median pay ranges from $17,610 for <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span> at the lowest end of the spectrum to  $164,160 for <span class='occ_title_em'>dentists</span> at the highest. That's a gap of $152,339. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -23,13 +23,13 @@ So after adjusting for the actual value of a dollar in a given state, Wyoming ha
 
 Its lowest-paying jobs include <span class='occ_title_em'>dining room and cafeteria attendants and bartender helpers</span>, <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>, and <span class='occ_title_em'>waiters and waitresses</span>. After adjusting for cost of living, those occupational groups make $19,667,  $19,896, and  $20,863, respectively.
                
-<span class='occ_title_em'>Airline pilots, copilots, and flight engineers</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $-1 to $69,240. That's a change of about -6,924,100 percent.
+<span class='occ_title_em'>Health diagnosing and treating practitioners, all other</span> have seen the largest decline in wages. Between 2005 and 2015, the adjusted median annual salary dropped from $159,354 to $59,660. That's a change of about -62 percent.
                
 Meanwhile, <span class='occ_title_em'>optometrists</span> saw the sharpest increase in wages in Wyoming. Income went up 208.92 percent between 1999 and 2015 from $29,587 to $91,400.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category inWyomingwas among <span class='occ_title_em'>Waiters and waitresses</span>. In 1999, there were -1 employees. But by 2015, that figure declined 526100 percent to 5,260. 
+The biggest decline for any job category in Wyoming was among <span class='occ_title_em'>Chief executives</span>. In 1999, there were 990 employees. But by 2015, that figure declined 83.84 percent to 160. 
                
-The jobs that had gained the most employees was mechanical engineers. There were 800 percent more workers in 2015 as compared to 2000. Overall, the total number of workers grew from 30 to 270 in Wyoming.
+The jobs that had gained the most employees was fence erectors. There were 1,067 percent more workers in 2015 as compared to 1999. Overall, the total number of workers grew from 30 to 350 in Wyoming.

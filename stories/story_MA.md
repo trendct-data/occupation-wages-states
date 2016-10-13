@@ -4,9 +4,9 @@
 
 In Massachusetts, there are about 3.4 million full-time workers based on 2015 data.
 
-The largest major job category in the state was office and administrative support occupations (about 14.73 percent). Using narrower job descriptions, retail salespersons were the largest category at 3.37 percent.
+The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 14.73 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.37 percent.
                
-The annual median pay ranges from $19,340 for graders and sorters, agricultural products at the lowest end of the spectrum to  $183,390 for dentists, all other specialists at the highest. That's a gap of $153,173. Mississippi has the largest gap in the country of $193,000 between anesthesiologists and psychiatric aides.
+The annual median pay ranges from $19,340 for <span class='occ_title_em'>graders and sorters, agricultural products</span> at the lowest end of the spectrum to  $183,390 for <span class='occ_title_em'>dentists, all other specialists</span> at the highest. That's a gap of $153,173. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
@@ -23,13 +23,13 @@ So after adjusting for the actual value of a dollar in a given state, Massachuse
 
 Its lowest-paying jobs include <span class='occ_title_em'>cooks, fast food</span>, <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>, and <span class='occ_title_em'>umpires, referees, and other sports officials</span>. After adjusting for cost of living, those occupational groups make $20,439,  $19,384, and  $27,871, respectively.
                
-<span class='occ_title_em'>Legislators</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $18,671 to $-1. That's a change of about -100 percent.
+<span class='occ_title_em'>Material moving workers, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $49,388 to $22,270. That's a change of about -54 percent.
                
 Meanwhile, <span class='occ_title_em'>ship engineers</span> saw the sharpest increase in wages in Massachusetts. Income went up 99.58 percent between 1999 and 2015 from $46,429 to $92,660.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category inMassachusettswas among <span class='occ_title_em'>Personal financial advisors</span>. In 1999, there were -1 employees. But by 2015, that figure declined 532100 percent to 5,320. 
+The biggest decline for any job category in Massachusetts was among <span class='occ_title_em'>Coil winders, tapers, and finishers</span>. In 1999, there were 960 employees. But by 2015, that figure declined 92.71 percent to 70. 
                
 The jobs that had gained the most employees was commercial pilots. There were 2,017 percent more workers in 2015 as compared to 2004. Overall, the total number of workers grew from 60 to 1,270 in Massachusetts.
