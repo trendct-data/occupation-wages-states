@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Maine has 
 
 Its lowest-paying jobs include <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>, <span class='occ_title_em'>baggage porters and bellhops</span>, and <span class='occ_title_em'>coaches and scouts</span>. After adjusting for cost of living, those occupational groups make $19,249,  $19,300, and  $24,038, respectively.
                
-<span class='occ_title_em'>Coaches and scouts</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $48,214 to $18,290. That's a change of about -62 percent.
+<span class='occ_title_em'>Coaches and scouts</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $49,198 to $18,836. That's a change of about -61 percent.
                
-Meanwhile, <span class='occ_title_em'>broadcast news analysts</span> saw the sharpest increase in wages in Maine. Income went up 236.6 percent between 1999 and 2015 from $22,350 to $75,230.
+Meanwhile, <span class='occ_title_em'>broadcast news analysts</span> saw the sharpest increase in wages in Maine. Income went up 239.72 percent between 1999 and 2015 from $22,806 to $77,477.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

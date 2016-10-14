@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Mississipp
 
 Its lowest-paying jobs include <span class='occ_title_em'>cooks, fast food</span>, <span class='occ_title_em'>personal care aides</span>, and <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>. After adjusting for cost of living, those occupational groups make $20,369,  $20,404, and  $21,315, respectively.
                
-<span class='occ_title_em'>Athletes and sports competitors</span> have seen the largest decline in wages. Between 2005 and 2015, the adjusted median annual salary dropped from $95,183 to $31,780. That's a change of about -66 percent.
+<span class='occ_title_em'>Athletes and sports competitors</span> have seen the largest decline in wages. Between 2005 and 2015, the adjusted median annual salary dropped from $110,165 to $36,655. That's a change of about -66 percent.
                
-Meanwhile, <span class='occ_title_em'>education, training, and library workers, all other</span> saw the sharpest increase in wages in Mississippi. Income went up 134.87 percent between 2004 and 2015 from $19,951 to $46,860.
+Meanwhile, <span class='occ_title_em'>education, training, and library workers, all other</span> saw the sharpest increase in wages in Mississippi. Income went up 134.06 percent between 2004 and 2015 from $23,092 to $54,048.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

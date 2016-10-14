@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Utah has a
 
 Its lowest-paying jobs include <span class='occ_title_em'>food preparation and serving related workers, all other</span>, <span class='occ_title_em'>ambulance drivers and attendants, except emergency medical technicians</span>, and <span class='occ_title_em'>court reporters</span>. After adjusting for cost of living, those occupational groups make $18,680,  $18,835, and  $24,546, respectively.
                
-<span class='occ_title_em'>Historians</span> have seen the largest decline in wages. Between 2000 and 2014, the adjusted median annual salary dropped from $66,466 to $22,460. That's a change of about -66 percent.
+<span class='occ_title_em'>Historians</span> have seen the largest decline in wages. Between 2000 and 2014, the adjusted median annual salary dropped from $68,663 to $23,155. That's a change of about -66 percent.
                
-Meanwhile, <span class='occ_title_em'>transportation inspectors</span> saw the sharpest increase in wages in Utah. Income went up 109.59 percent between 2012 and 2015 from $51,257 to $107,430.
+Meanwhile, <span class='occ_title_em'>transportation inspectors</span> saw the sharpest increase in wages in Utah. Income went up 109.16 percent between 1999 and 2015 from $52,952 to $110,753.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

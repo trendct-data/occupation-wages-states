@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Georgia ha
 
 Its lowest-paying jobs include <span class='occ_title_em'>waiters and waitresses</span>, <span class='occ_title_em'>hosts and hostesses, restaurant, lounge, and coffee shop</span>, and <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>. After adjusting for cost of living, those occupational groups make $20,533,  $19,544, and  $19,675, respectively.
                
-<span class='occ_title_em'>Legislators</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $67,643 to $18,220. That's a change of about -73 percent.
+<span class='occ_title_em'>Legislators</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $72,345 to $19,804. That's a change of about -72 percent.
                
-Meanwhile, <span class='occ_title_em'>costume attendants</span> saw the sharpest increase in wages in Georgia. Income went up 144.68 percent between 2000 and 2015 from $21,988 to $53,800.
+Meanwhile, <span class='occ_title_em'>costume attendants</span> saw the sharpest increase in wages in Georgia. Income went up 148.67 percent between 2000 and 2015 from $23,517 to $58,478.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

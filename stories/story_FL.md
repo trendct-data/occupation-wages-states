@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Florida ha
 
 Its lowest-paying jobs include <span class='occ_title_em'>graders and sorters, agricultural products</span>, <span class='occ_title_em'>door-to-door sales workers, news and street vendors, and related workers</span>, and <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>. After adjusting for cost of living, those occupational groups make $19,334,  $20,061, and  $19,577, respectively.
                
-<span class='occ_title_em'>Automotive glass installers and repairers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $68,843 to $31,550. That's a change of about -54 percent.
+<span class='occ_title_em'>Automotive glass installers and repairers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $68,296 to $31,837. That's a change of about -53 percent.
                
-Meanwhile, <span class='occ_title_em'>subway and streetcar operators</span> saw the sharpest increase in wages in Florida. Income went up 180.15 percent between 1999 and 2015 from $19,829 to $55,550.
+Meanwhile, <span class='occ_title_em'>subway and streetcar operators</span> saw the sharpest increase in wages in Florida. Income went up 184.96 percent between 1999 and 2015 from $19,671 to $56,054.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

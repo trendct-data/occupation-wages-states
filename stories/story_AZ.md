@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Arizona ha
 
 Its lowest-paying jobs include <span class='occ_title_em'>crossing guards</span>, <span class='occ_title_em'>farmworkers and laborers, crop, nursery, and greenhouse</span>, and <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>. After adjusting for cost of living, those occupational groups make $19,833,  $19,781, and  $20,331, respectively.
                
-<span class='occ_title_em'>Athletes and sports competitors</span> have seen the largest decline in wages. Between 2002 and 2014, the adjusted median annual salary dropped from $125,105 to $38,320. That's a change of about -69 percent.
+<span class='occ_title_em'>Athletes and sports competitors</span> have seen the largest decline in wages. Between 2002 and 2014, the adjusted median annual salary dropped from $124,359 to $39,751. That's a change of about -68 percent.
                
-Meanwhile, <span class='occ_title_em'>transit and railroad police</span> saw the sharpest increase in wages in Arizona. Income went up 208.39 percent between 2000 and 2015 from $22,264 to $68,660.
+Meanwhile, <span class='occ_title_em'>transit and railroad police</span> saw the sharpest increase in wages in Arizona. Income went up 221.82 percent between 2000 and 2015 from $22,132 to $71,224.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, New Jersey
 
 Its lowest-paying jobs include <span class='occ_title_em'>dining room and cafeteria attendants and bartender helpers</span>, <span class='occ_title_em'>amusement and recreation attendants</span>, and <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>. After adjusting for cost of living, those occupational groups make $18,385,  $18,175, and  $17,328, respectively.
                
-<span class='occ_title_em'>Tile and marble setters</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $84,457 to $44,480. That's a change of about -47 percent.
+<span class='occ_title_em'>Tile and marble setters</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $74,807 to $38,847. That's a change of about -48 percent.
                
-Meanwhile, <span class='occ_title_em'>sociologists</span> saw the sharpest increase in wages in New Jersey. Income went up 233.96 percent between 1999 and 2015 from $45,814 to $153,000.
+Meanwhile, <span class='occ_title_em'>sociologists</span> saw the sharpest increase in wages in New Jersey. Income went up 229.29 percent between 1999 and 2015 from $40,580 to $133,624.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

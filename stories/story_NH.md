@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, New Hampsh
 
 Its lowest-paying jobs include <span class='occ_title_em'>bartenders</span>, <span class='occ_title_em'>dining room and cafeteria attendants and bartender helpers</span>, and <span class='occ_title_em'>legislators</span>. After adjusting for cost of living, those occupational groups make $19,963,  $17,795, and  $19,430, respectively.
                
-<span class='occ_title_em'>Door-to-door sales workers, news and street vendors, and related workers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $47,386 to $19,760. That's a change of about -58 percent.
+<span class='occ_title_em'>Door-to-door sales workers, news and street vendors, and related workers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $44,203 to $18,783. That's a change of about -57 percent.
                
-Meanwhile, <span class='occ_title_em'>securities, commodities, and financial services sales agents</span> saw the sharpest increase in wages in New Hampshire. Income went up 188.46 percent between 1999 and 2015 from $43,857 to $126,510.
+Meanwhile, <span class='occ_title_em'>securities, commodities, and financial services sales agents</span> saw the sharpest increase in wages in New Hampshire. Income went up 193.94 percent between 1999 and 2015 from $40,912 to $120,257.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

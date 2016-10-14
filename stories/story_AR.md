@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Arkansas h
 
 Its lowest-paying jobs include <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>, <span class='occ_title_em'>lifeguards, ski patrol, and other recreational protective service workers</span>, and <span class='occ_title_em'>cooks, fast food</span>. After adjusting for cost of living, those occupational groups make $20,504,  $20,526, and  $20,252, respectively.
                
-<span class='occ_title_em'>Chiropractors</span> have seen the largest decline in wages. Between 2001 and 2015, the adjusted median annual salary dropped from $118,307 to $44,580. That's a change of about -62 percent.
+<span class='occ_title_em'>Chiropractors</span> have seen the largest decline in wages. Between 2001 and 2015, the adjusted median annual salary dropped from $136,141 to $50,949. That's a change of about -62 percent.
                
-Meanwhile, <span class='occ_title_em'>judges, magistrate judges, and magistrates</span> saw the sharpest increase in wages in Arkansas. Income went up 350.33 percent between 1999 and 2015 from $28,186 to $126,930.
+Meanwhile, <span class='occ_title_em'>judges, magistrate judges, and magistrates</span> saw the sharpest increase in wages in Arkansas. Income went up 347.25 percent between 1999 and 2015 from $32,435 to $145,063.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

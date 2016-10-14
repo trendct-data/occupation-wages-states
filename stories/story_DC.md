@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, District o
 
 Its lowest-paying jobs include <span class='occ_title_em'>food preparation and serving related workers, all other</span>, <span class='occ_title_em'>cooks, fast food</span>, and <span class='occ_title_em'>shampooers</span>. After adjusting for cost of living, those occupational groups make $20,346,  $18,272, and  $18,898, respectively.
                
-<span class='occ_title_em'>Fitness trainers and aerobics instructors</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $108,714 to $37,030. That's a change of about -65 percent.
+<span class='occ_title_em'>Fitness trainers and aerobics instructors</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $94,043 to $31,355. That's a change of about -66 percent.
                
-Meanwhile, <span class='occ_title_em'>healthcare practitioners and technical workers, all other</span> saw the sharpest increase in wages in District of Columbia. Income went up 112 percent between 1999 and 2015 from $35,038 to $74,280.
+Meanwhile, <span class='occ_title_em'>healthcare practitioners and technical workers, all other</span> saw the sharpest increase in wages in District of Columbia. Income went up 107.51 percent between 1999 and 2015 from $30,309 to $62,896.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

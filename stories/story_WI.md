@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Wisconsin 
 
 Its lowest-paying jobs include <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>, <span class='occ_title_em'>door-to-door sales workers, news and street vendors, and related workers</span>, and <span class='occ_title_em'>dining room and cafeteria attendants and bartender helpers</span>. After adjusting for cost of living, those occupational groups make $19,926,  $26,628, and  $19,390, respectively.
                
-<span class='occ_title_em'>Athletes and sports competitors</span> have seen the largest decline in wages. Between 2003 and 2015, the adjusted median annual salary dropped from $115,551 to $41,170. That's a change of about -64 percent.
+<span class='occ_title_em'>Athletes and sports competitors</span> have seen the largest decline in wages. Between 2003 and 2015, the adjusted median annual salary dropped from $124,249 to $44,079. That's a change of about -64 percent.
                
-Meanwhile, <span class='occ_title_em'>survey researchers</span> saw the sharpest increase in wages in Wisconsin. Income went up 170.08 percent between 2000 and 2015 from $21,971 to $59,340.
+Meanwhile, <span class='occ_title_em'>survey researchers</span> saw the sharpest increase in wages in Wisconsin. Income went up 168.92 percent between 2000 and 2015 from $23,625 to $63,533.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

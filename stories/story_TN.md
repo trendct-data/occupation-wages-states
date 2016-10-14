@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Tennessee 
 
 Its lowest-paying jobs include <span class='occ_title_em'>waiters and waitresses</span>, <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>, and <span class='occ_title_em'>lifeguards, ski patrol, and other recreational protective service workers</span>. After adjusting for cost of living, those occupational groups make $20,842,  $20,188, and  $19,833, respectively.
                
-<span class='occ_title_em'>Door-to-door sales workers, news and street vendors, and related workers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $62,700 to $18,950. That's a change of about -69 percent.
+<span class='occ_title_em'>Door-to-door sales workers, news and street vendors, and related workers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $69,282 to $21,009. That's a change of about -69 percent.
                
-Meanwhile, <span class='occ_title_em'>judges, magistrate judges, and magistrates</span> saw the sharpest increase in wages in Tennessee. Income went up 189.13 percent between 1999 and 2015 from $39,529 to $114,290.
+Meanwhile, <span class='occ_title_em'>judges, magistrate judges, and magistrates</span> saw the sharpest increase in wages in Tennessee. Income went up 190.09 percent between 1999 and 2015 from $43,678 to $126,707.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

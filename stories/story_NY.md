@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, New York h
 
 Its lowest-paying jobs include <span class='occ_title_em'>cooks, fast food</span>, <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>, and <span class='occ_title_em'>manicurists and pedicurists</span>. After adjusting for cost of living, those occupational groups make $18,003,  $18,505, and  $17,554, respectively.
                
-<span class='occ_title_em'>Health diagnosing and treating practitioners, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $148,600 to $67,650. That's a change of about -54 percent.
+<span class='occ_title_em'>Health diagnosing and treating practitioners, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $129,105 to $58,470. That's a change of about -54 percent.
                
-Meanwhile, <span class='occ_title_em'>legislators</span> saw the sharpest increase in wages in New York. Income went up 342.84 percent between 2000 and 2015 from $19,743 to $87,430.
+Meanwhile, <span class='occ_title_em'>legislators</span> saw the sharpest increase in wages in New York. Income went up 340.55 percent between 2000 and 2015 from $17,153 to $75,566.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

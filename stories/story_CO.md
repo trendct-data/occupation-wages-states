@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Colorado h
 
 Its lowest-paying jobs include <span class='occ_title_em'>door-to-door sales workers, news and street vendors, and related workers</span>, <span class='occ_title_em'>waiters and waitresses</span>, and <span class='occ_title_em'>gaming dealers</span>. After adjusting for cost of living, those occupational groups make $19,402,  $21,569, and  $20,088, respectively.
                
-<span class='occ_title_em'>Chiropractors</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $106,164 to $49,410. That's a change of about -53 percent.
+<span class='occ_title_em'>Chiropractors</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $105,741 to $48,441. That's a change of about -54 percent.
                
-Meanwhile, <span class='occ_title_em'>bailiffs</span> saw the sharpest increase in wages in Colorado. Income went up 131.59 percent between 1999 and 2015 from $28,685 to $66,430.
+Meanwhile, <span class='occ_title_em'>bailiffs</span> saw the sharpest increase in wages in Colorado. Income went up 127.95 percent between 1999 and 2015 from $28,571 to $65,127.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

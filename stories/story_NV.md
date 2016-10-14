@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Nevada has
 
 Its lowest-paying jobs include <span class='occ_title_em'>cooks, fast food</span>, <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>, and <span class='occ_title_em'>manicurists and pedicurists</span>. After adjusting for cost of living, those occupational groups make $20,419,  $20,511, and  $19,344, respectively.
                
-<span class='occ_title_em'>Soil and plant scientists</span> have seen the largest decline in wages. Between 2008 and 2015, the adjusted median annual salary dropped from $167,769 to $68,100. That's a change of about -59 percent.
+<span class='occ_title_em'>Soil and plant scientists</span> have seen the largest decline in wages. Between 2008 and 2015, the adjusted median annual salary dropped from $166,438 to $69,703. That's a change of about -58 percent.
                
-Meanwhile, <span class='occ_title_em'>agents and business managers of artists, performers, and athletes</span> saw the sharpest increase in wages in Nevada. Income went up 161.74 percent between 2000 and 2015 from $29,843 to $78,110.
+Meanwhile, <span class='occ_title_em'>agents and business managers of artists, performers, and athletes</span> saw the sharpest increase in wages in Nevada. Income went up 170.04 percent between 2000 and 2015 from $29,606 to $79,949.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

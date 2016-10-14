@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Missouri h
 
 Its lowest-paying jobs include <span class='occ_title_em'>locker room, coatroom, and dressing room attendants</span>, <span class='occ_title_em'>legislators</span>, and <span class='occ_title_em'>lifeguards, ski patrol, and other recreational protective service workers</span>. After adjusting for cost of living, those occupational groups make $22,014,  $29,710, and  $20,571, respectively.
                
-<span class='occ_title_em'>Real estate brokers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $137,329 to $19,180. That's a change of about -86 percent.
+<span class='occ_title_em'>Real estate brokers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $156,411 to $21,454. That's a change of about -86 percent.
                
-Meanwhile, <span class='occ_title_em'>captains, mates, and pilots of water vessels</span> saw the sharpest increase in wages in Missouri. Income went up 177.08 percent between 1999 and 2015 from $19,871 to $55,060.
+Meanwhile, <span class='occ_title_em'>captains, mates, and pilots of water vessels</span> saw the sharpest increase in wages in Missouri. Income went up 172.12 percent between 1999 and 2015 from $22,633 to $61,588.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

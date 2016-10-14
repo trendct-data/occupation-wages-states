@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, North Dako
 
 Its lowest-paying jobs include <span class='occ_title_em'>manicurists and pedicurists</span>, <span class='occ_title_em'>hosts and hostesses, restaurant, lounge, and coffee shop</span>, and <span class='occ_title_em'>tour guides and escorts</span>. After adjusting for cost of living, those occupational groups make $21,486,  $20,984, and  $21,071, respectively.
                
-<span class='occ_title_em'>Self-enrichment education teachers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $42,743 to $23,040. That's a change of about -46 percent.
+<span class='occ_title_em'>Self-enrichment education teachers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $48,297 to $25,180. That's a change of about -47 percent.
                
-Meanwhile, <span class='occ_title_em'>judges, magistrate judges, and magistrates</span> saw the sharpest increase in wages in North Dakota. Income went up 643.39 percent between 2004 and 2015 from $18,452 to $137,170.
+Meanwhile, <span class='occ_title_em'>judges, magistrate judges, and magistrates</span> saw the sharpest increase in wages in North Dakota. Income went up 619.01 percent between 2004 and 2015 from $20,850 to $149,913.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

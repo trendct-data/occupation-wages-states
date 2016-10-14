@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, South Caro
 
 Its lowest-paying jobs include <span class='occ_title_em'>legislators</span>, <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>, and <span class='occ_title_em'>cooks, fast food</span>. After adjusting for cost of living, those occupational groups make $20,476,  $19,669, and  $19,514, respectively.
                
-<span class='occ_title_em'>Stonemasons</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $73,557 to $28,390. That's a change of about -61 percent.
+<span class='occ_title_em'>Stonemasons</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $80,743 to $31,370. That's a change of about -61 percent.
                
-Meanwhile, <span class='occ_title_em'>survey researchers</span> saw the sharpest increase in wages in South Carolina. Income went up 116.8 percent between 1999 and 2014 from $24,986 to $54,170.
+Meanwhile, <span class='occ_title_em'>survey researchers</span> saw the sharpest increase in wages in South Carolina. Income went up 118.24 percent between 1999 and 2014 from $27,427 to $59,856.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

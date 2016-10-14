@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Kentucky h
 
 Its lowest-paying jobs include <span class='occ_title_em'>amusement and recreation attendants</span>, <span class='occ_title_em'>lifeguards, ski patrol, and other recreational protective service workers</span>, and <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>. After adjusting for cost of living, those occupational groups make $20,767,  $20,350, and  $19,978, respectively.
                
-<span class='occ_title_em'>Commercial divers</span> have seen the largest decline in wages. Between 2001 and 2015, the adjusted median annual salary dropped from $146,907 to $45,020. That's a change of about -69 percent.
+<span class='occ_title_em'>Commercial divers</span> have seen the largest decline in wages. Between 2001 and 2015, the adjusted median annual salary dropped from $165,249 to $50,755. That's a change of about -69 percent.
                
-Meanwhile, <span class='occ_title_em'>dentists, all other specialists</span> saw the sharpest increase in wages in Kentucky. Income went up 224.08 percent between 1999 and 2015 from $42,082 to $136,380.
+Meanwhile, <span class='occ_title_em'>dentists, all other specialists</span> saw the sharpest increase in wages in Kentucky. Income went up 224.81 percent between 1999 and 2015 from $47,337 to $153,754.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

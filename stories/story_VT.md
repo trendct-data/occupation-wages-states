@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Vermont ha
 
 Its lowest-paying jobs include <span class='occ_title_em'>furnace, kiln, oven, drier, and kettle operators and tenders</span>, <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>, and <span class='occ_title_em'>cooks, fast food</span>. After adjusting for cost of living, those occupational groups make $23,042,  $22,716, and  $22,647, respectively.
                
-<span class='occ_title_em'>Umpires, referees, and other sports officials</span> have seen the largest decline in wages. Between 2008 and 2014, the adjusted median annual salary dropped from $49,055 to $19,990. That's a change of about -59 percent.
+<span class='occ_title_em'>Umpires, referees, and other sports officials</span> have seen the largest decline in wages. Between 2008 and 2014, the adjusted median annual salary dropped from $48,860 to $19,753. That's a change of about -59 percent.
                
-Meanwhile, <span class='occ_title_em'>education, training, and library workers, all other</span> saw the sharpest increase in wages in Vermont. Income went up 139.31 percent between 1999 and 2015 from $25,703 to $61,510.
+Meanwhile, <span class='occ_title_em'>education, training, and library workers, all other</span> saw the sharpest increase in wages in Vermont. Income went up 137.89 percent between 1999 and 2015 from $25,550 to $60,781.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

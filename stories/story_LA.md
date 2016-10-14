@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Louisiana 
 
 Its lowest-paying jobs include <span class='occ_title_em'>food preparation workers</span>, <span class='occ_title_em'>waiters and waitresses</span>, and <span class='occ_title_em'>gaming dealers</span>. After adjusting for cost of living, those occupational groups make $19,595,  $21,018, and  $19,300, respectively.
                
-<span class='occ_title_em'>Health diagnosing and treating practitioners, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $118,475 to $56,450. That's a change of about -52 percent.
+<span class='occ_title_em'>Health diagnosing and treating practitioners, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $130,623 to $61,761. That's a change of about -52 percent.
                
-Meanwhile, <span class='occ_title_em'>arbitrators, mediators, and conciliators</span> saw the sharpest increase in wages in Louisiana. Income went up 180.93 percent between 2004 and 2015 from $19,068 to $53,570.
+Meanwhile, <span class='occ_title_em'>arbitrators, mediators, and conciliators</span> saw the sharpest increase in wages in Louisiana. Income went up 178.78 percent between 2004 and 2015 from $21,024 to $58,611.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

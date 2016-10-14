@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Wyoming ha
 
 Its lowest-paying jobs include <span class='occ_title_em'>dining room and cafeteria attendants and bartender helpers</span>, <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>, and <span class='occ_title_em'>waiters and waitresses</span>. After adjusting for cost of living, those occupational groups make $19,667,  $19,896, and  $20,863, respectively.
                
-<span class='occ_title_em'>Health diagnosing and treating practitioners, all other</span> have seen the largest decline in wages. Between 2005 and 2015, the adjusted median annual salary dropped from $159,354 to $59,660. That's a change of about -62 percent.
+<span class='occ_title_em'>Health diagnosing and treating practitioners, all other</span> have seen the largest decline in wages. Between 2005 and 2015, the adjusted median annual salary dropped from $165,821 to $62,017. That's a change of about -62 percent.
                
-Meanwhile, <span class='occ_title_em'>optometrists</span> saw the sharpest increase in wages in Wyoming. Income went up 208.92 percent between 1999 and 2015 from $29,587 to $91,400.
+Meanwhile, <span class='occ_title_em'>optometrists</span> saw the sharpest increase in wages in Wyoming. Income went up 208.6 percent between 1999 and 2015 from $30,787 to $95,010.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Delaware h
 
 Its lowest-paying jobs include <span class='occ_title_em'>shampooers</span>, <span class='occ_title_em'>food preparation and serving related workers, all other</span>, and <span class='occ_title_em'>dining room and cafeteria attendants and bartender helpers</span>. After adjusting for cost of living, those occupational groups make $18,264,  $20,001, and  $17,881, respectively.
                
-<span class='occ_title_em'>Personal care and service workers, all other</span> have seen the largest decline in wages. Between 2005 and 2015, the adjusted median annual salary dropped from $62,500 to $19,440. That's a change of about -68 percent.
+<span class='occ_title_em'>Personal care and service workers, all other</span> have seen the largest decline in wages. Between 2005 and 2015, the adjusted median annual salary dropped from $61,275 to $19,078. That's a change of about -68 percent.
                
-Meanwhile, <span class='occ_title_em'>chiropractors</span> saw the sharpest increase in wages in Delaware. Income went up 220.57 percent between 1999 and 2015 from $36,685 to $117,600.
+Meanwhile, <span class='occ_title_em'>chiropractors</span> saw the sharpest increase in wages in Delaware. Income went up 220.88 percent between 1999 and 2015 from $35,966 to $115,407.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

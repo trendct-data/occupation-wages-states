@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Pennsylvan
 
 Its lowest-paying jobs include <span class='occ_title_em'>transportation attendants, except flight attendants</span>, <span class='occ_title_em'>lifeguards, ski patrol, and other recreational protective service workers</span>, and <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>. After adjusting for cost of living, those occupational groups make $19,724,  $19,378, and  $19,256, respectively.
                
-<span class='occ_title_em'>Music directors and composers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $100,743 to $38,650. That's a change of about -61 percent.
+<span class='occ_title_em'>Music directors and composers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $102,589 to $39,358. That's a change of about -61 percent.
                
-Meanwhile, <span class='occ_title_em'>artists and related workers, all other</span> saw the sharpest increase in wages in Pennsylvania. Income went up 175.55 percent between 1999 and 2015 from $22,675 to $62,480.
+Meanwhile, <span class='occ_title_em'>artists and related workers, all other</span> saw the sharpest increase in wages in Pennsylvania. Income went up 175.55 percent between 1999 and 2015 from $23,091 to $63,625.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

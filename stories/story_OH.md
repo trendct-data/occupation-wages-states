@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Ohio has a
 
 Its lowest-paying jobs include <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>, <span class='occ_title_em'>dining room and cafeteria attendants and bartender helpers</span>, and <span class='occ_title_em'>lifeguards, ski patrol, and other recreational protective service workers</span>. After adjusting for cost of living, those occupational groups make $21,803,  $21,567, and  $21,377, respectively.
                
-<span class='occ_title_em'>Stonemasons</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $58,043 to $23,400. That's a change of about -59 percent.
+<span class='occ_title_em'>Stonemasons</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $64,492 to $26,204. That's a change of about -59 percent.
                
-Meanwhile, <span class='occ_title_em'>real estate brokers</span> saw the sharpest increase in wages in Ohio. Income went up 145.19 percent between 2004 and 2015 from $34,521 to $84,640.
+Meanwhile, <span class='occ_title_em'>real estate brokers</span> saw the sharpest increase in wages in Ohio. Income went up 147.11 percent between 2004 and 2015 from $38,356 to $94,782.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

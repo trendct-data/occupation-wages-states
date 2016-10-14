@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Washington
 
 Its lowest-paying jobs include <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>, <span class='occ_title_em'>dining room and cafeteria attendants and bartender helpers</span>, and <span class='occ_title_em'>gaming dealers</span>. After adjusting for cost of living, those occupational groups make $22,688,  $23,574, and  $26,002, respectively.
                
-<span class='occ_title_em'>Real estate brokers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $172,457 to $69,800. That's a change of about -59 percent.
+<span class='occ_title_em'>Real estate brokers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $167,110 to $67,245. That's a change of about -59 percent.
                
-Meanwhile, <span class='occ_title_em'>dentists, all other specialists</span> saw the sharpest increase in wages in Washington. Income went up 151.79 percent between 1999 and 2015 from $70,047 to $176,370.
+Meanwhile, <span class='occ_title_em'>dentists, all other specialists</span> saw the sharpest increase in wages in Washington. Income went up 150.33 percent between 1999 and 2015 from $67,875 to $169,913.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

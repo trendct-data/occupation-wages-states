@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Kansas has
 
 Its lowest-paying jobs include <span class='occ_title_em'>locker room, coatroom, and dressing room attendants</span>, <span class='occ_title_em'>cooks, fast food</span>, and <span class='occ_title_em'>lifeguards, ski patrol, and other recreational protective service workers</span>. After adjusting for cost of living, those occupational groups make $19,911,  $19,481, and  $19,757, respectively.
                
-<span class='occ_title_em'>Forensic science technicians</span> have seen the largest decline in wages. Between 2003 and 2015, the adjusted median annual salary dropped from $155,654 to $44,380. That's a change of about -71 percent.
+<span class='occ_title_em'>Forensic science technicians</span> have seen the largest decline in wages. Between 2003 and 2015, the adjusted median annual salary dropped from $174,304 to $48,931. That's a change of about -71 percent.
                
-Meanwhile, <span class='occ_title_em'>securities, commodities, and financial services sales agents</span> saw the sharpest increase in wages in Kansas. Income went up 124.57 percent between 2012 and 2015 from $39,943 to $89,700.
+Meanwhile, <span class='occ_title_em'>securities, commodities, and financial services sales agents</span> saw the sharpest increase in wages in Kansas. Income went up 121.1 percent between 1999 and 2015 from $44,729 to $98,897.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

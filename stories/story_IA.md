@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Iowa has a
 
 Its lowest-paying jobs include <span class='occ_title_em'>lifeguards, ski patrol, and other recreational protective service workers</span>, <span class='occ_title_em'>gaming dealers</span>, and <span class='occ_title_em'>locker room, coatroom, and dressing room attendants</span>. After adjusting for cost of living, those occupational groups make $19,989,  $19,800, and  $19,723, respectively.
                
-<span class='occ_title_em'>Athletes and sports competitors</span> have seen the largest decline in wages. Between 1999 and 2014, the adjusted median annual salary dropped from $109,771 to $36,540. That's a change of about -66 percent.
+<span class='occ_title_em'>Athletes and sports competitors</span> have seen the largest decline in wages. Between 1999 and 2014, the adjusted median annual salary dropped from $123,896 to $40,465. That's a change of about -67 percent.
                
-Meanwhile, <span class='occ_title_em'>airfield operations specialists</span> saw the sharpest increase in wages in Iowa. Income went up 219.22 percent between 2012 and 2015 from $18,197 to $58,090.
+Meanwhile, <span class='occ_title_em'>airfield operations specialists</span> saw the sharpest increase in wages in Iowa. Income went up 213.21 percent between 2012 and 2015 from $20,539 to $64,330.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

@@ -264,7 +264,12 @@ mega$A_MEAN <- as.numeric(mega$A_MEAN)
 mega$adjusted_A_MEAN <- mega$A_MEAN/mega$adj_value
 mega$A_MEDIAN <- as.numeric(mega$A_MEDIAN)
 mega$adjusted_A_MEDIAN <- mega$A_MEDIAN/mega$adj_value
+
+
+
 mega <- data.frame(mega)
+
+
 for (i in 7:32) {
   mega[,i] <- as.numeric(mega[,i])
 }
@@ -274,10 +279,8 @@ mega$HOURLY <- NULL
 
 
 wages2015 <- read_excel("data/state_M2015_dl.xlsx", sheet=1)
-value100 <- read.csv("data/valueof100.csv", stringsAsFactors=F)
-value100$per_change <- (value100$value100-100)/100
-
 wages2015 <- left_join(wages2015, value100)
+#wages2015 <- left_join(wages2015, value100s)
 
 wages2015$H_MEAN <- as.numeric(wages2015$H_MEAN)
 wages2015$H_MEDIAN <- as.numeric(wages2015$H_MEDIAN)
@@ -373,11 +376,72 @@ mega$OCC_GROUP <- ifelse( (is.na(mega$OCC_GROUP) & grepl("0000", mega$OCC_CODE))
 mega$OCC_GROUP <- ifelse( (is.na(mega$OCC_GROUP) & !grepl("0000", mega$OCC_CODE)), "detailed", mega$OCC_GROUP) 
 #mega$OCC_TITLE <- str_to_title(mega$OCC_TITLE)
 
+# breaking apart the dataframe to rebuild with adjusted figures
+
+value100 <- read.csv("data/valueof100.csv", stringsAsFactors=F)
+value100$per_change <- (value100$value100-100)/100
+value100s <- read.csv("data/price_parities.csv", stringsAsFactors=F)
+value100s$y2008_diff <- 100+((100-value100s$y2008)/value100s$y2008*100)
+value100s$y2009_diff <- 100+((100-value100s$y2009)/value100s$y2009*100)
+value100s$y2010_diff <- 100+((100-value100s$y2010)/value100s$y2010*100)
+value100s$y2011_diff <- 100+((100-value100s$y2011)/value100s$y2011*100)
+value100s$y2012_diff <- 100+((100-value100s$y2012)/value100s$y2012*100)
+value100s$y2013_diff <- 100+((100-value100s$y2013)/value100s$y2013*100)
+value100s$y2014_diff <- 100+((100-value100s$y2014)/value100s$y2014*100)
+value100s$y2008_pc <- (value100s$y2008_diff-100)/100
+value100s$y2009_pc <- (value100s$y2009_diff-100)/100
+value100s$y2010_pc <- (value100s$y2010_diff-100)/100
+value100s$y2011_pc <- (value100s$y2011_diff-100)/100
+value100s$y2012_pc <- (value100s$y2012_diff-100)/100
+value100s$y2013_pc <- (value100s$y2013_diff-100)/100
+value100s$y2014_pc <- (value100s$y2014_diff-100)/100
+
+mega <- left_join(mega, value100s)
+#mega$backup <- ifelse(mega$adjusted_A_MEDIAN==-1, "blah", "nope")
+
+mega$adjusted_A_MEDIAN <- ifelse(mega$YEAR>=2014, mega$adjusted_A_MEDIAN*mega$y2014_pc+mega$adjusted_A_MEDIAN, mega$adjusted_A_MEDIAN)
+mega$adjusted_A_MEDIAN <- ifelse(mega$YEAR==2013, mega$adjusted_A_MEDIAN*mega$y2013_pc+mega$adjusted_A_MEDIAN, mega$adjusted_A_MEDIAN)
+mega$adjusted_A_MEDIAN <- ifelse(mega$YEAR==2012, mega$adjusted_A_MEDIAN*mega$y2012_pc+mega$adjusted_A_MEDIAN, mega$adjusted_A_MEDIAN)
+mega$adjusted_A_MEDIAN <- ifelse(mega$YEAR==2011, mega$adjusted_A_MEDIAN*mega$y2011_pc+mega$adjusted_A_MEDIAN, mega$adjusted_A_MEDIAN)
+mega$adjusted_A_MEDIAN <- ifelse(mega$YEAR==2010, mega$adjusted_A_MEDIAN*mega$y2010_pc+mega$adjusted_A_MEDIAN, mega$adjusted_A_MEDIAN)
+mega$adjusted_A_MEDIAN <- ifelse(mega$YEAR==2009, mega$adjusted_A_MEDIAN*mega$y2009_pc+mega$adjusted_A_MEDIAN, mega$adjusted_A_MEDIAN)
+mega$adjusted_A_MEDIAN <- ifelse(mega$YEAR<=2008, mega$adjusted_A_MEDIAN*mega$y2008_pc+mega$adjusted_A_MEDIAN, mega$adjusted_A_MEDIAN)
+
+mega$adjusted_A_MEAN <- ifelse(mega$YEAR>=2014, mega$adjusted_A_MEAN*mega$y2014_pc+mega$adjusted_A_MEAN, mega$adjusted_A_MEAN)
+mega$adjusted_A_MEAN <- ifelse(mega$YEAR==2013, mega$adjusted_A_MEAN*mega$y2013_pc+mega$adjusted_A_MEAN, mega$adjusted_A_MEAN)
+mega$adjusted_A_MEAN <- ifelse(mega$YEAR==2012, mega$adjusted_A_MEAN*mega$y2012_pc+mega$adjusted_A_MEAN, mega$adjusted_A_MEAN)
+mega$adjusted_A_MEAN <- ifelse(mega$YEAR==2011, mega$adjusted_A_MEAN*mega$y2011_pc+mega$adjusted_A_MEAN, mega$adjusted_A_MEAN)
+mega$adjusted_A_MEAN <- ifelse(mega$YEAR==2010, mega$adjusted_A_MEAN*mega$y2010_pc+mega$adjusted_A_MEAN, mega$adjusted_A_MEAN)
+mega$adjusted_A_MEAN <- ifelse(mega$YEAR==2009, mega$adjusted_A_MEAN*mega$y2009_pc+mega$adjusted_A_MEAN, mega$adjusted_A_MEAN)
+mega$adjusted_A_MEAN <- ifelse(mega$YEAR<=2008, mega$adjusted_A_MEAN*mega$y2008_pc+mega$adjusted_A_MEAN, mega$adjusted_A_MEAN)
+  # 
+# just2015 <- filter(mega, YEAR==2015)
+# just2014 <- filter(mega, YEAR==2014)
+# just2013 <- filter(mega, YEAR==2013)
+# just2012 <- filter(mega, YEAR==2012)
+# just2011 <- filter(mega, YEAR==2011)
+# just2010 <- filter(mega, YEAR==2010)
+# just2009 <- filter(mega, YEAR==2009)
+# just2008 <- filter(mega, YEAR<=2008)
+# 
+# just2015 <- left_join(values)
+# 
+# mega <- rbind(just2008, just2009)
+# mega <- rbind(mega, just2010)
+# mega <- rbind(mega, just2011)
+# mega <- rbind(mega, just2012)
+# mega <- rbind(mega, just2013)
+# mega <- rbind(mega, just2014)
+# mega <- rbind(mega, just2015)
+
 #write.table(mega, "mega_wages.csv", na="")
-write.csv(mega, "mega_wages.csv")
+mega <- mega[,1:34]
+write.csv(mega, "mega_wages2.csv")
+
+
 flat <- readLines("mega_wages.txt")
-flat <- gsub(",NA", ",", flat)
-write(flat, "mega_wages2.csv")
+flat <- gsub(",NA", ",-1", flat)
+write(flat, "mega_wages.csv")
 #  TITLES
 
 

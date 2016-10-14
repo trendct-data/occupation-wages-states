@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, West Virgi
 
 Its lowest-paying jobs include <span class='occ_title_em'>hosts and hostesses, restaurant, lounge, and coffee shop</span>, <span class='occ_title_em'>cooks, fast food</span>, and <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>. After adjusting for cost of living, those occupational groups make $20,968,  $20,732, and  $21,137, respectively.
                
-<span class='occ_title_em'>Curators</span> have seen the largest decline in wages. Between 2005 and 2015, the adjusted median annual salary dropped from $93,756 to $29,760. That's a change of about -68 percent.
+<span class='occ_title_em'>Curators</span> have seen the largest decline in wages. Between 2005 and 2015, the adjusted median annual salary dropped from $107,766 to $33,476. That's a change of about -68 percent.
                
-Meanwhile, <span class='occ_title_em'>judicial law clerks</span> saw the sharpest increase in wages in West Virginia. Income went up 159.9 percent between 2002 and 2015 from $19,935 to $51,810.
+Meanwhile, <span class='occ_title_em'>judicial law clerks</span> saw the sharpest increase in wages in West Virginia. Income went up 158.44 percent between 2002 and 2015 from $22,551 to $58,279.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

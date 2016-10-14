@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Minnesota 
 
 Its lowest-paying jobs include <span class='occ_title_em'>legislators</span>, <span class='occ_title_em'>waiters and waitresses</span>, and <span class='occ_title_em'>gaming dealers</span>. After adjusting for cost of living, those occupational groups make $28,166,  $21,537, and  $20,349, respectively.
                
-<span class='occ_title_em'>Paperhangers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $79,543 to $22,770. That's a change of about -71 percent.
+<span class='occ_title_em'>Paperhangers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $81,666 to $23,330. That's a change of about -71 percent.
                
-Meanwhile, <span class='occ_title_em'>first-line supervisors/managers of fire fighting and prevention workers</span> saw the sharpest increase in wages in Minnesota. Income went up 140.45 percent between 1999 and 2015 from $28,571 to $68,700.
+Meanwhile, <span class='occ_title_em'>first-line supervisors/managers of fire fighting and prevention workers</span> saw the sharpest increase in wages in Minnesota. Income went up 139.96 percent between 1999 and 2015 from $29,334 to $70,389.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Hawaii has
 
 Its lowest-paying jobs include <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>, <span class='occ_title_em'>weighers, measurers, checkers, and samplers, recordkeeping</span>, and <span class='occ_title_em'>shampooers</span>. After adjusting for cost of living, those occupational groups make $19,033,  $19,812, and  $17,432, respectively.
                
-<span class='occ_title_em'>Weighers, measurers, checkers, and samplers, recordkeeping</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $46,343 to $18,900. That's a change of about -59 percent.
+<span class='occ_title_em'>Weighers, measurers, checkers, and samplers, recordkeeping</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $39,240 to $16,182. That's a change of about -58 percent.
                
-Meanwhile, <span class='occ_title_em'>physician assistants</span> saw the sharpest increase in wages in Hawaii. Income went up 168.55 percent between 1999 and 2015 from $34,329 to $92,190.
+Meanwhile, <span class='occ_title_em'>physician assistants</span> saw the sharpest increase in wages in Hawaii. Income went up 171.54 percent between 1999 and 2015 from $29,067 to $78,930.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

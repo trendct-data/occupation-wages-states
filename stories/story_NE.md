@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Nebraska h
 
 Its lowest-paying jobs include <span class='occ_title_em'>bartenders</span>, <span class='occ_title_em'>waiters and waitresses</span>, and <span class='occ_title_em'>lifeguards, ski patrol, and other recreational protective service workers</span>. After adjusting for cost of living, those occupational groups make $22,021,  $21,447, and  $21,701, respectively.
                
-<span class='occ_title_em'>Postsecondary teachers, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $95,225 to $29,360. That's a change of about -69 percent.
+<span class='occ_title_em'>Postsecondary teachers, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $106,159 to $32,406. That's a change of about -69 percent.
                
-Meanwhile, <span class='occ_title_em'>occupational therapist assistants</span> saw the sharpest increase in wages in Nebraska. Income went up 178.41 percent between 2000 and 2015 from $19,486 to $54,250.
+Meanwhile, <span class='occ_title_em'>occupational therapist assistants</span> saw the sharpest increase in wages in Nebraska. Income went up 175.64 percent between 2000 and 2015 from $21,723 to $59,879.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

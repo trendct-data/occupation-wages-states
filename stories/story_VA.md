@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Virginia h
 
 Its lowest-paying jobs include <span class='occ_title_em'>food preparation and serving related workers, all other</span>, <span class='occ_title_em'>cooks, fast food</span>, and <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>. After adjusting for cost of living, those occupational groups make $19,445,  $17,779, and  $17,788, respectively.
                
-<span class='occ_title_em'>Legislators</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $80,123 to $18,270. That's a change of about -77 percent.
+<span class='occ_title_em'>Legislators</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $77,941 to $17,807. That's a change of about -77 percent.
                
-Meanwhile, <span class='occ_title_em'>artists and related workers, all other</span> saw the sharpest increase in wages in Virginia. Income went up 200.2 percent between 1999 and 2015 from $26,612 to $79,890.
+Meanwhile, <span class='occ_title_em'>artists and related workers, all other</span> saw the sharpest increase in wages in Virginia. Income went up 200.78 percent between 1999 and 2015 from $25,888 to $77,865.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

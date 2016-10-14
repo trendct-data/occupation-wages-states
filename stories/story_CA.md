@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, California
 
 Its lowest-paying jobs include <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>, <span class='occ_title_em'>farmworkers and laborers, crop, nursery, and greenhouse</span>, and <span class='occ_title_em'>graders and sorters, agricultural products</span>. After adjusting for cost of living, those occupational groups make $19,903,  $19,173, and  $18,888, respectively.
                
-<span class='occ_title_em'>Athletes and sports competitors</span> have seen the largest decline in wages. Between 1999 and 2014, the adjusted median annual salary dropped from $203,514 to $70,480. That's a change of about -65 percent.
+<span class='occ_title_em'>Athletes and sports competitors</span> have seen the largest decline in wages. Between 1999 and 2014, the adjusted median annual salary dropped from $179,942 to $62,705. That's a change of about -65 percent.
                
-Meanwhile, <span class='occ_title_em'>survey researchers</span> saw the sharpest increase in wages in California. Income went up 135.41 percent between 1999 and 2014 from $24,200 to $56,970.
+Meanwhile, <span class='occ_title_em'>survey researchers</span> saw the sharpest increase in wages in California. Income went up 136.88 percent between 1999 and 2014 from $21,397 to $50,685.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

@@ -6,6 +6,12 @@ library(stringr)
 wages2015 <- read_excel("data/state_M2015_dl.xlsx", sheet=1)
 value100 <- read.csv("data/valueof100.csv", stringsAsFactors=F)
 value100$per_change <- (value100$value100-100)/100
+
+
+
+
+
+
 wages2015$OCC_TITLE <- str_to_lower(wages2015$OCC_TITLE)
 wages2015$OCC_TITLE <- gsub(", general", "", wages2015$OCC_TITLE)
 

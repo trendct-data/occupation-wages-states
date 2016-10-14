@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Illinois h
 
 Its lowest-paying jobs include <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>, <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>, and <span class='occ_title_em'>shampooers</span>. After adjusting for cost of living, those occupational groups make $19,890,  $19,741, and  $20,039, respectively.
                
-<span class='occ_title_em'>Chiropractors</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $133,971 to $54,030. That's a change of about -59 percent.
+<span class='occ_title_em'>Chiropractors</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $133,704 to $53,654. That's a change of about -59 percent.
                
-Meanwhile, <span class='occ_title_em'>court reporters</span> saw the sharpest increase in wages in Illinois. Income went up 211.38 percent between 2001 and 2015 from $18,164 to $56,560.
+Meanwhile, <span class='occ_title_em'>court reporters</span> saw the sharpest increase in wages in Illinois. Income went up 209.83 percent between 2001 and 2015 from $18,128 to $56,167.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

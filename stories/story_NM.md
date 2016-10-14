@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, New Mexico
 
 Its lowest-paying jobs include <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>, <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>, and <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>. After adjusting for cost of living, those occupational groups make $19,326,  $19,031, and  $18,905, respectively.
                
-<span class='occ_title_em'>Massage therapists</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $80,971 to $23,410. That's a change of about -71 percent.
+<span class='occ_title_em'>Massage therapists</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $85,775 to $24,642. That's a change of about -71 percent.
                
-Meanwhile, <span class='occ_title_em'>podiatrists</span> saw the sharpest increase in wages in New Mexico. Income went up 177.59 percent between 2012 and 2015 from $50,805 to $141,030.
+Meanwhile, <span class='occ_title_em'>podiatrists</span> saw the sharpest increase in wages in New Mexico. Income went up 175.84 percent between 2012 and 2015 from $53,819 to $148,453.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

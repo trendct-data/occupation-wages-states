@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Idaho has 
 
 Its lowest-paying jobs include <span class='occ_title_em'>dishwashers</span>, <span class='occ_title_em'>legislators</span>, and <span class='occ_title_em'>hosts and hostesses, restaurant, lounge, and coffee shop</span>. After adjusting for cost of living, those occupational groups make $19,251,  $23,887, and  $19,101, respectively.
                
-<span class='occ_title_em'>Postsecondary teachers, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $64,575 to $19,680. That's a change of about -69 percent.
+<span class='occ_title_em'>Postsecondary teachers, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $67,831 to $21,071. That's a change of about -68 percent.
                
-Meanwhile, <span class='occ_title_em'>purchasing agents and buyers, farm products</span> saw the sharpest increase in wages in Idaho. Income went up 161.99 percent between 2000 and 2015 from $24,371 to $63,850.
+Meanwhile, <span class='occ_title_em'>purchasing agents and buyers, farm products</span> saw the sharpest increase in wages in Idaho. Income went up 167.04 percent between 2000 and 2015 from $25,600 to $68,362.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

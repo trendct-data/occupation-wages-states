@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Maryland h
 
 Its lowest-paying jobs include <span class='occ_title_em'>amusement and recreation attendants</span>, <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>, and <span class='occ_title_em'>gaming service workers, all other</span>. After adjusting for cost of living, those occupational groups make $18,259,  $18,014, and  $21,613, respectively.
                
-<span class='occ_title_em'>Textile, apparel, and furnishings workers, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $60,188 to $27,930. That's a change of about -53 percent.
+<span class='occ_title_em'>Textile, apparel, and furnishings workers, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $54,567 to $25,322. That's a change of about -53 percent.
                
-Meanwhile, <span class='occ_title_em'>artists and related workers, all other</span> saw the sharpest increase in wages in Maryland. Income went up 186.74 percent between 1999 and 2015 from $26,638 to $76,380.
+Meanwhile, <span class='occ_title_em'>artists and related workers, all other</span> saw the sharpest increase in wages in Maryland. Income went up 186.74 percent between 1999 and 2015 from $24,150 to $69,248.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

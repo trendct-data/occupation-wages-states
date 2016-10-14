@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, South Dako
 
 Its lowest-paying jobs include <span class='occ_title_em'>waiters and waitresses</span>, <span class='occ_title_em'>dishwashers</span>, and <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>. After adjusting for cost of living, those occupational groups make $23,205,  $22,285, and  $22,171, respectively.
                
-<span class='occ_title_em'>Securities, commodities, and financial services sales agents</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $111,356 to $60,750. That's a change of about -45 percent.
+<span class='occ_title_em'>Securities, commodities, and financial services sales agents</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $128,143 to $69,034. That's a change of about -46 percent.
                
-Meanwhile, <span class='occ_title_em'>sales engineers</span> saw the sharpest increase in wages in South Dakota. Income went up 103.87 percent between 1999 and 2015 from $74,829 to $152,550.
+Meanwhile, <span class='occ_title_em'>sales engineers</span> saw the sharpest increase in wages in South Dakota. Income went up 101.32 percent between 1999 and 2015 from $86,109 to $173,352.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

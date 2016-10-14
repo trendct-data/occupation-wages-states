@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Oklahoma h
 
 Its lowest-paying jobs include <span class='occ_title_em'>cooks, fast food</span>, <span class='occ_title_em'>arbitrators, mediators, and conciliators</span>, and <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>. After adjusting for cost of living, those occupational groups make $19,679,  $23,408, and  $19,867, respectively.
                
-<span class='occ_title_em'>Real estate brokers</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $90,822 to $24,110. That's a change of about -73 percent.
+<span class='occ_title_em'>Real estate brokers</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $102,162 to $26,759. That's a change of about -73 percent.
                
-Meanwhile, <span class='occ_title_em'>dentists, all other specialists</span> saw the sharpest increase in wages in Oklahoma. Income went up 195.32 percent between 1999 and 2015 from $51,537 to $152,200.
+Meanwhile, <span class='occ_title_em'>dentists, all other specialists</span> saw the sharpest increase in wages in Oklahoma. Income went up 191.39 percent between 1999 and 2015 from $57,971 to $168,923.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

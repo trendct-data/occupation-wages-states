@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Alaska has
 
 Its lowest-paying jobs include <span class='occ_title_em'>education, training, and library workers, all other</span>, <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>, and <span class='occ_title_em'>baggage porters and bellhops</span>. After adjusting for cost of living, those occupational groups make $31,562,  $19,480, and  $19,073, respectively.
                
-<span class='occ_title_em'>Crossing guards</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $64,041 to $24,340. That's a change of about -61 percent.
+<span class='occ_title_em'>Crossing guards</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $59,907 to $23,027. That's a change of about -61 percent.
                
-Meanwhile, <span class='occ_title_em'>education administrators, postsecondary</span> saw the sharpest increase in wages in Alaska. Income went up 111.12 percent between 2001 and 2015 from $53,055 to $112,010.
+Meanwhile, <span class='occ_title_em'>education administrators, postsecondary</span> saw the sharpest increase in wages in Alaska. Income went up 113.52 percent between 2001 and 2015 from $49,630 to $105,970.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Massachuse
 
 Its lowest-paying jobs include <span class='occ_title_em'>cooks, fast food</span>, <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>, and <span class='occ_title_em'>umpires, referees, and other sports officials</span>. After adjusting for cost of living, those occupational groups make $20,439,  $19,384, and  $27,871, respectively.
                
-<span class='occ_title_em'>Material moving workers, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $49,388 to $22,270. That's a change of about -54 percent.
+<span class='occ_title_em'>Material moving workers, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $45,602 to $20,794. That's a change of about -54 percent.
                
-Meanwhile, <span class='occ_title_em'>ship engineers</span> saw the sharpest increase in wages in Massachusetts. Income went up 99.58 percent between 1999 and 2015 from $46,429 to $92,660.
+Meanwhile, <span class='occ_title_em'>ship engineers</span> saw the sharpest increase in wages in Massachusetts. Income went up 101.81 percent between 1999 and 2015 from $42,870 to $86,517.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

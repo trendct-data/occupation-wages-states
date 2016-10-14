@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Michigan h
 
 Its lowest-paying jobs include <span class='occ_title_em'>food preparation and serving related workers, all other</span>, <span class='occ_title_em'>hosts and hostesses, restaurant, lounge, and coffee shop</span>, and <span class='occ_title_em'>combined food preparation and serving workers, including fast food</span>. After adjusting for cost of living, those occupational groups make $21,201,  $20,999, and  $20,967, respectively.
                
-<span class='occ_title_em'>Assemblers and fabricators, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $59,312 to $23,930. That's a change of about -59 percent.
+<span class='occ_title_em'>Assemblers and fabricators, all other</span> have seen the largest decline in wages. Between 2004 and 2015, the adjusted median annual salary dropped from $62,172 to $25,430. That's a change of about -59 percent.
                
-Meanwhile, <span class='occ_title_em'>survey researchers</span> saw the sharpest increase in wages in Michigan. Income went up 150.47 percent between 2000 and 2015 from $23,329 to $58,430.
+Meanwhile, <span class='occ_title_em'>survey researchers</span> saw the sharpest increase in wages in Michigan. Income went up 153.93 percent between 2000 and 2015 from $24,453 to $62,094.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

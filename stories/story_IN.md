@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Indiana ha
 
 Its lowest-paying jobs include <span class='occ_title_em'>makeup artists, theatrical and performance</span>, <span class='occ_title_em'>hosts and hostesses, restaurant, lounge, and coffee shop</span>, and <span class='occ_title_em'>baggage porters and bellhops</span>. After adjusting for cost of living, those occupational groups make $19,606,  $19,913, and  $19,672, respectively.
                
-<span class='occ_title_em'>Legislators</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $37,900 to $19,700. That's a change of about -48 percent.
+<span class='occ_title_em'>Legislators</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $41,557 to $21,554. That's a change of about -48 percent.
                
-Meanwhile, <span class='occ_title_em'>broadcast news analysts</span> saw the sharpest increase in wages in Indiana. Income went up 112.52 percent between 1999 and 2015 from $35,738 to $75,950.
+Meanwhile, <span class='occ_title_em'>broadcast news analysts</span> saw the sharpest increase in wages in Indiana. Income went up 112.06 percent between 1999 and 2015 from $39,186 to $83,096.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

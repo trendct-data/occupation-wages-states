@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 mega_wages.csv
+mega_wages.txt
+mega_wages_blank.csv
+mega_wages_neg.csv

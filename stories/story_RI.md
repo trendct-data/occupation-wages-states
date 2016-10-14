@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Rhode Isla
 
 Its lowest-paying jobs include <span class='occ_title_em'>bartenders</span>, <span class='occ_title_em'>legislators</span>, and <span class='occ_title_em'>waiters and waitresses</span>. After adjusting for cost of living, those occupational groups make $22,108,  $31,247, and  $21,845, respectively.
                
-<span class='occ_title_em'>Farmworkers and laborers, crop, nursery, and greenhouse</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $51,386 to $22,190. That's a change of about -56 percent.
+<span class='occ_title_em'>Farmworkers and laborers, crop, nursery, and greenhouse</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $51,283 to $22,482. That's a change of about -56 percent.
                
-Meanwhile, <span class='occ_title_em'>music directors and composers</span> saw the sharpest increase in wages in Rhode Island. Income went up 102.58 percent between 1999 and 2015 from $27,466 to $55,640.
+Meanwhile, <span class='occ_title_em'>music directors and composers</span> saw the sharpest increase in wages in Rhode Island. Income went up 105.66 percent between 1999 and 2015 from $27,411 to $56,373.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

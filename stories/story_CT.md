@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Connecticu
 
 Its lowest-paying jobs include <span class='occ_title_em'>waiters and waitresses</span>, <span class='occ_title_em'>dining room and cafeteria attendants and bartender helpers</span>, and <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>. After adjusting for cost of living, those occupational groups make $21,158,  $18,897, and  $18,970, respectively.
                
-<span class='occ_title_em'>Graduate teaching assistants</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $57,589 to $20,020. That's a change of about -65 percent.
+<span class='occ_title_em'>Graduate teaching assistants</span> have seen the largest decline in wages. Between 2000 and 2015, the adjusted median annual salary dropped from $52,023 to $18,401. That's a change of about -64 percent.
                
-Meanwhile, <span class='occ_title_em'>athletes and sports competitors</span> saw the sharpest increase in wages in Connecticut. Income went up 120.2 percent between 1999 and 2015 from $27,357 to $60,240.
+Meanwhile, <span class='occ_title_em'>athletes and sports competitors</span> saw the sharpest increase in wages in Connecticut. Income went up 124.04 percent between 1999 and 2015 from $24,713 to $55,368.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

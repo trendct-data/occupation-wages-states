@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Texas has 
 
 Its lowest-paying jobs include <span class='occ_title_em'>models</span>, <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>, and <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>. After adjusting for cost of living, those occupational groups make $25,000,  $19,224, and  $20,984, respectively.
                
-<span class='occ_title_em'>Models</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $42,086 to $18,140. That's a change of about -56 percent.
+<span class='occ_title_em'>Models</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $43,612 to $18,778. That's a change of about -56 percent.
                
-Meanwhile, <span class='occ_title_em'>real estate brokers</span> saw the sharpest increase in wages in Texas. Income went up 153.46 percent between 1999 and 2015 from $30,151 to $76,420.
+Meanwhile, <span class='occ_title_em'>real estate brokers</span> saw the sharpest increase in wages in Texas. Income went up 153.2 percent between 1999 and 2015 from $31,244 to $79,110.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

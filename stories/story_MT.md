@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Montana ha
 
 Its lowest-paying jobs include <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>, <span class='occ_title_em'>lifeguards, ski patrol, and other recreational protective service workers</span>, and <span class='occ_title_em'>gaming dealers</span>. After adjusting for cost of living, those occupational groups make $20,606,  $20,722, and  $19,512, respectively.
                
-<span class='occ_title_em'>Psychology teachers, postsecondary</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $86,257 to $19,150. That's a change of about -77 percent.
+<span class='occ_title_em'>Psychology teachers, postsecondary</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $90,511 to $20,329. That's a change of about -77 percent.
                
-Meanwhile, <span class='occ_title_em'>dentists, general</span> saw the sharpest increase in wages in Montana. Income went up 141.94 percent between 1999 and 2015 from $53,512 to $129,470.
+Meanwhile, <span class='occ_title_em'>dentists, general</span> saw the sharpest increase in wages in Montana. Income went up 144.77 percent between 1999 and 2015 from $56,152 to $137,442.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

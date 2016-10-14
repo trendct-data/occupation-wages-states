@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, North Caro
 
 Its lowest-paying jobs include <span class='occ_title_em'>shampooers</span>, <span class='occ_title_em'>cooks, fast food</span>, and <span class='occ_title_em'>ushers, lobby attendants, and ticket takers</span>. After adjusting for cost of living, those occupational groups make $20,032,  $19,509, and  $19,389, respectively.
                
-<span class='occ_title_em'>Gaming dealers</span> have seen the largest decline in wages. Between 2003 and 2015, the adjusted median annual salary dropped from $38,346 to $17,500. That's a change of about -54 percent.
+<span class='occ_title_em'>Gaming dealers</span> have seen the largest decline in wages. Between 2003 and 2015, the adjusted median annual salary dropped from $41,681 to $19,084. That's a change of about -54 percent.
                
-Meanwhile, <span class='occ_title_em'>tank car, truck, and ship loaders</span> saw the sharpest increase in wages in North Carolina. Income went up 152.48 percent between 1999 and 2015 from $26,886 to $67,880.
+Meanwhile, <span class='occ_title_em'>tank car, truck, and ship loaders</span> saw the sharpest increase in wages in North Carolina. Income went up 153.3 percent between 1999 and 2015 from $29,224 to $74,024.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

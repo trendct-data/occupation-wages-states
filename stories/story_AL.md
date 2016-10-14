@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Alabama ha
 
 Its lowest-paying jobs include <span class='occ_title_em'>substitute teachers</span>, <span class='occ_title_em'>hosts and hostesses, restaurant, lounge, and coffee shop</span>, and <span class='occ_title_em'>cooks, fast food</span>. After adjusting for cost of living, those occupational groups make $20,126,  $20,331, and  $20,092, respectively.
                
-<span class='occ_title_em'>Postsecondary teachers, all other</span> have seen the largest decline in wages. Between 2004 and 2014, the adjusted median annual salary dropped from $50,900 to $19,010. That's a change of about -62 percent.
+<span class='occ_title_em'>Postsecondary teachers, all other</span> have seen the largest decline in wages. Between 2004 and 2014, the adjusted median annual salary dropped from $58,105 to $21,651. That's a change of about -62 percent.
                
-Meanwhile, <span class='occ_title_em'>private detectives and investigators</span> saw the sharpest increase in wages in Alabama. Income went up 238.89 percent between 1999 and 2015 from $19,171 to $64,970.
+Meanwhile, <span class='occ_title_em'>private detectives and investigators</span> saw the sharpest increase in wages in Alabama. Income went up 238.12 percent between 1999 and 2015 from $21,885 to $73,998.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 

@@ -23,9 +23,9 @@ So after adjusting for the actual value of a dollar in a given state, Oregon has
 
 Its lowest-paying jobs include <span class='occ_title_em'>hosts and hostesses, restaurant, lounge, and coffee shop</span>, <span class='occ_title_em'>cooks, fast food</span>, and <span class='occ_title_em'>dining room and cafeteria attendants and bartender helpers</span>. After adjusting for cost of living, those occupational groups make $21,515,  $21,343, and  $21,071, respectively.
                
-<span class='occ_title_em'>Chiropractors</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $146,600 to $59,260. That's a change of about -59 percent.
+<span class='occ_title_em'>Chiropractors</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $149,135 to $59,859. That's a change of about -59 percent.
                
-Meanwhile, <span class='occ_title_em'>athletes and sports competitors</span> saw the sharpest increase in wages in Oregon. Income went up 149.1 percent between 1999 and 2015 from $19,836 to $49,410.
+Meanwhile, <span class='occ_title_em'>athletes and sports competitors</span> saw the sharpest increase in wages in Oregon. Income went up 147.34 percent between 1999 and 2015 from $20,179 to $49,909.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
