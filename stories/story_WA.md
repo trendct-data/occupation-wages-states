@@ -4,14 +4,14 @@
 
 In Washington, there are about 3 million full-time workers based on 2015 data.
 
-The largest major job category in the state was <span class='occ_title_em'>office and administrative support occupations</span> (about 14.17 percent). Using narrower job descriptions, <span class='occ_title_em'>retail salespersons</span> were the largest category at 3.55 percent.
+The largest major job category in the state was <span class='occ_title_em state'>office and administrative support occupations</span> (about 14.17 percent). Using narrower job descriptions, <span class='occ_title_em state'>retail salespersons</span> were the largest category at 3.55 percent.
                
-The annual median pay ranges from $19,181 for <span class='occ_title_em'>forest and conservation workers</span> at the lowest end of the spectrum to  $174,847 for <span class='occ_title_em'>pediatricians</span> at the highest. That's a gap of $155,666. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em'>anesthesiologists and psychiatric aides</span>.
+The annual median pay ranges from $19,181 for <span class='occ_title_em state'>forest and conservation workers</span> at the lowest end of the spectrum to  $174,847 for <span class='occ_title_em state'>pediatricians</span> at the highest. That's a gap of $155,666. Mississippi has the largest gap in the country of $193,000 between <span class='occ_title_em state'>anesthesiologists and psychiatric aides</span>.
           
 Credentials, experience, and skill contribute to the differences in pay within a given occupation.
 
 ## Best paid jobs
-Washington's highest paid jobs include <span class='occ_title_em'>chief executives, dentists, all other specialists</span>, and <span class='occ_title_em'>nurse anesthetists</span>.
+Washington's highest paid jobs include <span class='occ_title_em state'>chief executives, dentists, all other specialists</span>, and <span class='occ_title_em state'>nurse anesthetists</span>.
                
 About 44 occupations in Washington have the highest median annual pay compared to the other states in the country. Out of 784 specific occupations, that's 4 percent of all jobs with the highest pay categorized by the Bureau of Labor Statistics.
                
@@ -21,15 +21,15 @@ So after adjusting for the actual value of a dollar in a given state, Washington
                
 ## Worst paid jobs
 
-Its lowest-paying jobs include <span class='occ_title_em'>counter attendants, cafeteria, food concession, and coffee shop</span>, <span class='occ_title_em'>dining room and cafeteria attendants and bartender helpers</span>, and <span class='occ_title_em'>gaming dealers</span>. After adjusting for cost of living, those occupational groups make $22,688,  $23,574, and  $26,002, respectively.
+Its lowest-paying jobs include <span class='occ_title_em state'>counter attendants, cafeteria, food concession, and coffee shop</span>, <span class='occ_title_em state'>dining room and cafeteria attendants and bartender helpers</span>, and <span class='occ_title_em state'>gaming dealers</span>. After adjusting for cost of living, those occupational groups make $22,688,  $23,574, and  $26,002, respectively.
                
-<span class='occ_title_em'>Real estate brokers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $167,110 to $67,245. That's a change of about -59 percent.
+<span class='occ_title_em state'>Real estate brokers</span> have seen the largest decline in wages. Between 1999 and 2015, the adjusted median annual salary dropped from $167,110 to $67,245. That's a change of about -59 percent.
                
-Meanwhile, <span class='occ_title_em'>dentists, all other specialists</span> saw the sharpest increase in wages in Washington. Income went up 150.33 percent between 1999 and 2015 from $67,875 to $169,913.
+Meanwhile, <span class='occ_title_em state'>dentists, all other specialists</span> saw the sharpest increase in wages in Washington. Income went up 150.33 percent between 1999 and 2015 from $67,875 to $169,913.
 
 Some occupations are markedly competitive, with fewer workers earning more. Local demand for the work and cost of living also can affect salaries.
 
             
-The biggest decline for any job category in Washington was among <span class='occ_title_em'>helpers, construction trades, all other</span>. In 2004, there were 1,470 employees. But by 2015, that figure declined 94.56 percent to 80. 
+The biggest decline for any job category in Washington was among <span class='occ_title_em state'>helpers, construction trades, all other</span>. In 2004, there were 1,470 employees. But by 2015, that figure declined 94.56 percent to 80. 
                
 The jobs that had gained the most employees was slaughterers and meat packers. There were 3,967 percent more workers in 2015 as compared to 2004. Overall, the total number of workers grew from 30 to 1,220 in Washington.
