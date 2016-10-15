@@ -2,53 +2,6 @@ library(stringr)
 library(lubridate)
 library(readxl)
 library(dplyr)
-# 
-# w1997 <-read_excel("data/state_M1997_dl.xls", sheet=1, skip=39)
-# 
-# colnames(w1997) <- w1997[1,]
-# w1997 <- w1997[2:65496,]
-# w1997 <- subset(w1997, !is.na(state))
-# 
-# colnames(w1997) <- str_to_upper(colnames(w1997))
-# colnames(w1997) <- gsub("WPCT", "PCT", colnames(w1997))
-# colnames(w1997)[colnames(w1997) == 'GROUP'] <- 'OCC_GROUP'
-# colnames(w1997)[colnames(w1997) == 'OCC_TITL'] <- 'OCC_TITLE'
-# w1997$JOBS_1000 <- 0
-# w1997$JOBS_1000 [w1997$JOBS_1000 ==0] <- NA
-# w1997$LOC_Q <- 0
-# w1997$LOC_Q [w1997$LOC_Q ==0] <- NA
-# w1997$ANNUAL <- ""
-# w1997$ANNUAL [w1997$ANNUAL ==""] <- NA
-# w1997$HOURLY <- ""
-# w1997$HOURLY [w1997$HOURLY ==""] <- NA
-# w1997$YEAR <- 1997
-# w1997 <- w1997[c("AREA", "ST", "STATE", "OCC_CODE", "OCC_TITLE", "OCC_GROUP", "TOT_EMP",  
-#                  "EMP_PRSE","JOBS_1000","LOC_Q","H_MEAN","A_MEAN","MEAN_PRSE","H_PCT10",  
-#                  "H_PCT25","H_MEDIAN","H_PCT75","H_PCT90","A_PCT10","A_PCT25","A_MEDIAN", 
-#                  "A_PCT75","A_PCT90","ANNUAL","HOURLY","YEAR")]
-# 
-# w1998 <-read_excel("data/state_M1998_dl.xls", sheet=1, skip=40)
-# 
-# colnames(w1998) <- w1998[1,]
-# w1998 <- w1998[2:35701,]
-# w1998 <- subset(w1998, !is.na(state))
-# colnames(w1998) <- str_to_upper(colnames(w1998))
-# colnames(w1998) <- gsub("WPCT", "PCT", colnames(w1998))
-# colnames(w1998)[colnames(w1998) == 'GROUP'] <- 'OCC_GROUP'
-# colnames(w1998)[colnames(w1998) == 'OCC_TITL'] <- 'OCC_TITLE'
-# w1998$JOBS_1000 <- 0
-# w1998$JOBS_1000 [w1998$JOBS_1000 ==0] <- NA
-# w1998$LOC_Q <- 0
-# w1998$LOC_Q [w1998$LOC_Q ==0] <- NA
-# w1998$ANNUAL <- ""
-# w1998$ANNUAL [w1998$ANNUAL ==""] <- NA
-# w1998$HOURLY <- ""
-# w1998$HOURLY [w1998$HOURLY ==""] <- NA
-# w1998$YEAR <- 1998
-# w1998 <- w1998[c("AREA", "ST", "STATE", "OCC_CODE", "OCC_TITLE", "OCC_GROUP", "TOT_EMP",  
-#                  "EMP_PRSE","JOBS_1000","LOC_Q","H_MEAN","A_MEAN","MEAN_PRSE","H_PCT10",  
-#                  "H_PCT25","H_MEDIAN","H_PCT75","H_PCT90","A_PCT10","A_PCT25","A_MEDIAN", 
-#                  "A_PCT75","A_PCT90","ANNUAL","HOURLY","YEAR")]
 
 w1999 <-read_excel("data/state_M1999_dl.xls", sheet=1, skip=42)
 
@@ -246,6 +199,8 @@ mega <- rbind(w2015, w2014, w2013, w2012, w2011, w2010, w2009, w2008, w2007,
               w2006, w2005, w2004, w2003, w2002, w2001, w2000, w1999)
 
 library(blscrapeR)
+#set_bls_key("YOUR_KEY_IN_QUOTATIONS")
+
 df <- bls_api("CUSR0000SA0")
 head(df)
 
@@ -436,14 +391,33 @@ mega$adjusted_A_MEAN <- ifelse(mega$YEAR<=2008, mega$adjusted_A_MEAN*mega$y2008_
 
 #write.table(mega, "mega_wages.csv", na="")
 mega <- mega[,1:34]
-write.csv(mega, "mega_wages2.csv")
+#write.csv(mega, "mega_wages2.csv")
 
 
-flat <- readLines("mega_wages.txt")
-flat <- gsub(",NA", ",-1", flat)
-write(flat, "mega_wages.csv")
+#flat <- readLines("mega_wages.txt")
+#flat <- gsub(",NA", ",-1", flat)
+#write(flat, "mega_wages.csv")
+
+
 #  TITLES
 
+w2015_titles <- w2015[c("OCC_CODE", "OCC_TITLE")]
+w2014_titles <- w2014[c("OCC_CODE", "OCC_TITLE")]
+w2013_titles <- w2013[c("OCC_CODE", "OCC_TITLE")]
+w2012_titles <- w2012[c("OCC_CODE", "OCC_TITLE")]
+w2011_titles <- w2011[c("OCC_CODE", "OCC_TITLE")]
+w2010_titles <- w2010[c("OCC_CODE", "OCC_TITLE")]
+w2009_titles <- w2009[c("OCC_CODE", "OCC_TITLE")]
+w2008_titles <- w2008[c("OCC_CODE", "OCC_TITLE")]
+w2007_titles <- w2007[c("OCC_CODE", "OCC_TITLE")]
+w2006_titles <- w2006[c("OCC_CODE", "OCC_TITLE")]
+w2005_titles <- w2005[c("OCC_CODE", "OCC_TITLE")]
+w2004_titles <- w2004[c("OCC_CODE", "OCC_TITLE")]
+w2003_titles <- w2003[c("OCC_CODE", "OCC_TITLE")]
+w2002_titles <- w2002[c("OCC_CODE", "OCC_TITLE")]
+w2001_titles <- w2001[c("OCC_CODE", "OCC_TITLE")]
+w2000_titles <- w2000[c("OCC_CODE", "OCC_TITLE")]
+w1999_titles <- w1999[c("OCC_CODE", "OCC_TITLE")]
 
 titles <- rbind(w1999_titles, w2000_titles, w2001_titles, w2002_titles, w2003_titles,
                 w2004_titles, w2005_titles, w2006_titles, w2007_titles, w2008_titles,
@@ -460,4 +434,4 @@ titles <- titles %>%
 titles$OCC_TITLE <-   str_to_lower(titles$OCC_TITLE)
 titles$OCC_TITLE <- paste(toupper(substr(titles$OCC_TITLE, 1, 1)), substr(titles$OCC_TITLE, 2, nchar(titles$OCC_TITLE)), sep="")
 
-write.csv(titles, "titles.csv")
+#write.csv(titles, "titles.csv")

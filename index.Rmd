@@ -1,0 +1,127 @@
+---
+title: "Adjusting income for inflation and cost of living"
+author: "Andrew Ba Tran"
+date: "October 14, 2016"
+output: html_document
+---
+
+This walkthrough explains the methodology behind adjusting income in the Trend CT story [Would your job make you better or worse off in another state?](http://occupation.trendct.org/)
+
+The data: 
+
+* The annual median wage data comes from the Bureau of Labor Statistic's Employment and Wages from Occupational Employment Statistics (OES) [survey](http://stats.bls.gov/oes/). The data [goes back](http://www.bls.gov/oes/tables.htm) to 1988 but occupation codes changed around 1999, so started there to keep things as "apples to apples"" as possible.
+* The inflation data is also from the Bureau of Labor Statistics' Consumer Price [index](http://www.bls.gov/cpi/).
+* State-to-state cost of living adjustments was made by determining the relative value of $100 based on Bureau of Economic Analysis' Regional Price Parities for the [years available](http://www.bea.gov/newsreleases/regional/rpp/rpp_newsrelease.htm): 2008-2014.
+
+
+## Loading the libraries
+
+```{r setup, message=F, warning=F}
+library(knitr)
+library(lubridate)
+library(dplyr)
+library(blscrapeR)
+```
+
+## Loading the data
+
+The BLS has their annual data in Excel spreadheets, which varies in structure year to year.
+
+So it took some custom cleaning for each spreadsheet. 
+
+If you want to see the specifics behind that, check out the `compiler.R` script. But it essentially creates two dataframes: `mega` and `titles`.
+
+```{r data, message=F, warning=F}
+mega <- readRDS("data/mega.rds")
+titles <- read.csv("data/titles_codes_clean.csv")
+kable(head(mega[,1:7]))
+kable(head(titles))
+
+## These are the column names of the combined BLS OES dataframe (also with some additional adjustments and rankings done in the compiler.R script)
+
+colnames(mega)
+
+## And how many years did we end up with?
+
+range(mega$YEAR)
+
+##  Let's take a look at some of the raw figures for median annual pay
+
+raw_pay <- mega[c("STATE", "OCC_TITLE", "YEAR", "A_MEDIAN")]
+
+## And look at a sampling of 2008 data
+
+raw_tail <- subset(raw_pay, YEAR==2008)
+raw_tail <- tail(raw_pay, 10)
+kable(raw_tail)
+
+## OK, let's adjust for inflation
+
+## We'll use the blscrapeR package which is a wrapper for the BLS API.
+### Here's the documentation https://cran.r-project.org/web/packages/blscrapeR/README.html
+
+
+## This function pulls annual inflation rates compared to 2015
+df <- inflation_adjust(2015)
+
+kable(head(df))
+
+## Adding a column specifically for year
+df$year <- year(df$date)
+
+## Narrowing down the dataframe
+df <- df[c("adj_value", "pct_increase", "year")]
+
+## Renaming the dataframe
+colnames(df) <- c("adj_value", "pct_increase", "YEAR")
+
+## Let's join it to our sample data frame
+
+raw_tail <- left_join(raw_tail, df)
+
+kable(raw_tail)
+
+## What's the median pay adjusted for inflation? 
+
+raw_tail$inflation_A_MEDIAN <- raw_tail$A_MEDIAN/raw_tail$adj_value
+
+kable(raw_tail)
+
+## So we know what the 1999 salaries were in 2015 dollars. 
+
+## Next, let's adjust for power of the dollar in Wyoming compared to other states
+
+value100s  <- read.csv("data/price_parities.csv", stringsAsFactors=F)
+
+kable(head(value100s, 10))
+
+## This is the regional price parity by state of $100
+
+## Let's translate that to the how much $100 is worth in each state (Only for 2008)
+
+value100s <- value100s[c("STATE", "y2008")]
+kable(head(value100s))
+```
+
+```{r uh}
+value100s$y2008_value <- 100+((100-value100s$y2008)/value100s$y2008*100)
+value100s$y2008_percentchange <- (value100s$y2008_value-100)/100
+
+kable(head(value100s, 10))
+```
+## Alright, lets join that to the inflation-adjusted dataframe from earlier
+```{r}
+raw_tail <- left_join(raw_tail, value100s)
+
+kable(head(raw_tail, 10))
+
+## And one more calculation to apply the price parity to Wyoming
+
+raw_tail$adjusted_A_MEDIAN <- raw_tail$inflation_A_MEDIAN*raw_tail$y2008_percentchange+raw_tail$inflation_A_MEDIAN
+raw_tail <- raw_tail[c("STATE", "OCC_TITLE", "YEAR", "A_MEDIAN", "inflation_A_MEDIAN", "adjusted_A_MEDIAN")]
+kable(head(raw_tail, 10))
+
+## So this is the process we took to determine the *actual* salary adjusting for year and state.
+
+```
+
