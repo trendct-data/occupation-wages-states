@@ -1,3 +1,16 @@
+## What's in this data folder
+
+
+This is the data behind the TrendCT.org story: [Would your job make you better or worse off in another state?](http://occupation.trendct.org/)
+
+### The Data
+
+* The annual median wage data comes from the Bureau of Labor Statistic's Employment and Wages from Occupational Employment Statistics (OES) [survey](http://stats.bls.gov/oes/). The data [goes back](http://www.bls.gov/oes/tables.htm) to 1988 but occupation codes changed around 1999, so started there to keep things as "apples to apples"" as possible.
+* The inflation data is also from the Bureau of Labor Statistics' Consumer Price [index](http://www.bls.gov/cpi/).
+* State-to-state cost of living adjustments was made by determining the relative value of $100 based on Bureau of Economic Analysis' Regional Price Parities for the [years available](http://www.bea.gov/newsreleases/regional/rpp/rpp_newsrelease.htm): 2008-2014.
+
+-----
+
 |  column_name | definition |
 |  ------ | ------ |
 |  prim_state | Primary state for the MSA (only on MSA and nonmetropolitan files) |

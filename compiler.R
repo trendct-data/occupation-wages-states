@@ -202,7 +202,7 @@ library(blscrapeR)
 #set_bls_key("YOUR_KEY_IN_QUOTATIONS")
 
 df <- bls_api("CUSR0000SA0")
-head(df)
+#head(df)
 
 df <- inflation_adjust(2015)
 df$year <- year(df$date)

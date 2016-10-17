@@ -76,8 +76,9 @@ wages2015 <- left_join(wages2015, wages2015b_adjusted)
 
 #mega <- read.csv("mega_wages.csv", stringsAsFactors=F)
 
-state_abbr<-"TX"
-state_occ <-"Editors"
+#state_abbr<-"TX"
+
+#state_occ <-"Editors"
 state_wages <- subset(wages2015, ST==state_abbr)
 state_name <- unique(state_wages$STATE)
 total_emp <-  subset(state_wages, OCC_TITLE=="All Occupations")
